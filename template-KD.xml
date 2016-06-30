@@ -42,7 +42,8 @@
 <b:if cond='data:blog.postImageThumbnailUrl'>
 <link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
 </b:if></b:if>
-<link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://2.bp.blogspot.com/-PueJ1tSMjUU/Vk7bY7wDg9I/AAAAAAAAGb0/uZyW0sn7itw/s1600/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://3.bp.blogspot.com/-UC5RARuMYc4/Vk7bY3vyEUI/AAAAAAAAGbw/Kmpu0Xutv88/s1600/animated_favicon1.gif' rel='icon' type='image/gif'/>
 <link href='https://plus.google.com/xxxxx/posts' rel='publisher'/>
 <link href='https://plus.google.com/xxxxx/about' rel='author'/>
 <link href='https://plus.google.com/xxxxx' rel='me'/>
