@@ -484,8 +484,8 @@ span.post-author.vcard {visibility:hidden;width:0;height:0;}
 .comment_avatar_wrap{border-radius:10%;width:46px;height:46px;border:none;background:none;text-align:center;padding:0;overflow:hidden;}
 #comments .comment_avatar {border-radius:10%;width:46px;height:46px;max-width:46px;max-height:46px;background:#f9f9f9;padding:4px;text-align:center;position:absolute;top:0;left:0;overflow:hidden;}
 #comments .comment_admin .comment_avatar{border-radius:10%;width:46px;height:46px;max-width:46px;max-height:46px;padding:4px;text-align:center;position:absolute;top:0;left:0;overflow:hidden;}
-#comments .comment_avatar img {border-radius:10%;width:46px;height:46px;max-width:46px;max-height: 46px;background:url(https://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
-.comment_avatar img{border-radius:10%;width:46px;height:46px;background:url(https://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
+#comments .comment_avatar img {border-radius:10%;width:46px;height:46px;max-width:46px;max-height: 46px;background:url(http://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
+.comment_avatar img{border-radius:10%;width:46px;height:46px;background:url(http://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
 .comment_name a{font-weight:700;font-size:15px;padding:5px 0;color:#666;text-decoration:none}
 .comment_child .comment_name a{color:#666;}
 .comment_child .comment_name a:hover {color:#4db2ec;}
@@ -519,7 +519,7 @@ font-size:11px;margin:0;padding:2px 6px 4px 6px;border-radius:2px;border:1px sol
 .comment_reply:hover{text-decoration:none!important;background:#fff;color:#6991d8!important;border-color:#7fa8f0;}
 .comment-form{width:100%;max-width:100%;margin-bottom:10px;padding:0;}
 .comment_form a{text-decoration:none;text-transform:uppercase;font-weight:700;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#666}
-#comment-editor{width:103%!important;background:url(&#39;https://4.bp.blogspot.com/-jSUS8v5kwpQ/U8Z_6Ufr-PI/AAAAAAAAEYY/o4cQPKvt8vQ/s1600/loading.gif&#39;) no-repeat 50% 25%;position:relative;margin-left:-8px;margin-top:-15px}
+#comment-editor{width:103%!important;background:url(&#39;http://4.bp.blogspot.com/-jSUS8v5kwpQ/U8Z_6Ufr-PI/AAAAAAAAEYY/o4cQPKvt8vQ/s1600/loading.gif&#39;) no-repeat 50% 25%;position:relative;margin-left:-8px;margin-top:-15px}
 .comment-form p{position:relative;background:#fdfdfd;color:#999;font-size:14px;font-family:&#39;Open Sans&#39;,Helvetica,Arial,sans-serif;line-height:1.5em;margin-bottom:20px;padding:15px;border:1px solid #e3e3e3}
 .comment-form p:after, .comment-form p:before {top:100%;left:8%;border:solid transparent;content:&quot; &quot;;height:0;width:0;position:absolute;pointer-events:none;}
 .comment-form p:after {border-color:rgba(68,68,68,0);border-top-color:#fdfdfd;border-width:9px;margin-left:-9px;}
@@ -553,7 +553,7 @@ span.small-button1 {text-align:left;display:inline-block;}
 .sidebar-inner {padding:15px 0;}
 .sidebar .widget-content,.sidebar-two .widget-content {padding:15px 0;}
 .sidebar h2,.sidebar-two h2,.sidebar h3,.sidebar-two h3{overflow:hidden;position:relative;font-family:&#39;Roboto Condensed&#39;;font-size:16px;font-weight:700;padding:10px 0;margin:0;text-transform:uppercase;display:block;background:#fff;border-bottom:2px solid #444;transition:All .3s ease-out}
-.sidebar h2:after,.sidebar-two h2:after,.sidebar h3:after,.sidebar-two h3:after{content:&#39;&#39;;display:inline-block;position:absolute;height:14px;top:0;margin:12px 0 12px 10px;width:100%;background:url(https://4.bp.blogspot.com/-R2WTW6O9E1o/VX7dqIGT1eI/AAAAAAAACc4/pyvQDMMLX3E/s1600/repeat-bg.png)repeat}
+.sidebar h2:after,.sidebar-two h2:after,.sidebar h3:after,.sidebar-two h3:after{content:&#39;&#39;;display:inline-block;position:absolute;height:14px;top:0;margin:12px 0 12px 10px;width:100%;background:url(http://4.bp.blogspot.com/-R2WTW6O9E1o/VX7dqIGT1eI/AAAAAAAACc4/pyvQDMMLX3E/s1600/repeat-bg.png)repeat}
 .vita-list h2, .vita-list h3{font-family:&#39;Roboto Condensed&#39;;font-size:16px;font-weight:400;color:#444;padding:0;text-transform:uppercase;display:block;background:#fff;transition:All 0.3s ease-out;}
 .sidebar .widget,.sidebar-two .widget {background:#fff;margin:0 0 15px;}
 .sidebar ul, .sidebar ol,.sidebar-two ul, .sidebar-two ol {list-style-type:none;margin:0;padding:15px 0;padding-top:5px;}
