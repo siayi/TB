@@ -1186,8 +1186,8 @@ var thumb_width = 350;
 var thumb_height = 210;
 var thumb_width2 = 110;
 var thumb_height2 = 110;
-var no_thumb = &#39;https://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
-var no_thumb2 = &#39;https://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
+var no_thumb = &#39;http://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
+var no_thumb2 = &#39;http://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
 </script>
 <script type='text/javascript'>
 //<![CDATA[
