@@ -1196,7 +1196,6 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </script>
 </b:if>
 </b:if>
-<meta content='Da0jqX3eYAMTIQncNDM9_sHlDnT0ROraFLFKN9dmm0w' name='google-site-verification'/>
 </head>
 <body> 
 <b:if cond='data:blog.pageType == &quot;error_page&quot;'>
