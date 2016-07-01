@@ -84,7 +84,7 @@
 <b:if cond='data:blog.metaDescription'>
 <meta expr:content='data:blog.metaDescription' property='og:description'/>
 <b:else/>
-<meta content='Keuangan Desa (KD) Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa  menyediakan informasi khusus seputar pengelolaan keuangan desa. memadukan konsep, standar, terapan, studi kasus, panduan berita terkini  keuangan desa' property='og:description'/>
+<meta content='Keuangan Desa (KD) Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa menyediakan informasi khusus seputar pengelolaan keuangan desa. Memadukan konsep, standar, terapan, studi kasus, panduan, berita terkini  keuangan desa' property='og:description'/>
 </b:if>
 <meta expr:content='data:blog.title' property='og:site_name'/>
 <meta content='1925540971005322' property='fb:app_id'/>
