@@ -1333,14 +1333,14 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <ul class='nav vienna-mainmenu'>
 <li><a class='active' href='/'><span itemprop='name'><i class='fa fa-home'/> Home</span></a></li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
-<ul>
+<!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 2</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 3</span></a></li>
-</ul>
+</ul>-->
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
-<ul>
+<!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>A1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>A2</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>A3</span></a>
@@ -1351,10 +1351,10 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <li><a href='#' itemprop='url'><span itemprop='name'>A3.1</span></a></li>
 </ul>
 </li>
-</ul>
+</ul>-->
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
-<ul>
+<!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 2</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3</span></a>
@@ -1365,10 +1365,10 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3.4</span></a></li>
 </ul>
 </li>
-</ul>
+</ul>-->
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
-<ul>
+<!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Menengah</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan</span></a>
@@ -1379,7 +1379,21 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 4</span></a></li>
 </ul>
 </li>
+</ul>-->
+</li>
+<li><a href='http://keuangandesa.blogspot.co.id/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
+<!--<ul>
+<li><a href='#' itemprop='url'><span itemprop='name'>UU</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>PP</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan</span></a>
+<ul>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 2</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 3</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 4</span></a></li>
 </ul>
+</li>
+</ul> -->
 </li>
 <!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Error Page</span></a></li>-->
