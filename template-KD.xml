@@ -84,7 +84,7 @@
 <b:if cond='data:blog.metaDescription'>
 <meta expr:content='data:blog.metaDescription' property='og:description'/>
 <b:else/>
-<meta content='Keuangan Desa (KD) Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa menyediakan informasi khusus seputar pengelolaan keuangan desa. Memadukan konsep, standar, terapan, studi kasus, panduan, berita terkini  keuangan desa' property='og:description'/>
+<meta content='Keuangan Desa (KD) Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa  menyediakan informasi khusus seputar pengelolaan keuangan desa. memadukan konsep, standar, terapan, studi kasus, panduan berita terkini  keuangan desa' property='og:description'/>
 </b:if>
 <meta expr:content='data:blog.title' property='og:site_name'/>
 <meta content='1925540971005322' property='fb:app_id'/>
@@ -1334,52 +1334,52 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <li><a class='active' href='/'><span itemprop='name'><i class='fa fa-home'/> Home</span></a></li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
 <ul>
-<!--<li><a href='#' itemprop='url'><span itemprop='name'>Sitemap 1</span></a></li>-->
-<!--<li><a href='#' itemprop='url'><span itemprop='name'>Sitemap 2</span></a></li>-->
-<!--<li><a href='#' itemprop='url'><span itemprop='name'>Tag and Styling</span></a></li>-->
+<li><a href='#' itemprop='url'><span itemprop='name'>Berita 1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Berita 2</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Berita 3</span></a></li>
 </ul>
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
 <ul>
-<!--<li><a href='#' itemprop='url'><span itemprop='name'>Keuangan 1</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Keuangan 2</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Kota</span></a>
+<li><a href='#' itemprop='url'><span itemprop='name'>A1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>A2</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>A3</span></a>
 <ul>
-<li><a href='#' itemprop='url'><span itemprop='name'>Jakarta</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Bandung</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Sukabumi</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Cianjur</span></a></li>
-</ul>				
-</li>-->
+<li><a href='#' itemprop='url'><span itemprop='name'>A3.1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>A3.1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>A3.1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>A3.1</span></a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
-<!--<ul>
+<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 2</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3</span></a>
 <ul>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 1</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 2</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 3</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 4</span></a></li>
-</ul>				
+<li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3.1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3.2</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3.3</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Pajak 3.4</span></a></li>
+</ul>
 </li>
-</ul>-->
+</ul>
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
-<!--<li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
 <ul>
+<li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Menengah</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan</span></a>
 <ul>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 1</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 2</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 3</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Item 4</span></a></li>
-</ul>				
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 1</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 2</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 3</span></a></li>
+<li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan 4</span></a></li>
+</ul>
 </li>
-</ul>-->
+</ul>
 </li>
 <!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Error Page</span></a></li>-->
