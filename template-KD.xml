@@ -1368,8 +1368,8 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </ul>-->
 </li>
 <li><a href='http://keuangandesa.blogspot.co.id/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
-<li><a href='http://keuangandesa.blogspot.co.id/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a></li>
-<!--<ul>
+<!--<li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
+<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Menengah</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Lanjutan</span></a>
 <ul>
