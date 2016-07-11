@@ -1226,10 +1226,10 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
   <div class='vitop-wrapper'>
           <nav class='top-menunav'>
             <ul>
-              <li><a href='http://keuangandesa.blogspot.co.id/p/tentang-keuangan-desa.html' title='About Us'><i class='fa fa-user'/> About</a></li>
-              <li><a href='http://keuangandesa.blogspot.co.id/p/daftar-isi.html' title='Our Sitemap'><i class='fa fa-list'/> Sitemap</a></li>
-              <li><a href='http://keuangandesa.blogspot.co.id/p/kontak-kami.html' title='Contact us'><i class='fa fa-envelope'/> Kontak Kami</a></li>
-              <li><a href='http://keuangandesa.blogspot.co.id/p/blog-page.html' title='Disclaimer'><i class='fa fa-check-circle'/> Disclaimer</a></li>
+              <li><a href='http://keuangandesa.info/p/tentang-keuangan-desa.html' title='About Us'><i class='fa fa-user'/> About</a></li>
+              <li><a href='http://keuangandesa.info/p/daftar-isi.html' title='Our Sitemap'><i class='fa fa-list'/> Sitemap</a></li>
+              <li><a href='http://keuangandesa.info/p/kontak-kami.html' title='Contact us'><i class='fa fa-envelope'/> Kontak Kami</a></li>
+              <li><a href='http://keuangandesa.info/p/blog-page.html' title='Disclaimer'><i class='fa fa-check-circle'/> Disclaimer</a></li>
 <li class='doremi join'><a href='#' rel='nofollow' target='_blank' title='Join Our Site'><i class='fa fa-plus'/><span class='inv'/></a></li>
 <li class='doremi gplus'><a href='#' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/><span class='inv'/></a></li>
 <li class='doremi facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/><span class='inv'/></a></li>
@@ -1344,14 +1344,14 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <a class='menu-slide' href='#'><i class='fa fa-list'/> Menu</a>
 <ul class='nav vienna-mainmenu'>
 <li><a class='active' href='/'><span itemprop='name'><i class='fa fa-home'/> Home</span></a></li>
-<li><a href='http://keuangandesa.blogspot.co.id/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
+<li><a href='http://keuangandesa.info/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 2</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 3</span></a></li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.blogspot.co.id/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
+<li><a href='http://keuangandesa.info/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>A1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>A2</span></a></li>
@@ -1365,7 +1365,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.blogspot.co.id/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
+<li><a href='http://keuangandesa.info/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 2</span></a></li>
@@ -1379,7 +1379,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.blogspot.co.id/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
+<li><a href='http://keuangandesa.info/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Menengah</span></a></li>
@@ -1393,7 +1393,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.blogspot.co.id/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
+<li><a href='http://keuangandesa.info/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>UU</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>PP</span></a></li>
