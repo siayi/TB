@@ -98,12 +98,12 @@
 <meta content='xxxxx' name='twitter:creator'/>
 <b:skin><![CDATA[
 /*
-Theme Name       : KeuanganDesa dot Info
-Theme Publish    : 11 Juli 2016
+Theme Name       : Vienna Mag Responsive Magazine Template
+Theme Publish    : 2 Juli 2016
 Theme Base Color : White, Blue, and Black
 Theme Layout     : 3 Column
-Theme Designer   : KeuanganDesa.Info
-Designer URL     : http://www.keuangandesa.info
+Theme Designer   : Arlina Design
+Designer URL     : http://arlinadesign.blogspot.com
 Thanks to        : All supported
 Theme License    : This free Blogger template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use.
 However, to satisfy the &#39;attribution&#39; clause of the license, you are required to keep the footer links intact which provides due credit to its authors. For more specific details about the license, you may visit the URL below:
@@ -2820,13 +2820,13 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
       }
     })();
 window.onload = function () {
-	var e = document.getElementById("kdcredit");
+	var e = document.getElementById("arlinacredit");
 	if (e == null) {
-		window.location.href = "http://www.keuangandesa.info"
+		window.location.href = "http://arlinadesign.blogspot.com"
 	}
-	e.setAttribute("href", "http://www.keuangandesa.info/");
+	e.setAttribute("href", "http://arlinadesign.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "KeuanganDesa"
+	e.innerHTML = "Arlina Design"
 }
 // ]]>
   </script>
@@ -3429,7 +3429,7 @@ head.appendChild(script);
 <span class="copy-left">&#169;</span><span> Copyleft</span> 2015 - <span id='current-year'/> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='https://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> 
 </div>
 <div id='virightcredit'>
-Created by <a href='#' id='kdcredit' rel='nofollow'>KeuanganDesa.info</a>
+Design by <a href='https://arlinadesign.blogspot.com' id='arlinacredit' rel='nofollow' target='_blank'>Arlina Design</a>
 </div>
 </div>
 </footer>
