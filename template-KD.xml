@@ -234,6 +234,18 @@ max-width:728px;}
 .videoyoutube{text-align:center;margin:auto;width:100%;}
 .video-responsive{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;}
 .video-responsive iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+/* CSS Copyleft */
+.copy-left {
+display: inline-block;
+text-align: right;
+margin: 0;
+-moz-transform: scaleX(-1);
+-o-transform: scaleX(-1);
+-webkit-transform: scaleX(-1);
+transform: scaleX(-1);
+filter: FlipH;
+-ms-filter: "FlipH";
+}
 ]]></b:skin>
 
 <b:template-skin>
@@ -3414,10 +3426,10 @@ head.appendChild(script);
 </div>
 <div id='footer-last'>
 <div class='vileftcredit'>
-Copyleft; 2015 - <span id='current-year'/> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='https://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> All Right Reserved
+<span class="copy-left">&#169;</span><span> Copyleft</span> 2015 - <span id='current-year'/> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='https://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> 
 </div>
 <div id='virightcredit'>
-Created by <a href='#' id='kdcredit' rel='nofollow' target='_blank'>KeuanganDesa</a>
+Created by <a href='#' id='kdcredit' rel='nofollow'>KeuanganDesa.info</a>
 </div>
 </div>
 </footer>
