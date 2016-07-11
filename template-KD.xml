@@ -51,7 +51,7 @@
 <meta content='D3B78A1BF0EF39F4025E4C38C892728B' name='msvalidate.01'/>
 <meta content='Qu78qqoLUPbNbtxFsfqhs6fWivk' name='alexaVerifyID'/>
 <meta content='Indonesia' name='geo.placename'/>
-<meta content='xxxxx' name='Author'/>
+<meta content='KeuanganDesa.Info' name='Author'/>
 <meta content='general' name='rating'/>
 <meta content='id' name='geo.country'/>
 
@@ -87,15 +87,15 @@
 <meta content='Keuangan Desa (KD) Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa  menyediakan informasi khusus seputar pengelolaan keuangan desa. memadukan konsep, standar, terapan, studi kasus, panduan berita terkini  keuangan desa' property='og:description'/>
 </b:if>
 <meta expr:content='data:blog.title' property='og:site_name'/>
-<meta content='1925540971005322' property='fb:app_id'/>
+<meta content='1655448131443604' property='fb:app_id'/>
 <meta content='1153581622' property='fb:admins'/>
 <meta content='en_US' property='og:locale'/>
 <meta content='en_GB' property='og:locale:alternate'/>
 <meta content='id_ID' property='og:locale:alternate'/>
 <meta content='summary' name='twitter:card'/>
 <meta expr:content='data:blog.pageTitle' name='twitter:title'/>
-<meta content='xxxxx' name='twitter:site'/>
-<meta content='xxxxx' name='twitter:creator'/>
+<meta content='KeuanganDesa.Info' name='twitter:site'/>
+<meta content='KeuanganDesa.Info' name='twitter:creator'/>
 <b:skin><![CDATA[
 /*
 Theme Name       : Vienna Mag Responsive Magazine Template
@@ -1210,6 +1210,23 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </b:if>
 </head>
 <body> 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1655448131443604',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 <b:if cond='data:blog.pageType == &quot;error_page&quot;'>
 <div id='oopss'>
 <div id='error-text'>
