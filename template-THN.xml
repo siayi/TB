@@ -1071,8 +1071,8 @@ border-left: 1px solid #263B67;
 <h1 style='display: none;'>The Hacker News &#8212; Cyber Security, Hacking, Technology News</h1>
 <div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
 <div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
-<div class='logo-div'><a expr:href='data:blog.homepageUrl'><img alt='The Hacker News' class='logo name' src='http://4.bp.blogspot.com/-bosk33aNrZw/UYCq4OpfgmI/AAAAAAAAVcg/AEmHmu9_tiE/s1600/The+Hacker+News.png' title='The Hacker News - Computer Security Blog'/></a></div>
-<meta content='http://4.bp.blogspot.com/-bosk33aNrZw/UYCq4OpfgmI/AAAAAAAAVcg/AEmHmu9_tiE/s1600/The+Hacker+News.png' itemprop='url'/>
+<div class='logo-div'><a expr:href='data:blog.homepageUrl'><img alt='xxxxx' class='logo name' src='xxxxx' title='xxxxxx'/></a></div>
+<meta content='xxxxx' itemprop='url'/>
 <meta content='700' itemprop='width'/>
 <meta content='95' itemprop='height'/>
 </div>
@@ -1080,13 +1080,13 @@ border-left: 1px solid #263B67;
 </div>
 <div class='social-buttons'><div class='social2'>
 <div class='socialbut'>
-<a href='https://plus.google.com/+TheHackernEWS'>
+<a href='https://plus.google.com/xxxxx'>
 <i class='fa fa-google-plus' style='background: #DB4437; cursor: pointer;width: 35px;height: 35px; color: #fff; text-align: center;line-height: 37px;font-size: 18px;margin-bottom: 5px;-webkit-box-shadow: 3px 3px 0px #EEE; -moz-box-shadow: 3px 3px 0px #EEE; box-shadow: 3px 3px 0px #EEE;' title='Google'/>
 </a><br/>
-<span class='socialcount'><a href='https://plus.google.com/+TheHackerNews'>+1,675,110</a></span><br/><span class='st_plusone_hcount' displayText='Google +1' st_url='https://plus.google.com/+TheHackerNews'/></div>
-<div class='socialbut'><a href='http://twitter.com/thehackersnews'>
+<span class='socialcount'><a href='https://plus.google.com/xxxxx'>+1,675,110</a></span><br/><span class='st_plusone_hcount' displayText='Google +1' st_url='https://plus.google.com/+TheHackerNews'/></div>
+<div class='socialbut'><a href='http://twitter.com/xxxxxx'>
 <i class='fa fa-twitter' style='background:#00ACED; cursor: pointer;width: 35px;height: 35px; color: #fff; text-align: center;line-height: 37px;font-size: 18px;margin-bottom: 5px;-webkit-box-shadow: 3px 3px 0px #EEE; -moz-box-shadow: 3px 3px 0px #EEE; box-shadow: 3px 3px 0px #EEE;' title='Google'/>
-</a><br/><span class='socialcount'><a href='http://twitter.com/thehackersnews'>265,120</a></span><br/><span class='st_twitterfollow_hcount' displayText='Twitter Follow' st_username='TheHackersNews'/></div>
+</a><br/><span class='socialcount'><a href='http://twitter.com/xxxxxx'>265,120</a></span><br/><span class='st_twitterfollow_hcount' displayText='Twitter Follow' st_username='TheHackersNews'/></div>
 <div class='socialbut'><a href='https://www.facebook.com/thehackernews'>
 <i class='fa fa-facebook' style='background:#4565AF; cursor: pointer;width: 35px;height: 35px; color: #fff; text-align: center;line-height: 37px;font-size: 18px;margin-bottom: 5px;-webkit-box-shadow: 3px 3px 0px #EEE; -moz-box-shadow: 3px 3px 0px #EEE; box-shadow: 3px 3px 0px #EEE;' title='Google'/>
 </a><br/><span class='socialcount'><a href='https://www.facebook.com/thehackernews'>1,023,450</a></span><br/><span class='st_fblike_hcount' displayText='Facebook Like' st_url='https://www.facebook.com/thehackernews'/></div></div></div>
@@ -2430,15 +2430,15 @@ jQuery.ajax({
             { &quot;@context&quot;: &quot;http://schema.org&quot;,
               &quot;@type&quot;: &quot;Organization&quot;,
               &quot;name&quot; : &quot;The Hacker News&quot;,
-              &quot;logo&quot; : &quot;http://4.bp.blogspot.com/-bosk33aNrZw/UYCq4OpfgmI/AAAAAAAAVcg/AEmHmu9_tiE/s1600/The+Hacker+News.png&quot;,
-              &quot;url&quot; : &quot;http://thehackernews.com&quot;,
-              &quot;sameAs&quot; : [ &quot;http://www.facebook.com/thehackernews&quot;,
-                &quot;https://www.twitter.com/thehackersnews&quot;,
-                &quot;https://plus.google.com/+thehackernews&quot;,
-                &quot;https://instagram.com/thehackernews&quot;,
-                &quot;http://www.youtube.com/c/TheHackerNews&quot;,
-                &quot;https://www.pinterest.com/thehackernews/&quot;,
-                &quot;https://www.linkedin.com/company/the-hacker-news&quot;],
+              &quot;logo&quot; : &quot;######&quot;,
+              &quot;url&quot; : &quot;http://xxxxxx.com&quot;,
+              &quot;sameAs&quot; : [ &quot;http://www.facebook.com/xxxxxx&quot;,
+                &quot;https://www.twitter.com/xxxxxx&quot;,
+                &quot;https://plus.google.com/xxxxxx&quot;,
+                &quot;https://instagram.com/xxxxxx&quot;,
+                &quot;http://www.youtube.com/c/xxxxxx&quot;,
+                &quot;https://www.pinterest.com/xxxxxx/&quot;,
+                &quot;https://www.linkedin.com/company/xxxxxx&quot;],
               &quot;contactPoint&quot; : [{
                   &quot;@type&quot; : &quot;ContactPoint&quot;,
                   &quot;telephone&quot; : &quot;+91-8285603969&quot;,
