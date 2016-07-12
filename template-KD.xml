@@ -1451,7 +1451,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <div class='ct-wrapper' id='featured-posts-section'>
 <div class='featured-post padding clearfix'>
 <script type='text/javaScript'>
-document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-results=&quot;+featured_numposts+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=sliderposts\&quot;&gt;&lt;\/script&gt;&quot;);
+document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/All%20Tags?max-results=&quot;+featured_numposts+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=sliderposts\&quot;&gt;&lt;\/script&gt;&quot;);
 </script>						
 </div>
 </div>
