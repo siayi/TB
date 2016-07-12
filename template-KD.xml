@@ -1206,6 +1206,16 @@ var no_thumb2 = &#39;http://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAK
 function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="'+t+'" height="'+i+'" src="'+e.replace("/s72-c/","/w"+t+"-h"+i+"-c/")+'" alt="'+a.replace(/"/g,"")+'" title="'+a.replace(/"/g,"")+'"/>',""!=a?image_tag:""}
 //]]>
 </script>
+<script>
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-80643515-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+</script>
 </b:if>
 </b:if>
 </head>
@@ -1213,9 +1223,9 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <script>
   window.fbAsyncInit = function() {
     FB.init({
-      appId      : '1655448131443604',
+      appId      : &#39;1655448131443604&#39;,
       xfbml      : true,
-      version    : 'v2.6'
+      version    : &#39;v2.6&#39;
     });
   };
 
@@ -1223,9 +1233,9 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
      js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
+     js.src = &quot;//connect.facebook.net/en_US/sdk.js&quot;;
      fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+   }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));
 </script>
 <b:if cond='data:blog.pageType == &quot;error_page&quot;'>
 <div id='oopss'>
@@ -1712,7 +1722,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
         </b:loop>
       <b:else/>
         <b:if cond='data:blog.pageType == &quot;archive&quot;'>
-        <div class='breadcrumbs'> <span><a expr:href='data:blog.homepageUrl' rel='nofollow'/></span> <span>Archive for <data:blog.pageName/></span> 
+        <div class='breadcrumbs'> <span><a expr:href='data:blog.homepageUrl' rel='nofollow'/></span> <span>Arsip untuk <data:blog.pageName/></span> 
 	    </div> 
       <b:else/>
         <b:if cond='data:blog.searchQuery'>
@@ -3038,7 +3048,7 @@ head.appendChild(script);
 <div class='clear'/>
 <div class='vitabs vitabs-1'>
 <b:section class='vita-list vita-list-1 section' id='vita-list-1' showaddelement='yes'>
-  <b:widget id='PopularPosts1' locked='false' title='Weekly' type='PopularPosts' version='1' visible='true'>
+  <b:widget id='PopularPosts1' locked='false' title='Populer' type='PopularPosts' version='1' visible='true'>
     <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
   <div class='widget-content popular-posts'>
@@ -3092,7 +3102,7 @@ head.appendChild(script);
   </b:widget>
 </b:section>
 <b:section class='vita-list vita-list-2 section' id='vita-list-2' showaddelement='yes'>
-  <b:widget id='BlogArchive1' locked='false' mobile='yes' title='Archive' type='BlogArchive' version='1' visible='true'>
+  <b:widget id='BlogArchive1' locked='false' mobile='yes' title='Arsip' type='BlogArchive' version='1' visible='true'>
     <b:includable id='main'>
   <b:if cond='data:title'>
     <h2><data:title/></h2>
@@ -3176,7 +3186,7 @@ head.appendChild(script);
   </b:widget>
 </b:section>
 <b:section class='vita-list vita-list-3 section' id='vita-list-3' showaddelement='yes'>
-  <b:widget id='HTML4' locked='false' title='Comments' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML4' locked='false' title='Komentar' type='HTML' version='1' visible='true'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -3191,7 +3201,7 @@ head.appendChild(script);
 </div>
 <div class='clear'/>
 <b:section class='sidebar section' id='sidebar' preferred='yes'>
-  <b:widget id='Label1' locked='false' title='Popular Tags' type='Label' version='1' visible='true'>
+  <b:widget id='Label1' locked='false' title='Tag Populer' type='Label' version='1' visible='true'>
     <b:includable id='main'>
   <b:if cond='data:title'>
     <h2><data:title/></h2>
@@ -3443,7 +3453,7 @@ head.appendChild(script);
 </div>
 <div id='footer-last'>
 <div class='vileftcredit'>
-<span class="copy-left">&#169;</span><span> Copyleft</span> 2015 - <span id='current-year'/> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='https://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> 
+<span class='copy-left'>&#169;</span><span> Copyleft</span> 2015 - <span id='current-year'/> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='https://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> 
 </div>
 <div id='virightcredit'>
 Design by <a href='https://arlinadesign.blogspot.com' id='arlinacredit' rel='nofollow' target='_blank'>Arlina Design</a>
