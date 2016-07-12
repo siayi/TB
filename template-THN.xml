@@ -29,10 +29,10 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <title>The Hacker News &#8212; Cyber Security, Hacking, Technology News</title>
 <meta content='The Hacker News — leading source of Information Security, Hacking News, Cyber Security, Network Security with in-depth technical coverage of issues and events' name='description'/>
 <link href='https://plus.google.com/109505191482335442706/posts' rel='author'/>
-<link href='http://thehackernews.com/' rel='canonical'/>
-<link href='http://thehackernews.com/favicon.ico' rel='shortcut icon' type='image/x-icon'/>
-<link href='http://thehackernews.com/feeds/posts/default' rel='alternate' title='The Hacker News - Breaking News, Cyber Security, Hacking News - Atom' type='application/atom+xml'/>
-<link href='http://thehackernews.com/feeds/posts/default?alt=rss' rel='alternate' title='The Hacker News - Breaking News, Cyber Security, Hacking News - RSS' type='application/rss+xml'/>
+<link href='#' rel='canonical'/>
+<link href='#favicon.ico' rel='shortcut icon' type='image/x-icon'/>
+<link href='#feeds/posts/default' rel='alternate' title='The Hacker News - Breaking News, Cyber Security, Hacking News - Atom' type='application/atom+xml'/>
+<link href='#feeds/posts/default?alt=rss' rel='alternate' title='The Hacker News - Breaking News, Cyber Security, Hacking News - RSS' type='application/rss+xml'/>
 <link href='https://plus.google.com/112788764123005028625' rel='publisher'/>
 <meta content='en_US' property='og:locale'/>
 <meta content='1251386282' property='fb:admins'/>
@@ -43,7 +43,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <meta content='photo' name='twitter:card'/>
 <meta content='@TheHackersNews' name='twitter:site'/>
 <meta content='website' property='og:type'/>
-<meta content='http://thehackernews.com/' property='og:url'/>
+<meta content='#' property='og:url'/>
 <meta content='The Hacker News — Cyber Security, Hacking, Technology News' property='og:title'/>
 <meta content='The Hacker News – attracting over 3 Million monthly readers – a leading source for Hacking, Cyber Security and Technology News for the Technologists and Nerds.' property='og:description'/>
 <meta content='Mohit Kumar' name='author'/>
@@ -1009,48 +1009,48 @@ border-left: 1px solid #263B67;
     <b:includable id='main'>
 <div class='navlinks' id='navlinks'>
 <ul class='w2bmenu' id='w2bajaxmenu'>
-<li><a href='http://thehackernews.com'><strong><i class='fa fa-home'/> Home</strong></a></li>
+<li><a href='#'><strong><i class='fa fa-home'/> Home</strong></a></li>
 <li>
-<a href='http://thehackernews.com/search/label/hacking%20news'><strong>Hacking</strong></a>
+<a href='#search/label/hacking%20news'><strong>Hacking</strong></a>
 <ul class='desktop'>
-<li><a href='http://thehackernews.com/search/label/data%20breach'><strong>Data Breach</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/credit%20card'><strong>Credit Card Hacking</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/mobile%20hacking'><strong>Smartphone Hacking</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/SCADA%20Hacking'><strong>SCADA System Hacking</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/password%20hacking'><strong>Password Cracking</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/browser%20hacking'><strong>Browser Security</strong></a></li>
+<li><a href='#search/label/data%20breach'><strong>Data Breach</strong></a></li>
+<li><a href='#search/label/credit%20card'><strong>Credit Card Hacking</strong></a></li>
+<li><a href='#search/label/mobile%20hacking'><strong>Smartphone Hacking</strong></a></li>
+<li><a href='#search/label/SCADA%20Hacking'><strong>SCADA System Hacking</strong></a></li>
+<li><a href='#search/label/password%20hacking'><strong>Password Cracking</strong></a></li>
+<li><a href='#search/label/browser%20hacking'><strong>Browser Security</strong></a></li>
 </ul>
 </li>
-<li><a href='http://thehackernews.com/search/label/Technology%20News'><strong>Tech</strong></a></li>
-<li class='mobile-menu'><a href='http://thehackernews.com/search/label/Cyber%20Attack'><strong>Cyber Attacks</strong></a>
+<li><a href='#search/label/Technology%20News'><strong>Tech</strong></a></li>
+<li class='mobile-menu'><a href='#search/label/Cyber%20Attack'><strong>Cyber Attacks</strong></a>
 <ul class='desktop'>
-<li><a href='http://thehackernews.com/search/label/ddos%20attack'><strong>DDoS Attack</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/Malware'><strong>Malware</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/email%20hacking'><strong>Email/Gmail Hacking</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/cyber%20espionage'><strong>Cyber Espionage</strong></a></li>
+<li><a href='#search/label/ddos%20attack'><strong>DDoS Attack</strong></a></li>
+<li><a href='#search/label/Malware'><strong>Malware</strong></a></li>
+<li><a href='#search/label/email%20hacking'><strong>Email/Gmail Hacking</strong></a></li>
+<li><a href='#search/label/cyber%20espionage'><strong>Cyber Espionage</strong></a></li>
 </ul>
 </li>
-<li class='mobile-menu'><a href='http://thehackernews.com/search/label/Vulnerability'><strong>Vulnerabilities</strong></a>
+<li class='mobile-menu'><a href='#search/label/Vulnerability'><strong>Vulnerabilities</strong></a>
 <ul class='desktop'>
-<li><a href='http://thehackernews.com/search/label/Vulnerability'><strong>Vulnerability Disclosure</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/zero%20day'><strong>Zero-Day Vulnerability</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/Android'><strong>Android Vulnerability</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/iPhone'><strong>iPhone Vulnerability</strong></a></li>
+<li><a href='#search/label/Vulnerability'><strong>Vulnerability Disclosure</strong></a></li>
+<li><a href='#search/label/zero%20day'><strong>Zero-Day Vulnerability</strong></a></li>
+<li><a href='#search/label/Android'><strong>Android Vulnerability</strong></a></li>
+<li><a href='#search/label/iPhone'><strong>iPhone Vulnerability</strong></a></li>
 </ul>
 </li>
-<li class='mobile-menu'><a href='http://thehackernews.com/search/label/Malware'><strong>Malware</strong></a>
+<li class='mobile-menu'><a href='#search/label/Malware'><strong>Malware</strong></a>
 <ul class='desktop'>
-<li><a href='http://thehackernews.com/search/label/ransomware'><strong>Ransomware Malware</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/Malware'><strong>Malware/Virus</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/botnet'><strong>Botnet attack</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/cyber%20espionage'><strong>Cyber Espionage</strong></a></li>
+<li><a href='#search/label/ransomware'><strong>Ransomware Malware</strong></a></li>
+<li><a href='#search/label/Malware'><strong>Malware/Virus</strong></a></li>
+<li><a href='#search/label/botnet'><strong>Botnet attack</strong></a></li>
+<li><a href='#search/label/cyber%20espionage'><strong>Cyber Espionage</strong></a></li>
 </ul>
 </li>
-<li class='mobile-menu'><a href='http://thehackernews.com/search/label/spying'><strong>Spying</strong></a>
+<li class='mobile-menu'><a href='#search/label/spying'><strong>Spying</strong></a>
 <ul class='desktop'>
-<li><a href='http://thehackernews.com/search/label/encryption'><strong>Encryption Tools</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/surveillance'><strong>Surveillance</strong></a></li>
-<li><a href='http://thehackernews.com/search/label/tor'><strong>Tor Anonymity Network</strong></a></li>
+<li><a href='#search/label/encryption'><strong>Encryption Tools</strong></a></li>
+<li><a href='#search/label/surveillance'><strong>Surveillance</strong></a></li>
+<li><a href='#search/label/tor'><strong>Tor Anonymity Network</strong></a></li>
 </ul>
 </li>
 <li style='float:right;'><a href='#search' id='searchtoggl'><i class='fa fa-search'/></a></li>
@@ -1195,12 +1195,12 @@ function removeHtmlTag(e,t){if(e.indexOf("<")!=-1){var n=e.split("<");for(var r=
 					</div>
 					<div class='shareinpost'>
 <div align='left' class='socialleft'>
-<span class='st_plusone_hcount' displaytext='Google +1' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='http://thehackernews.com/2016/03/fake-facebook-account.html'><div style='display:inline-block;overflow:hidden;line-height:0px;position:relative;vertical-align:middle;bottom:0px;width:75px; height:21px;'>&amp;nbsp;<div id='___plusone_1' style='text-indent: 0px; margin: 0px; padding: 0px; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background: transparent;'><iframe data-gapiattached='true' frameborder='0' hspace='0' id='I3_1459090794763' marginheight='0' marginwidth='0' name='I3_1459090794763' scrolling='no' src='https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;size=medium&amp;count=true&amp;origin=http%3A%2F%2Fthehackernews.com&amp;url=http%3A%2F%2Fthehackernews.com%2F2016%2F03%2Ffake-facebook-account.html&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.fr.y42LGOUgATY.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOjHYhTOGzdA3ycq3TXtGTwhL2OZQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I3_1459090794763&amp;parent=http%3A%2F%2Fthehackernews.com&amp;pfname=&amp;rpctoken=45215346' style='position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;' tabindex='0' title='+1' vspace='0' width='100%'/></div></div></span>
-<span class='st_fblike_hcount' displaytext='Facebook Like' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='http://thehackernews.com/2016/03/fake-facebook-account.html'><span style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;position:relative;margin:3px 3px 0;padding:0px;font-size:11px;line-height:0px;vertical-align:bottom;overflow:visible;'><div class='fb-like fb_iframe_widget' data-action='' data-href='http://thehackernews.com/2016/03/fake-facebook-account.html' data-layout='button_count' data-send='false' data-show-faces='false' fb-iframe-plugin-query='app_id=280117418781535&amp;container_width=0&amp;href=http%3A%2F%2Fthehackernews.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' fb-xfbml-state='rendered'><span style='vertical-align: bottom; width: 85px; height: 20px;'><iframe allowfullscreen='true' allowtransparency='true' class='' frameborder='0' height='1000px' name='f3afdf6893d614' scrolling='no' src='http://www.facebook.com/v2.0/plugins/like.php?app_id=280117418781535&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3cbe7cd7ff9278%26domain%3Dthehackernews.com%26origin%3Dhttp%253A%252F%252Fthehackernews.com%252Ff189f06eff1918%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fthehackernews.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' style='border: none; visibility: visible; width: 85px; height: 20px;' title='fb:like Facebook Social Plugin' width='1000px'/></span></div></span></span>
-<span class='st_facebook_hcount' displaytext='Facebook' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='http://thehackernews.com/2016/03/fake-facebook-account.html'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-facebook-counter' style='background-image: url(&quot;http://w.sharethis.com/images/facebook_counter.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>1699</span></span></span></span></span></span>
-<span class='st_twitter_hcount' displaytext='Tweet' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='http://thehackernews.com/2016/03/fake-facebook-account.html' st_via='TheHackersNews #Security'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-twitter-counter' style='background-image: url(&quot;http://w.sharethis.com/images/twitter_counter.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>99</span></span></span></span></span></span>
-<span class='st_linkedin_hcount' displaytext='LinkedIn' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='http://thehackernews.com/2016/03/fake-facebook-account.html'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-linkedin-counter' style='background-image: url(&quot;http://w.sharethis.com/images/linkedin_counter.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>14</span></span></span></span></span></span>
-<span class='st_sharethis_hcount' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='http://thehackernews.com/2016/03/fake-facebook-account.html'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-sharethis-counter2' style='background-image: url(&quot;http://w.sharethis.com/images/sharethis_counter2.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>1825</span></span></span></span></span></span>
+<span class='st_plusone_hcount' displaytext='Google +1' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'><div style='display:inline-block;overflow:hidden;line-height:0px;position:relative;vertical-align:middle;bottom:0px;width:75px; height:21px;'>&amp;nbsp;<div id='___plusone_1' style='text-indent: 0px; margin: 0px; padding: 0px; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background: transparent;'><iframe data-gapiattached='true' frameborder='0' hspace='0' id='I3_1459090794763' marginheight='0' marginwidth='0' name='I3_1459090794763' scrolling='no' src='https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;size=medium&amp;count=true&amp;origin=http%3A%2F%2Fthehackernews.com&amp;url=http%3A%2F%2Fthehackernews.com%2F2016%2F03%2Ffake-facebook-account.html&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.fr.y42LGOUgATY.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCOjHYhTOGzdA3ycq3TXtGTwhL2OZQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I3_1459090794763&amp;parent=http%3A%2F%2Fthehackernews.com&amp;pfname=&amp;rpctoken=45215346' style='position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;' tabindex='0' title='+1' vspace='0' width='100%'/></div></div></span>
+<span class='st_fblike_hcount' displaytext='Facebook Like' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'><span style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;position:relative;margin:3px 3px 0;padding:0px;font-size:11px;line-height:0px;vertical-align:bottom;overflow:visible;'><div class='fb-like fb_iframe_widget' data-action='' data-href='#2016/03/fake-facebook-account.html' data-layout='button_count' data-send='false' data-show-faces='false' fb-iframe-plugin-query='app_id=280117418781535&amp;container_width=0&amp;href=http%3A%2F%2Fthehackernews.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' fb-xfbml-state='rendered'><span style='vertical-align: bottom; width: 85px; height: 20px;'><iframe allowfullscreen='true' allowtransparency='true' class='' frameborder='0' height='1000px' name='f3afdf6893d614' scrolling='no' src='http://www.facebook.com/v2.0/plugins/like.php?app_id=280117418781535&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3cbe7cd7ff9278%26domain%3Dthehackernews.com%26origin%3Dhttp%253A%252F%252Fthehackernews.com%252Ff189f06eff1918%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fthehackernews.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' style='border: none; visibility: visible; width: 85px; height: 20px;' title='fb:like Facebook Social Plugin' width='1000px'/></span></div></span></span>
+<span class='st_facebook_hcount' displaytext='Facebook' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-facebook-counter' style='background-image: url(&quot;http://w.sharethis.com/images/facebook_counter.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>1699</span></span></span></span></span></span>
+<span class='st_twitter_hcount' displaytext='Tweet' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html' st_via='TheHackersNews #Security'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-twitter-counter' style='background-image: url(&quot;http://w.sharethis.com/images/twitter_counter.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>99</span></span></span></span></span></span>
+<span class='st_linkedin_hcount' displaytext='LinkedIn' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-linkedin-counter' style='background-image: url(&quot;http://w.sharethis.com/images/linkedin_counter.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>14</span></span></span></span></span></span>
+<span class='st_sharethis_hcount' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'><span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'><span><span class='stMainServices st-sharethis-counter2' style='background-image: url(&quot;http://w.sharethis.com/images/sharethis_counter2.png&quot;);'>&amp;nbsp;</span><span class='stArrow'><span class='stButton_gradient stHBubble' style='display: inline-block;'><span class='stBubble_hcount'>1825</span></span></span></span></span></span>
 </div>
 </div>
 <div class='post-body entry-content'>
