@@ -1011,55 +1011,54 @@ border-left: 1px solid #263B67;
 <ul class='w2bmenu' id='w2bajaxmenu'>
 <li><a href='#'><strong><i class='fa fa-home'/> Home</strong></a></li>
 <li>
-<a href='#search/label/hacking%20news'><strong>Hacking</strong></a>
+<a href='#'><strong>Menu1</strong></a>
 <ul class='desktop'>
-<li><a href='#search/label/data%20breach'><strong>Data Breach</strong></a></li>
-<li><a href='#search/label/credit%20card'><strong>Credit Card Hacking</strong></a></li>
-<li><a href='#search/label/mobile%20hacking'><strong>Smartphone Hacking</strong></a></li>
-<li><a href='#search/label/SCADA%20Hacking'><strong>SCADA System Hacking</strong></a></li>
-<li><a href='#search/label/password%20hacking'><strong>Password Cracking</strong></a></li>
-<li><a href='#search/label/browser%20hacking'><strong>Browser Security</strong></a></li>
+<li><a href='#'><strong>Menu2</strong></a></li>
+<li><a href='#'><strong>Menu3</strong></a></li>
+<li><a href='#'><strong>Menu4</strong></a></li>
+<li><a href='#'><strong>Menu5</strong></a></li>
+<li><a href='#'><strong>Menu6</strong></a></li>
+<li><a href='#'><strong>Menu7</strong></a></li>
 </ul>
 </li>
-<li><a href='#search/label/Technology%20News'><strong>Tech</strong></a></li>
-<li class='mobile-menu'><a href='#search/label/Cyber%20Attack'><strong>Cyber Attacks</strong></a>
+<li><a href='#'><strong>Menu8</strong></a></li>
+<li class='mobile-menu'><a href='#'><strong>MenuM</strong></a>
 <ul class='desktop'>
-<li><a href='#search/label/ddos%20attack'><strong>DDoS Attack</strong></a></li>
-<li><a href='#search/label/Malware'><strong>Malware</strong></a></li>
-<li><a href='#search/label/email%20hacking'><strong>Email/Gmail Hacking</strong></a></li>
-<li><a href='#search/label/cyber%20espionage'><strong>Cyber Espionage</strong></a></li>
+<li><a href='#'><strong>Menu9</strong></a></li>
+<li><a href='#'><strong>Menu10</strong></a></li>
+<li><a href='#'><strong>Mewnu11</strong></a></li>
+<li><a href='#'><strong>Menu12</strong></a></li>
 </ul>
 </li>
-<li class='mobile-menu'><a href='#search/label/Vulnerability'><strong>Vulnerabilities</strong></a>
+<li class='mobile-menu'><a href='#'><strong>MenuM2</strong></a>
 <ul class='desktop'>
-<li><a href='#search/label/Vulnerability'><strong>Vulnerability Disclosure</strong></a></li>
-<li><a href='#search/label/zero%20day'><strong>Zero-Day Vulnerability</strong></a></li>
-<li><a href='#search/label/Android'><strong>Android Vulnerability</strong></a></li>
-<li><a href='#search/label/iPhone'><strong>iPhone Vulnerability</strong></a></li>
+<li><a href='#'><strong>Menu13</strong></a></li>
+<li><a href='#'><strong>Menu14</strong></a></li>
+<li><a href='#'><strong>Menu15</strong></a></li>
+<li><a href='#'><strong>Menu16</strong></a></li>
 </ul>
 </li>
-<li class='mobile-menu'><a href='#search/label/Malware'><strong>Malware</strong></a>
+<li class='mobile-menu'><a href='#'><strong>MenuM3</strong></a>
 <ul class='desktop'>
-<li><a href='#search/label/ransomware'><strong>Ransomware Malware</strong></a></li>
-<li><a href='#search/label/Malware'><strong>Malware/Virus</strong></a></li>
-<li><a href='#search/label/botnet'><strong>Botnet attack</strong></a></li>
-<li><a href='#search/label/cyber%20espionage'><strong>Cyber Espionage</strong></a></li>
+<li><a href='#'><strong>MenuM17</strong></a></li>
+<li><a href='#'><strong>MenuM18</strong></a></li>
+<li><a href='#'><strong>MenuM19</strong></a></li>
+<li><a href='#'><strong>Menu20</strong></a></li>
 </ul>
 </li>
-<li class='mobile-menu'><a href='#search/label/spying'><strong>Spying</strong></a>
+<li class='mobile-menu'><a href='#'><strong>MenuM4</strong></a>
 <ul class='desktop'>
-<li><a href='#search/label/encryption'><strong>Encryption Tools</strong></a></li>
-<li><a href='#search/label/surveillance'><strong>Surveillance</strong></a></li>
-<li><a href='#search/label/tor'><strong>Tor Anonymity Network</strong></a></li>
+<li><a href='#'><strong>Menu21</strong></a></li>
+<li><a href='#'><strong>Menu22Menu23</strong></a></li>
 </ul>
 </li>
 <li style='float:right;'><a href='#search' id='searchtoggl'><i class='fa fa-search'/></a></li>
 </ul>
 <div class='clear' id='searchbar'>
-<form action='http://www.google.com/cse' id='searchform' method='get'>
+<form action='/search' id='searchform' method='get'>
 <button class='fa fa-search' id='searchsubmit' type='submit'/>
 <input autocomplete='off' id='s' name='q' placeholder='Search Here...' type='text'/>
-<input name='cx' type='hidden' value='partner-pub-7983783048239650:3179771210'/>
+<input name='cs' type='hidden' value='Search...'/>
 </form>
 </div>
 </div>
