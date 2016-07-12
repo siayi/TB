@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html b:version='2' class='v2' dir='ltr' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
 <!-- [ Meta Tag SEO ] -->
 <meta charset='utf-8'/>
@@ -84,7 +84,7 @@
 <b:if cond='data:blog.metaDescription'>
 <meta expr:content='data:blog.metaDescription' property='og:description'/>
 <b:else/>
-<meta content='Keuangan Desa (KD) Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa  menyediakan informasi khusus seputar pengelolaan keuangan desa. memadukan konsep, standar, terapan, studi kasus, panduan berita terkini  keuangan desa' property='og:description'/>
+<meta content='KeuanganDesa.info Jurnal Pengelolaan Keuangan Desa media literasi keuangan desa  menyediakan informasi khusus seputar pengelolaan keuangan desa memadukan konsep, standar, terapan, studi kasus, panduan, berita terkini keuangan desa' property='og:description'/>
 </b:if>
 <meta expr:content='data:blog.title' property='og:site_name'/>
 <meta content='1655448131443604' property='fb:app_id'/>
