@@ -25,29 +25,29 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <meta content='noodp,noydir,all,noarchive' name='robots'/>
 <meta content='#fff' name='theme-color'/>
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif]-->
-<meta content='hacking news, hacker news, the hacker news, cyber security, information security, technology news, hack android, deep web, ddos protection, website security' name='keywords'/>
-<title>The Hacker News &#8212; Cyber Security, Hacking, Technology News</title>
-<meta content='The Hacker News — leading source of Information Security, Hacking News, Cyber Security, Network Security with in-depth technical coverage of issues and events' name='description'/>
-<link href='https://plus.google.com/109505191482335442706/posts' rel='author'/>
+<meta content='xxxxx' name='keywords'/>
+<title>xxxxx</title>
+<meta content='xxxxx' name='description'/>
+<link href='https://plus.google.com/xxxxx/posts' rel='author'/>
 <link href='#' rel='canonical'/>
 <link href='#favicon.ico' rel='shortcut icon' type='image/x-icon'/>
-<link href='#feeds/posts/default' rel='alternate' title='The Hacker News - Breaking News, Cyber Security, Hacking News - Atom' type='application/atom+xml'/>
-<link href='#feeds/posts/default?alt=rss' rel='alternate' title='The Hacker News - Breaking News, Cyber Security, Hacking News - RSS' type='application/rss+xml'/>
-<link href='https://plus.google.com/112788764123005028625' rel='publisher'/>
+<link href='#feeds/posts/default' rel='alternate' title='xxxxx - Atom' type='application/atom+xml'/>
+<link href='#feeds/posts/default?alt=rss' rel='alternate' title='xxxxx - RSS' type='application/rss+xml'/>
+<link href='https://plus.google.com/xxxxx' rel='publisher'/>
 <meta content='en_US' property='og:locale'/>
-<meta content='1251386282' property='fb:admins'/>
-<meta content='280117418781535' property='fb:app_id'/>
+<meta content='xxxxx' property='fb:admins'/>
+<meta content='xxxxx' property='fb:app_id'/>
 <meta content='Nama Website Disini' property='og:site_name'/>
 <meta content='https://www.facebook.com/thehackernews' property='article:publisher'/>
-<meta content='thehackernews.com' name='twitter:domain'/>
+<meta content='xxxxx' name='twitter:domain'/>
 <meta content='photo' name='twitter:card'/>
-<meta content='@TheHackersNews' name='twitter:site'/>
+<meta content='@xxxxx' name='twitter:site'/>
 <meta content='website' property='og:type'/>
 <meta content='#' property='og:url'/>
 <meta content='Judul Website Silakan Simpan Disini' property='og:title'/>
 <meta content='Deskripsi Website silakan simpan di sini.' property='og:description'/>
-<meta content='Mohit Kumar' name='author'/>
-<meta content='@Unix_Root' name='twitter:creator'/>
+<meta content='xxxxx' name='author'/>
+<meta content='@xxxxx' name='twitter:creator'/>
 <link href='http://4.bp.blogspot.com/-BFOotJYvPa4/Ub8Gm2nHqrI/AAAAAAAAWI0/jNuP9n13KH8/s196/THN.png' rel='icon' sizes='196x196'/>
 <meta content='on' http-equiv='cleartype'/>
 <meta content='yes' name='mobile-web-app-capable'/>
@@ -1107,6 +1107,23 @@ function removeHtmlTag(e,t){if(e.indexOf("<")!=-1){var n=e.split("<");for(var r=
 //]]>
 </script>
 <b:section class='main clear' id='main'>
+<b:widget id='HTML1' locked='true' title='المنصة (Header)' type='HTML'>
+    <b:includable id='main'>
+			
+			</b:includable>
+    <b:includable id='description'>
+  <div class='descriptionwrapper'>
+    <p class='description'><span><data:description/></span></p>
+  </div>
+</b:includable>
+    <b:includable id='title'>
+  <b:if cond='data:blog.url == data:blog.homepageUrl'>
+    <data:title/>
+  <b:else/>
+    <a expr:href='data:blog.homepageUrl'><data:title/></a>
+  </b:if>
+</b:includable>
+  </b:widget>
   <b:widget id='Blog1' locked='true' title='Posting Blog' type='Blog' version='1' visible='true'>
     <b:includable id='main' var='top'>
 	<b:if cond='data:blog.pageType == &quot;index&quot;'>
