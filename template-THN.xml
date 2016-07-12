@@ -1005,7 +1005,7 @@ border-left: 1px solid #263B67;
 <div style=' background-color: #3C5A98;'>
 <nav>
 <b:section id='nav' maxwidgets='1' showaddelement='no'>
-  <b:widget id='HTML2' locked='false' title='' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML2' locked='false' title='1' type='HTML' version='1' visible='true'>
     <b:includable id='main'>
 <div class='navlinks' id='navlinks'>
 <ul class='w2bmenu' id='w2bajaxmenu'>
