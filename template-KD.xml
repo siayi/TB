@@ -3009,7 +3009,7 @@ window.onload = function () {
     <b:include name='quickedit'/>
   </b:includable>
     </b:widget>
-    <b:widget id='Navbar1' locked='true' title='Navbar' type='Navbar' version='1' visible='true'>
+    <b:widget id='Navbar1' locked='true' title='Navbar' type='Navbar' visible='true'>
       <b:includable id='main'>&lt;script type=&quot;text/javascript&quot;&gt;
     function setAttributeOnload(object, attribute, val) {
       if(window.addEventListener) {
@@ -3239,7 +3239,7 @@ head.appendChild(script);
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='HTML2' locked='false' title='' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML2' locked='false' title='1' type='HTML' version='1' visible='true'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
