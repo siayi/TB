@@ -727,7 +727,7 @@ div#FollowByEmail1{background:transparent;}
 .header-right {float:right;padding:0;overflow:hidden;margin:0;}
 .header-right img {display:block;}
 .vienna-socials-icons ul li{margin:auto;width:44px;height:44px;line-height:44px;}
--.viennatop-wrapper {margin-left:initial;margin-right:initial;border-top:4px solid #fcfcfc;}}
+.viennatop-wrapper {margin-left:initial;margin-right:initial;border-top:4px solid #fcfcfc;}}
 @media screen and (max-width:960px) {
 #outer-wrapper {margin:0 auto;border:none;box-shadow:none;}
 #header h1,#header p,#header,.header-right,#header .description{margin:0 auto;width:100%;float:none;text-align:center;}
