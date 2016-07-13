@@ -733,9 +733,11 @@ div#FollowByEmail1{background:transparent;}
 #header h1,#header p,#header,.header-right,#header .description{margin:0 auto;width:100%;float:none;text-align:center;}
 #header {margin:20px auto;padding:0 30px;background:transparent;max-width:80%;}
 .header-right img, .header-right iframe{margin:0 auto;max-width:100%;}
-#header-wrapper{padding:0;margin:0 auto 20px auto;}
-.header-wrapper2,.adtop-wrapper {padding:0}
-.arlinatop-wrapper {position:relative;overflow:hidden;margin:0;z-index:1;}
+#header-wrapper{padding:0;margin:20px auto;}
+.header-wrapper2 {padding:0}
+.viennatop-wrapper {position:relative;z-index:96;overflow:hidden;margin:0;}
+.vitop-wrapper{padding:0;}
+.header-wrapper2 {padding:0}
 a.virightcredit-social {margin:10px 5px 0 5px;}
 #search-form{width:100%;background:#263142;padding:5px 0}
 #search-form td.search-box {padding-right:0;width:100%;}
