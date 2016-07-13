@@ -209,16 +209,26 @@ header,nav,section,aside,article,footer,adheader,adnav {display:block;}
 form.searchform {margin:0;}
 
 /* CSS Global Wrapper */
-#post-wrapper {float:left;width:68%;margin:0 0 10px;}
+body {background:#e3e3e3 none repeat scroll top left;margin:0;padding:0;color:#404040;font-family:'Open Sans';font-size:14px;font-weight:400;text-align:left;}
+#outer-wrapper {max-width:1060px;margin:0 auto;padding:0;overflow:hidden;}
 .post-inner {padding:15px 0 0 0;}
 #header-wrapper {margin:20px;overflow:hidden;}
 #header {float:left;width:100%;max-width:257px;}
-.header-right {float:right;padding:0;overflow:hidden;margin:0;width:100%;max-width:728px;}
+.header-right {float:right;padding:0;overflow:hidden;margin:0;width:100%;
+max-width:728px;}
+#sidebar-wrapper {float:right;width:30%;margin:0 auto;}
+.sidebar-inner {padding:15px 0;}
 .header-wrapper2 {position:relative;z-index:999;}
-.adtop-wrapper {padding:0 20px;position:relative;max-width:970px;margin:0 auto;}
+.viennatop-wrapper {overflow:hidden;position:relative;}
+.vitop-wrapper {padding:0 20px;position:relative;max-width:1060px;margin:0 auto;}
 #footer-wrapper {text-align:left;overflow:hidden;margin:0;}
 .footer {padding-bottom:.2em;}
-iframe#editorframe,#editorframe {width:1030px!important;}
+.footer-bottom {min-height:40px;}
+#footx1,#footx2,#footx3 {margin:0 .2%}
+#footer-adwidget .footer-widget {width:30.2%;float:left;margin-left:20px;}
+#footer-adwidget {max-width:1060px;overflow:hidden;margin:0 auto;}
+#footer-wrapper .widget-content li {margin-left:-14px;}
+#footer-wrapper .widget li {margin:5px 0 0 0;padding:5px 0 0 15px;display:block;}
 
 /* Youtube Responsive */
 .videoyoutube{text-align:center;margin:auto;width:100%;}
