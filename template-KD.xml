@@ -789,41 +789,40 @@ a.virightcredit-social {margin:10px 5px 0 5px;}
 #footer-adwidget .footer-widget {width:92%;float:left;margin-left:20px;}}
 
 @media only screen and (min-width:640px){
- #menu {display:block;}}
+#menu {display:block;}}
 
 @media only screen and (max-width:640px){
+.viennatop-wrapper {margin:auto;}
 #header h1,#header p,#header,.header-right,#header .description{margin:0 auto;width:100%;float:none;text-align:center;}
 .header-right{float:none;margin:0 auto;text-align:center;}
 .header-right img, .header-right iframe{float:none;margin:0 auto;text-align:center;}
-#header{min-width:initial;max-width:100%;background:none;margin:20px auto;padding:0}
+#header-wrapper{padding:0;margin:20px auto;}
+#header {min-width:initial;background:none;margin:20px auto;padding:0 5px;}
 #header .description {font-size:100%;line-height:1.5;}
+#SmoothToTop {font-size:20px;}
 #footer-wrapper{margin:20px 0 0 0;}
-#footer-adwidget {width:100%;overflow:hidden;}
-#footer-adwidget .footer-widget {width:92%;float:left;margin-left:20px;}
-.responsive-menu,#nav{background:#374760;margin:0;height:46px;line-height:46px;}
-#HTML1 .widget-content {text-align:center;}
-#subscribe-css p.subscribe-note{font-size:140%}
-form.subscribe-form{padding:0 10px}
-.subscribe-css-email-field,.subscribe-css-email-button{padding:15px 0;text-align:center;margin:10px 0;width:100%}
-.back-to-top{width:32px;height:32px;line-height:32px;bottom:10px;right:10px}
-.back-to-top .fa{font-size:14px}
-.artabs-menu li span,.top-menunavi li.infoarlina {display:none;}}
+.responsive-menu {margin:0;}
+#nav {margin:0;}
+.pagenav .pages {display:none;}}
 @media only screen and (max-width:480px){
-.arlinatop-wrapper{margin:10px auto 0 auto}
-#outer-wrapper{margin:0 auto;padding:0 10px}
+#outer-wrapper {margin:0 auto;}
+.top-menunav a#pull {width:90%;}
 .header-right{float:none;margin:0 auto;text-align:center;}
 .header-right img, .header-right iframe{float:none;margin:0 auto;text-align:center;}
 .post {margin:0 0 8px;padding:8px;}
 h2.post-title, h1.post-title {font-size:16px;}
-#related-posts {margin:20px 20px 20px 0;padding:0;}
+.comments .comment-block, .comments .comments-content .inline-thread {
+padding:10px !important;}
+.comment .comment-thread.inline-thread .comment {margin: 0 0 0 0 !important;}
+#virelated-posts {margin:20px 20px 20px 0;padding:0;}
 .post-vinfo {font-size:12px;}
 #feedContainer li {width:100%;}
 .authorLeft{float:none;width:120px;margin:0 auto}
 .authorDetails{text-align:center}
 .authorDetails h2{float:none}
 .authorDetails span{float:none}
-.articleAuthor .authorContent p{text-align:center}
-#footer-last{padding:5px;margin:0 0 10px 0}}
+.articleAuthor .authorContent p{text-align:center}}
+
 @media screen and (max-width:320px){
 .header-right{float:none;margin:0 auto;text-align:center;}
 .header-right img, .header-right iframe{float:none;margin:0 auto;text-align:center;}
