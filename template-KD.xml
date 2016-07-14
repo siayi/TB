@@ -161,9 +161,8 @@ a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href)")"}a
 p,h2,h3{orphans:3;widows:3}h2,h3{page-break-after:avoid}}
 
 /* CSS List */
-/*
 ul,dl{margin:.5em 0em .5em 3em}ol{list-style:decimal outside}ul{list-style:disc outside}li{margin:.5em 0}dt{font-weight:bold}dd{margin:0 0 .5em 2em}
-*/
+
 /* CSS List Custom */
 /*
 .post ul li span{position:relative;display:block;margin:0;padding:5px 8px;margin-bottom:10px;transition:all .3s ease-out;}
