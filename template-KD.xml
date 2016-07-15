@@ -2548,9 +2548,9 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
 <data:post.authorAboutMe/>       
 </p>
 <div class='authorsocial'>
-<a class='img-circle1' href='#' rel='nofollow' target='_blank'><i class='fa fa-facebook'/></a>
-<a class='img-circle2' href='#' rel='nofollow' target='_blank'><i class='fa fa-twitter'/></a>
-<a class='img-circle3' href='#' rel='nofollow' target='_blank'><i class='fa fa-google-plus'/></a>
+<a class='img-circle1' href='https://www.facebook.com/groups/forumkeuangan' rel='nofollow' target='_blank'><i class='fa fa-facebook'/></a>
+<a class='img-circle2' href='https://twitter.com/pasardesa98' rel='nofollow' target='_blank'><i class='fa fa-twitter'/></a>
+<a class='img-circle3' href='https://plus.google.com/101626814972305934686/about' rel='nofollow' target='_blank'><i class='fa fa-google-plus'/></a>
 <div class='clr'/>
 </div>
 </div>
