@@ -2558,7 +2558,7 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
 //]]>
 </script>
 <div style='clear:both'/>
-<!--<div class='authorboxwrap'>
+<div class='authorboxwrap'>
 <div class='authorboxfull'>
 <div class='avatar-container'>
 <a href=''>
@@ -2572,7 +2572,7 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
 </p>
 </div>
 </div>
-</div> -->
+</div>
 <div style='clear:both'/>
 <div id='virelated-post'>
 <div class='relhead'>
