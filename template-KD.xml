@@ -2231,6 +2231,30 @@ avatar.find('.comment_avatar img').each(function() {
 </b:if>	  	  
         <data:post.body/>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div class='authorboxwrap'>
+<div class='authorboxfull'>
+<div class='avatar-container'>
+<a href=''>
+<img class='author_avatar' expr:alt='data:post.author' expr:src='data:post.authorPhoto.url' height='110' width='110'/>
+</a>
+</div>
+<div class='author_description_container'>
+<h4><a href='#' rel='author'><data:post.author/></a></h4>
+<p>
+<data:post.authorAboutMe/>       
+</p>
+<div class='authorsocial'>
+<a class='img-circle1' href='#' rel='nofollow' target='_blank'><i class='fa fa-facebook'/></a>
+<a class='img-circle2' href='#' rel='nofollow' target='_blank'><i class='fa fa-twitter'/></a>
+<a class='img-circle3' href='#' rel='nofollow' target='_blank'><i class='fa fa-google-plus'/></a>
+<div class='clr'/>
+</div>
+</div>
+</div>
+</div>
+<div style='clear:both'/>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
 &lt;div style=&quot;display:block;text-align:center;margin:15px auto;&quot;&gt;
 <!-- Kode Banner/Iklan Anda Di sini -->
 &lt;/div&gt;
