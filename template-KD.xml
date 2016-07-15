@@ -260,6 +260,21 @@ form.subscribe-form{clear:both;display:block;margin:0;width:auto;overflow:hidden
 #subscribe-css p.subscribe-note span.itatu:before,#subscribe-css p.subscribe-note span.itatu:after{display:none}
 #subscribe-css p.subscribe-note span:before{content:'';position:absolute;bottom:-2px;left:0;width:0;height:3px;margin:10px 0 0;background:rgba(255,255,255,.1);transition:all .5s}
 #subscribe-css:hover p.subscribe-note span:before{width:100%;}
+
+/* CSS Multi Author Box */
+.authorboxwrap{background:#fff;margin:0 auto 20px;padding:20px;overflow:hidden;border:1px solid #ccc;}
+.avatar-container {float:left;margin-right:20px;}
+.avatar-container img{width:110px;height:auto;}
+.author_description_container h4{font-weight:700;font-size:16px;display:block;margin:0;margin-bottom:2px}
+.author_description_container h4 a{color:#ef4824}
+.author_description_container h4 a:hover{color:#404040}
+.author_description_container p{margin:0;color:#888;font-size:95%;margin-bottom:8px}
+.authorsocial a{display:inline-block;text-align:center;margin-right:10px}
+.authorsocial a i{font-family:Fontawesome;width:20px;height:20px;line-height:20px;padding:5px;display:block;opacity:1;border-radius:2px;transition:all .3s;}
+.authorsocial a:nth-child(1) i {background:#2d609b;color:#fff;}
+.authorsocial a:nth-child(2) i {background:#19bfe5;color:#fff;}
+.authorsocial a:nth-child(3) i {background:#eb4026;color:#fff;}
+.authorsocial a:hover:nth-child(1) i,.authorsocial a:hover:nth-child(2) i,.authorsocial a:hover:nth-child(3) i {opacity:0.90;}
 ]]></b:skin>
 
 <b:template-skin>
@@ -899,21 +914,6 @@ ul#virelated-summary li img {background-color:#fff;width:150px;height:120px;max-
 ul#virelated-summary li img:hover {opacity:0.9;}
 ul#virelated-summary li a.relinkjdulx {background-image:none;color:#444;display:block;font-size:13px;font-weight:normal;line-height:normal;overflow:hidden;padding:10px 10px 10px 0;text-transform:none;}
 ul#virelated-summary li a.relinkjdulx:hover{color:#4db2ec;}
-
-/* CSS Multi Author Box */
-.authorboxwrap{background:#fff;margin:0 auto 20px;padding:20px;overflow:hidden;border:1px solid #ccc;}
-.avatar-container {float:left;margin-right:20px;}
-.avatar-container img{width:110px;height:auto;}
-.author_description_container h4{font-weight:700;font-size:16px;display:block;margin:0;margin-bottom:2px}
-.author_description_container h4 a{color:#ef4824}
-.author_description_container h4 a:hover{color:#404040}
-.author_description_container p{margin:0;color:#888;font-size:95%;margin-bottom:8px}
-.authorsocial a{display:inline-block;text-align:center;margin-right:10px}
-.authorsocial a i{font-family:Fontawesome;width:20px;height:20px;line-height:20px;padding:5px;display:block;opacity:1;border-radius:2px;transition:all .3s;}
-.authorsocial a:nth-child(1) i {background:#2d609b;color:#fff;}
-.authorsocial a:nth-child(2) i {background:#19bfe5;color:#fff;}
-.authorsocial a:nth-child(3) i {background:#eb4026;color:#fff;}
-.authorsocial a:hover:nth-child(1) i,.authorsocial a:hover:nth-child(2) i,.authorsocial a:hover:nth-child(3) i {opacity:0.90;}
 
 /* CSS Item Responsive */
 @media only screen and (max-width:960px){
