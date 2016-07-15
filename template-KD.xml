@@ -901,12 +901,19 @@ ul#virelated-summary li a.relinkjdulx {background-image:none;color:#444;display:
 ul#virelated-summary li a.relinkjdulx:hover{color:#4db2ec;}
 
 /* CSS Multi Author Box */
-.authorboxwrap{background:#fafafa;margin:30px 0 20px;padding:20px;overflow:hidden;border:1px solid #e3e3e3}
+.authorboxwrap{background:#fff;margin:0 auto 20px;padding:20px;overflow:hidden;border:1px solid #ccc;}
 .avatar-container {float:left;margin-right:20px;}
-.avatar-container img {background:#fff;width:90px;height:auto;padding:5px;border:1px solid #ccc;}
-.author_description_container h4{font-weight:600;font-size:16px;display:block;margin-bottom:10px}
-.author_description_container h4 a{color:#333}
-.author_description_container p{font-size:12px;line-height:1.7;margin-bottom:15px}
+.avatar-container img{width:110px;height:auto;}
+.author_description_container h4{font-weight:700;font-size:16px;display:block;margin:0;margin-bottom:2px}
+.author_description_container h4 a{color:#ef4824}
+.author_description_container h4 a:hover{color:#404040}
+.author_description_container p{margin:0;color:#888;font-size:95%;margin-bottom:8px}
+.authorsocial a{display:inline-block;text-align:center;margin-right:10px}
+.authorsocial a i{font-family:Fontawesome;width:20px;height:20px;line-height:20px;padding:5px;display:block;opacity:1;border-radius:2px;transition:all .3s;}
+.authorsocial a:nth-child(1) i {background:#2d609b;color:#fff;}
+.authorsocial a:nth-child(2) i {background:#19bfe5;color:#fff;}
+.authorsocial a:nth-child(3) i {background:#eb4026;color:#fff;}
+.authorsocial a:hover:nth-child(1) i,.authorsocial a:hover:nth-child(2) i,.authorsocial a:hover:nth-child(3) i {opacity:0.90;}
 
 /* CSS Item Responsive */
 @media only screen and (max-width:960px){
