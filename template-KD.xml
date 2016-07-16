@@ -780,8 +780,8 @@ div#FollowByEmail1{background:transparent;}
 a.virightcredit-social {margin:10px 5px 0 5px;}
 #search-form{width:100%;background:#263142;padding:5px 0}
 #search-form td.search-box {padding-right:0;width:100%;}
-#search-form input#search-box[type="text"] {background:#fff;}
-#search-form input#search-box[type="text"]:focus {background:#fefefe;outline:none;}}
+#search-form input#search-box[type=&quot;text&quot;] {background:#fff;}
+#search-form input#search-box[type=&quot;text&quot;]:focus {background:#fefefe;outline:none;}}
 @media only screen and (max-width:768px) {
 #post-wrapper, #sidebar-wrapper {width:100%;max-width:100%}
 .post-body img {max-width:90%;}
@@ -1290,7 +1290,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 
 <div id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
   <b:section class='header section' id='header' maxwidgets='1' showaddelement='no'>
-    <b:widget id='Header1' locked='true' title='Keuangan Desa (Header)' type='Header' version='1' visible='true'>
+    <b:widget id='Header1' locked='true' title='KeuanganDesa.info (Header)' type='Header' version='1' visible='true'>
       <b:includable id='main'>
   <b:if cond='data:useImage'>
     <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
