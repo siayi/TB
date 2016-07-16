@@ -3023,7 +3023,7 @@ window.onload = function () {
 <div class='clear'/>
 <div class='vitabs vitabs-1'>
 <b:section class='vita-list vita-list-1 section' id='vita-list-1' showaddelement='yes'>
-  <b:widget id='PopularPosts1' locked='false' title='Populer' type='PopularPosts' version='1' visible='true'>
+  <b:widget id='PopularPosts1' locked='false' title='Weekly' type='PopularPosts'>
     <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
   <div class='widget-content popular-posts'>
@@ -3077,7 +3077,7 @@ window.onload = function () {
   </b:widget>
 </b:section>
 <b:section class='vita-list vita-list-2 section' id='vita-list-2' showaddelement='yes'>
-  <b:widget id='BlogArchive1' locked='false' mobile='yes' title='Arsip' type='BlogArchive' version='1' visible='true'>
+  <b:widget id='BlogArchive1' locked='false' mobile='yes' title='Archive' type='BlogArchive'>
     <b:includable id='main'>
   <b:if cond='data:title'>
     <h2><data:title/></h2>
@@ -3161,7 +3161,7 @@ window.onload = function () {
   </b:widget>
 </b:section>
 <b:section class='vita-list vita-list-3 section' id='vita-list-3' showaddelement='yes'>
-  <b:widget id='HTML4' locked='false' title='Komentar' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML4' locked='false' title='Comments' type='HTML'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
