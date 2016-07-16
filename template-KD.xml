@@ -780,8 +780,8 @@ div#FollowByEmail1{background:transparent;}
 a.virightcredit-social {margin:10px 5px 0 5px;}
 #search-form{width:100%;background:#263142;padding:5px 0}
 #search-form td.search-box {padding-right:0;width:100%;}
-#search-form input#search-box[type="text"] {background:#fff;}
-#search-form input#search-box[type="text"]:focus {background:#fefefe;outline:none;}}
+#search-form input#search-box[type=&quot;text&quot;] {background:#fff;}
+#search-form input#search-box[type=&quot;text&quot;]:focus {background:#fefefe;outline:none;}}
 @media only screen and (max-width:768px) {
 #post-wrapper, #sidebar-wrapper {width:100%;max-width:100%}
 .post-body img {max-width:90%;}
@@ -1290,7 +1290,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 
 <div id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
   <b:section class='header section' id='header' maxwidgets='1' showaddelement='no'>
-    <b:widget id='Header1' locked='true' title='Keuangan Desa (Header)' type='Header' version='1' visible='true'>
+    <b:widget id='Header1' locked='true' title='KeuanganDesa.info (Header)' type='Header' version='1' visible='true'>
       <b:includable id='main'>
   <b:if cond='data:useImage'>
     <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
@@ -2996,6 +2996,45 @@ window.onload = function () {
 <aside id='sidebar-wrapper' itemscope='itemscope' itemtype='https://schema.org/WPSideBar'>
 <div class='sidebar-inner'>
   <b:section class='sidebar-two section' id='sidebar-two' preferred='yes'>
+    <b:widget id='HTML6' locked='false' title='Komentar' type='HTML' visible='true'>
+      <b:includable id='main'>
+            <script type='text/javascript'>
+                var disqus_shortname = &#39;keuangandesa&#39;;
+                var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
+                if (!disqus_blogger_current_url.length) {
+                    disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
+                }
+                var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
+                var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
+            </script>
+            <b:if cond='data:blog.pageType == &quot;item&quot;'>
+                <style type='text/css'>
+                    #comments {display:none;}
+                </style>
+                <script type='text/javascript'>
+                    (function() {
+                        var bloggerjs = document.createElement(&#39;script&#39;);
+                        bloggerjs.type = &#39;text/javascript&#39;;
+                        bloggerjs.async = true;
+                        bloggerjs.src = &#39;//&#39;+disqus_shortname+&#39;.disqus.com/blogger_item.js&#39;;
+                        (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                    })();
+                </script>
+            </b:if>
+                <style type='text/css'>
+                    .post-comment-link { visibility: hidden; }
+                </style>
+                <script type='text/javascript'>
+                (function() {
+                    var bloggerjs = document.createElement(&#39;script&#39;);
+                    bloggerjs.type = &#39;text/javascript&#39;;
+                    bloggerjs.async = true;
+                    bloggerjs.src = &#39;//&#39;+disqus_shortname+&#39;.disqus.com/blogger_index.js&#39;;
+                    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                })();
+                </script>
+        </b:includable>
+    </b:widget>
     <b:widget id='HTML14' locked='false' mobile='yes' title='Follow us' type='HTML' version='1' visible='true'>
       <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if>
