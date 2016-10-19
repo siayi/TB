@@ -4,11 +4,13 @@
 <head>
 <meta charset='UTF-8'/>
 <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'/>
+<!--
  <script type='text/javascript'>
 //<![CDATA[
 try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"44d2b415a1113e3f52a15df0a01a3fdd",petok:"e5f70936464e13993dc0f9c594bbcd090bf30e43-1458925574-1800",zone:"thehackernews.com",rocket:"a",apps:0,sha2test:0}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"><'+'\/script>');}}catch(e){};
 //]]>
 </script>
+-->
 <link href='//4.bp.blogspot.com' rel='dns-prefetch'/>
 <link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
 <link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
@@ -38,7 +40,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <meta content='xxxxx' property='fb:admins'/>
 <meta content='xxxxx' property='fb:app_id'/>
 <meta content='Nama Website Disini' property='og:site_name'/>
-<meta content='https://www.facebook.com/thehackernews' property='article:publisher'/>
+<meta content='https://#url-facebook-disini-' property='article:publisher'/>
 <meta content='xxxxx' name='twitter:domain'/>
 <meta content='photo' name='twitter:card'/>
 <meta content='@xxxxx' name='twitter:site'/>
@@ -1068,7 +1070,7 @@ border-left: 1px solid #263B67;
 </nav>
 </div>
 <div class='header clear'>
-<h1 style='display: none;'>The Hacker News &#8212; Cyber Security, Hacking, Technology News</h1>
+<h1 style='display: none;'>XXXXXXXXXX</h1>
 <div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
 <div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
 <div class='logo-div'><a expr:href='data:blog.homepageUrl'><img alt='xxxxx' class='logo name' src='xxxxx' title='xxxxxx'/></a></div>
@@ -1249,7 +1251,7 @@ function aaFunction(){var n=document.getElementById(&quot;aim1468944351399428735
 <meta content='@' name='twitter:creator'/>
 <meta content='Etor Madiv' name='author'/>
 <address class='author-info clear' id='author-info' itemprop='author creator' itemscope='' itemtype='http://schema.org/Person'>
-<div class='author-info-pic'><a href='#' itemprop='url' rel='author'><figure class='author-img'><img alt='Etor Madiv - Hacking News' itemprop='image' src='https://lh3.googleusercontent.com/-VmNhxynTp8M/AAAAAAAAAAI/AAAAAAAAAAA/xX_kpiv9YwI/s120-c/photo.jpg'/></figure></a></div>
+<div class='author-info-pic'><a href='#' itemprop='url' rel='author'><figure class='author-img'><img alt='Etor Madiv - xxxxx' itemprop='image' src='https://lh3.googleusercontent.com/-VmNhxynTp8M/AAAAAAAAAAI/AAAAAAAAAAA/xX_kpiv9YwI/s120-c/photo.jpg'/></figure></a></div>
 <div class='author-info-bio'>
 <div>
 <a class='authors' href='#' itemprop='url sameAs' rel='author'><span class='author-name' itemprop='name'>Etor Madiv</span></a>
