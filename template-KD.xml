@@ -1236,6 +1236,12 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </script>
 </b:if>
 </b:if>
+<b:if cond='data:blog.url == &quot;p/blog-page_26.html&quot;'>
+<style type='text/css'>
+.post-body{background:url(http://2.bp.blogspot.com/-alum9K2SRYg/VjqAgYxuVCI/AAAAAAAAL-g/dkWivHcWDYg/s1600/preloader.gif)50% 10% no-repeat!important;padding:60px;margin:0}
+#gcsengine{margin-top:-70px}
+</style>
+</b:if>
 </head>
 <body> 
 <script>
