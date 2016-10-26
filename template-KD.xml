@@ -1290,7 +1290,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 
 <div id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
   <b:section class='header section' id='header' maxwidgets='1' showaddelement='no'>
-    <b:widget id='Header1' locked='true' title='KeuanganDesa.info (Header)' type='Header' version='1' visible='true'>
+    <b:widget id='Header1' locked='true' title='KeuanganDesa.info - Mengawal Tata Kelola Keuangan Desa (Header)' type='Header' version='1' visible='true'>
       <b:includable id='main'>
   <b:if cond='data:useImage'>
     <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
@@ -1455,8 +1455,23 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Error Page</span></a></li>-->
 </ul>
-<form action='/search' id='search-form' method='get' style='display: inline;'><table><tbody><tr><td class='search-box'><input id='search-box' name='q' onblur='if(this.value==&apos;&apos;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&apos;&apos;;' type='text' value='Search...'/></td>
-<td class='search-button'><input id='search-button' type='submit' value=''/></td></tr></tbody></table></form>
+<form action='p/blog-page_26.html' id='search-form'>
+<input name='cx' type='hidden' value='partner-pub-012986247084594959022:_qw5vgnzdnu'/>
+<input name='cof' type='hidden' value='FORID:10'/>
+<input name='ie' type='hidden' value='ISO-8859-1'/>
+<table>
+      <tbody>
+        <tr>
+          <td class='search-box'>
+            <input id='search-box' name='q' onblur='if(this.value==&apos;&apos;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&apos;&apos;;' type='text' value='Search...'/>
+          </td>
+          <td class='search-button'>
+            <input id='search-button' type='submit' value=''/>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+</form>
 </nav>
 <div class='clear'/>
 
