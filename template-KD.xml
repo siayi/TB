@@ -3017,7 +3017,7 @@ window.onload = function () {
 <aside id='sidebar-wrapper' itemscope='itemscope' itemtype='https://schema.org/WPSideBar'>
 <div class='sidebar-inner'>
   <b:section class='sidebar-two section' id='sidebar-two' preferred='yes'>
-    <b:widget id='HTML14' locked='false' mobile='yes' title='Follow us' type='HTML' version='1' visible='true'>
+    <b:widget id='HTML14' locked='false' mobile='yes' title='Media Sosial' type='HTML' version='1' visible='true'>
       <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if>
   <div class='widget-content'>
