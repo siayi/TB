@@ -1284,7 +1284,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <li class='doremi join'><a href='#' rel='nofollow' target='_blank' title='Join Our Site'><i class='fa fa-plus'/><span class='inv'/></a></li>
 <li class='doremi gplus'><a href='#' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/><span class='inv'/></a></li>
 <li class='doremi facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/><span class='inv'/></a></li>
-<li class='doremi instagram'><a href='https://www.instagram.com/ayisumarna/' rel='nofollow' target='_blank' title='Follow us on instagram'><i class='fa fa-instagram'/><span class='inv'/></a></li>
+<li class='doremi instagram'><a href='https://www.instagram.com/ayi_sumarna/' rel='nofollow' target='_blank' title='Follow us on instagram'><i class='fa fa-instagram'/><span class='inv'/></a></li>
 <li class='doremi twitter'><a href='https://twitter.com/siayi' rel='nofollow' target='_blank' title='Follow us on Twitter'><i class='fa fa-twitter'/><span class='inv'/></a></li>
             </ul>
 	        <a href='#' id='pull'>MENU</a>
@@ -1458,8 +1458,8 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul> -->
 </li>
-<!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>
-<li><a href='#' itemprop='url'><span itemprop='name'>Error Page</span></a></li>-->
+<!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>-->
+<li><a href='http://keuangandesa.info/search/label/Video?max-results=6' itemprop='url'><span itemprop='name'>Video</span></a></li>
 </ul>
 <form action='p/blog-page_26.html' id='search-form'>
 <input name='cx' type='hidden' value='partner-pub-012986247084594959022:_qw5vgnzdnu'/>
@@ -2272,7 +2272,7 @@ avatar.find('.comment_avatar img').each(function() {
 				<div class='clear'/>
 				</div>
 				<div id='virelated-posts-mobile'>
-				<h3>Related Posts :</h3>
+				<h3>Tulisan Terkait :</h3>
 				<b:loop values='data:post.labels' var='label'> <b:if cond='data:label.isLast != &quot;true&quot;'/> <b:if cond='data:blog.pageType == &quot;item&quot;'> <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?alt=json-in-script&amp;callback=related_results_labels&amp;amp;max-results=5&quot;' type='text/javascript'/></b:if> </b:loop> <script type='text/javascript'> removeRelatedDuplicates(); printRelatedLabels(); </script>
 				</div>
           </div>
@@ -2582,7 +2582,7 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
 <div style='clear:both'/>
 <div id='virelated-post'>
 <div class='relhead'>
-  <h4><span>Related Posts</span></h4>
+  <h4><span>Tulisan Terkait</span></h4>
 <div class='clear'/>
           <b:loop values='data:post.labels' var='label'>
                <script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?alt=json-in-script&amp;amp;callback=relpostimgcuplik&amp;amp;max-results=50&quot;' type='text/javascript'/>
@@ -3031,7 +3031,7 @@ window.onload = function () {
         <li class='dribbble'><a href='#' rel='nofollow' target='_blank' title='Follow us on Dribble'><i class='fa fa-dribbble '/></a></li>
         <li class='deviantart'><a href='#' rel='nofollow' target='_blank' title='Follow us on DeviantArt'><i class='fa fa-deviantart'/></a></li>
         <li class='pinterest'><a href='#' rel='nofollow' target='_blank' title='Follow us on Pinterest'><i class='fa fa-pinterest '/></a></li>
-        <li class='instgram'><a href='https://www.instagram.com/ayisumarna/' rel='nofollow' target='_blank' title='Follow us on Instagram'><i class='fa fa-instagram '/></a></li>
+        <li class='instgram'><a href='https://www.instagram.com/ayi_sumarna/' rel='nofollow' target='_blank' title='Follow us on Instagram'><i class='fa fa-instagram '/></a></li>
         <li class='tumblr'><a href='#' rel='nofollow' target='_blank' title='Follow us on Tumblr'><i class='fa fa-tumblr '/></a></li>
         <li class='linkedin'><a href='#' rel='nofollow' target='_blank' title='Follow us on LinkedIn'><i class='fa fa-linkedin '/></a></li>
         <li class='soundcloud'><a href='#' rel='nofollow' target='_blank' title='Follow us on Soundcloud'><i class='fa fa-soundcloud '/></a></li>
@@ -3269,7 +3269,7 @@ window.onload = function () {
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='PopularPosts2' locked='false' title='Most Trending' type='PopularPosts' version='1' visible='true'>
+  <b:widget id='PopularPosts2' locked='false' title='Trending' type='PopularPosts' version='1' visible='true'>
     <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
   <div class='widget-content popular-posts'>
