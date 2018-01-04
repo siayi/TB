@@ -1265,8 +1265,8 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <div id='oopss'>
 <div id='error-text'>
   <span>404</span>
-  <p>Kumaha Atuh Page Not Found</p>
-  <p>Back to</p>
+  <p>Aduh ada sedikit masalah nih</p>
+  <p>silakan dicoba kembali</p>
   <p><a class='back' href='/'><data:blog.title/></a></p>
   </div>
   </div>
@@ -1461,7 +1461,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>-->
 <li><a href='http://keuangandesa.info/search/label/Video?max-results=6' itemprop='url'><span itemprop='name'>Video</span></a></li>
 </ul>
-<form action='p/blog-page_26.html' id='search-form'>
+<form action='/p/blog-page_26.html' id='search-form'>
 <input name='cx' type='hidden' value='partner-pub-012986247084594959022:_qw5vgnzdnu'/>
 <input name='cof' type='hidden' value='FORID:10'/>
 <input name='ie' type='hidden' value='ISO-8859-1'/>
