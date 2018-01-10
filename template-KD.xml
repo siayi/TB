@@ -164,14 +164,15 @@ p,h2,h3{orphans:3;widows:3}h2,h3{page-break-after:avoid}}
 ul,dl{margin:.5em 0em .5em 3em}ol{list-style:decimal outside}ul{list-style:disc outside}li{margin:.5em 0}dt{font-weight:bold}dd{margin:0 0 .5em 2em}
 
 /* CSS List Custom */
+/*
 .post ul li span{position:relative;display:block;margin:0;padding:5px 8px;margin-bottom:10px;transition:all .3s ease-out;}
 ol {counter-reset:li;list-style: none;font:15px 'Roboto', 'lucida sans';
 padding:0;margin-bottom:4em;text-shadow: 0 1px 0 rgba(255,255,255,.5);}
 ol ol {margin: 0 0 0 2em;}
 .post ol li{position:relative;display:block;padding:.4em .4em .4em .8em;margin:.5em 0 .5em 2.5em;background:#fff;transition:all .3s;}
-.post ol li:before {content:counter(li)".";counter-increment:li;position:absolute;left:-2.5em;
+.post ol li:before {content: counters(li, ".") " ";counter-increment:li;position:absolute;left:-2.5em;
 top:50%;margin-top:-1em;height:2em;width:2em;line-height:2em;text-align:center;}
-
+*/
 /* CSS Post Table */
 .post-body table td,.post-body table caption{border:1px solid #e9e9e9;padding:5px 10px;text-align:left;vertical-align:top;}
 .post-body table th {border:1px solid #e9e9e9;padding:10px;text-align:left;vertical-align:top;}
@@ -1265,8 +1266,8 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <div id='oopss'>
 <div id='error-text'>
   <span>404</span>
-  <p>Aduh ada sedikit masalah nih</p>
-  <p>silakan dicoba kembali</p>
+  <p>Silakan dicoba lagi</p>
+  <p>Kembali ke</p>
   <p><a class='back' href='/'><data:blog.title/></a></p>
   </div>
   </div>
@@ -1296,7 +1297,16 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 
 <div id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
   <b:section class='header section' id='header' maxwidgets='1' showaddelement='no'>
-    <b:widget id='Header1' locked='true' title='KeuanganDesa.info - Mengawal Tata Kelola Keuangan Desa (Header)' type='Header' version='1' visible='true'>
+    <b:widget id='Header1' locked='true' title='KeuanganDesa.info - Mengawal Tata Kelola Keuangan Desa (Header)' type='Header' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-YeXpS32O5Qo/V4TpZA00hqI/AAAAAAAAHmw/Sr9ImBQ0fc0-VZgEeExj1J_Ys8plkbyngCK4B/s1600/keuangandesa.info-v3.png</b:widget-setting>
+        <b:widget-setting name='displayHeight'>38</b:widget-setting>
+        <b:widget-setting name='sectionWidth'>239</b:widget-setting>
+        <b:widget-setting name='useImage'>true</b:widget-setting>
+        <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+        <b:widget-setting name='imagePlacement'>BEFORE_DESCRIPTION</b:widget-setting>
+        <b:widget-setting name='displayWidth'>237</b:widget-setting>
+      </b:widget-settings>
       <b:includable id='main'>
   <b:if cond='data:useImage'>
     <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
@@ -1376,7 +1386,19 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
     </b:widget>
   </b:section>
   <b:section class='header-right section' id='header-right' maxwidgets='1' showaddelement='yes'>
-    <b:widget id='HTML3' locked='false' title='' type='HTML' version='1' visible='true'>
+    <b:widget id='HTML3' locked='false' title='' type='HTML' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- KeuanganDesa970x90 --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-9795094804647022&quot;
+     data-ad-slot=&quot;4547866990&quot;
+     data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;</b:widget-setting>
+      </b:widget-settings>
       <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -1501,7 +1523,10 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 <div id='carousel'>
 <div id='crosscol-wrapper'>
 <b:section class='crosscol' id='crosscol' showaddelement='no'>
-  <b:widget id='HTML13' locked='false' title='Artikel Pilihan' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML13' locked='false' title='Artikel Pilihan' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Artikel</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
        <!-- only display title if it's non-empty -->
        <b:if cond='data:title != &quot;&quot;'>
@@ -1550,7 +1575,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <div class='clear'/>
 </b:if>
 <b:section class='banner section' id='banner' maxwidgets='1' showaddelement='yes'>
-  <b:widget id='HTML5' locked='false' title='' type='HTML' visible='true'>
+  <b:widget id='HTML5' locked='false' title='' type='HTML'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -1569,7 +1594,10 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <div id='mag-wrapper'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <b:section class='viennabox1 section' id='viennabox-1' showaddelement='yes'>
-  <b:widget id='HTML70' locked='false' title='Berita' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML70' locked='false' title='Berita' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Berita</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
     <!-- only display title if it's non-empty -->
     <b:if cond='data:title != &quot;&quot;'>
@@ -1589,7 +1617,10 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
   </b:widget>
 </b:section>
 <b:section class='viennabox section' id='viennabox-2' showaddelement='yes'>
-  <b:widget id='HTML71' locked='false' title='Pajak' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML71' locked='false' title='Pajak' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Pajak</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
      <!-- only display title if it's non-empty -->
      <b:if cond='data:title != &quot;&quot;'>
@@ -1609,7 +1640,10 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
   </b:widget>
 </b:section>
 <b:section class='viennabox section' id='viennabox-3' showaddelement='yes'>
-  <b:widget id='HTML72' locked='false' title='Akuntansi' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML72' locked='false' title='Akuntansi' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Akuntansi</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
 <!-- only display title if it's non-empty -->
 <b:if cond='data:title != &quot;&quot;'>
@@ -1632,7 +1666,29 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <div class='clear'/>
 <div class='post-inner'>
   <b:section class='main' id='main' maxwidgets='3' showaddelement='yes'>
-    <b:widget id='Blog1' locked='true' title='Posting Blog' type='Blog' version='1' visible='true'>
+    <b:widget id='Blog1' locked='true' title='Posting Blog' type='Blog' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+        <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+        <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+        <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+        <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+        <b:widget-setting name='postLocationLabel'>Lokasi:Indonesia</b:widget-setting>
+        <b:widget-setting name='showAuthor'>true</b:widget-setting>
+        <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+        <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+        <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+        <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
+        <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+        <b:widget-setting name='showLabels'>true</b:widget-setting>
+        <b:widget-setting name='showLocation'>true</b:widget-setting>
+        <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+        <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+        <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+        <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+        <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+        <b:widget-setting name='showReactions'>false</b:widget-setting>
+      </b:widget-settings>
       <b:includable id='main' var='top'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <div class='recent-post-title'>
@@ -2947,7 +3003,10 @@ window.onload = function () {
 <div id='mag-wrapper2'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <b:section class='viennabox1 section' id='viennabox-4' showaddelement='yes'>
-  <b:widget id='HTML73' locked='false' title='Perencanaan' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML73' locked='false' title='Perencanaan' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Perencanaan</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
                       <!-- only display title if it's non-empty -->
                       <b:if cond='data:title != &quot;&quot;'>
@@ -2968,7 +3027,10 @@ window.onload = function () {
   </b:widget>
 </b:section>
 <b:section class='viennabox section' id='viennabox-5' showaddelement='yes'>
-  <b:widget id='HTML74' locked='false' title='Pelaksanaan' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML74' locked='false' title='Pelaksanaan' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Pelaksanaan</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
                       <!-- only display title if it's non-empty -->
                       <b:if cond='data:title != &quot;&quot;'>
@@ -2989,7 +3051,10 @@ window.onload = function () {
   </b:widget>
 </b:section>
 <b:section class='viennabox section' id='viennabox-6' showaddelement='yes'>
-  <b:widget id='HTML75' locked='false' title='Pelaporan' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML75' locked='false' title='Pelaporan' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>Pelaporan</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
                       <!-- only display title if it's non-empty -->
                       <b:if cond='data:title != &quot;&quot;'>
@@ -3017,7 +3082,10 @@ window.onload = function () {
 <aside id='sidebar-wrapper' itemscope='itemscope' itemtype='https://schema.org/WPSideBar'>
 <div class='sidebar-inner'>
   <b:section class='sidebar-two section' id='sidebar-two' preferred='yes'>
-    <b:widget id='HTML14' locked='false' mobile='yes' title='Media Sosial' type='HTML' version='1' visible='true'>
+    <b:widget id='HTML14' locked='false' mobile='yes' title='Media Sosial' type='HTML' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='content'/>
+      </b:widget-settings>
       <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if>
   <div class='widget-content'>
@@ -3044,7 +3112,13 @@ window.onload = function () {
 <div class='clear'/>
 <div class='vitabs vitabs-1'>
 <b:section class='vita-list vita-list-1 section' id='vita-list-1' showaddelement='yes'>
-  <b:widget id='PopularPosts1' locked='false' title='Populer' type='PopularPosts' version='1' visible='true'>
+  <b:widget id='PopularPosts1' locked='false' title='Populer' type='PopularPosts' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+      <b:widget-setting name='showThumbnails'>true</b:widget-setting>
+      <b:widget-setting name='showSnippets'>false</b:widget-setting>
+      <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
   <div class='widget-content popular-posts'>
@@ -3098,7 +3172,18 @@ window.onload = function () {
   </b:widget>
 </b:section>
 <b:section class='vita-list vita-list-2 section' id='vita-list-2' showaddelement='yes'>
-  <b:widget id='BlogArchive1' locked='false' mobile='yes' title='Arsip' type='BlogArchive' version='1' visible='true'>
+  <b:widget id='BlogArchive1' locked='false' mobile='yes' title='Arsip' type='BlogArchive' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='showStyle'>HIERARCHY</b:widget-setting>
+      <b:widget-setting name='yearPattern'>yyyy</b:widget-setting>
+      <b:widget-setting name='showWeekEnd'>true</b:widget-setting>
+      <b:widget-setting name='monthPattern'>MMMM</b:widget-setting>
+      <b:widget-setting name='dayPattern'>MMM dd</b:widget-setting>
+      <b:widget-setting name='weekPattern'>MM/dd</b:widget-setting>
+      <b:widget-setting name='chronological'>false</b:widget-setting>
+      <b:widget-setting name='showPosts'>true</b:widget-setting>
+      <b:widget-setting name='frequency'>MONTHLY</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title'>
     <h2><data:title/></h2>
@@ -3182,7 +3267,19 @@ window.onload = function () {
   </b:widget>
 </b:section>
 <b:section class='vita-list vita-list-3 section' id='vita-list-3' showaddelement='yes'>
-  <b:widget id='HTML4' locked='false' title='Komentar' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML4' locked='false' title='Komentar' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;style scoped=&#39;&#39; type=&quot;text/css&quot;&gt;
+ul.arlinacomments{list-style:none;margin:0;padding:0}.arlinacomments li{display:block;clear:both;overflow:hidden;list-style:none;border-bottom:0!important;word-break:break-all}.arlinacomments li .avatarImage{float:left;margin-right:10px;position:relative;overflow:hidden}.arlinacomments li img{position:relative;overflow:hidden;display:block;width:42px;height:42px}.arlinacomments li a{font-weight:700}.arlinacomments li span{margin-top:2px;color:#666;display:block;font-size:12px;line-height:1.4}
+&lt;/style&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+//&lt;![CDATA[
+// Recent Comments
+function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&gt;&#39;;for(var t=0;numComments&gt;t;t++){var r,o,n,i;if(t==a.feed.entry.length)break;e+=&quot;&lt;li&gt;&quot;;for(var d=a.feed.entry[t],s=0;s&lt;d.link.length;s++)&quot;alternate&quot;==d.link[s].rel&amp;&amp;(r=d.link[s].href);for(var l=0;l&lt;d.author.length;l++)o=d.author[l].name.$t,n=d.author[l].gd$image.src;n=-1!=n.indexOf(&quot;/s1600/&quot;)?n.replace(&quot;/s1600/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s220/&quot;)?n.replace(&quot;/s220/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s512-c/&quot;)&amp;&amp;0!=n.indexOf(&quot;http:&quot;)?&quot;http:&quot;+n.replace(&quot;/s512-c/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;blogblog.com/img/b16-rounded.gif&quot;)?&quot;http://1.bp.blogspot.com/-7bkcAKdpGXI/UrbyQRqvSKI/AAAAAAAAFmI/oBv_yMeYnMQ/s&quot;+avatarSize+&quot;/blogger.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/openid16-rounded.gif&quot;)?&quot;http://2.bp.blogspot.com/-VgnInuIUKBU/UrbzyXTYWRI/AAAAAAAAFmU/3f_Vfj3TI6A/s&quot;+avatarSize+&quot;/openid.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/blank.gif&quot;)?-1!=defaultAvatar.indexOf(&quot;gravatar.com&quot;)?defaultAvatar+&quot;&amp;s=&quot;+avatarSize:defaultAvatar:n,1==showAvatar&amp;&amp;(i=1==roundAvatar?&quot;avatarRound&quot;:&quot;&quot;,e+=&#39;&lt;div class=&quot;avatarImage &#39;+i+&#39;&quot;&gt;&lt;img class=&quot;&#39;+i+&#39;&quot; src=&quot;&#39;+n+&#39;&quot; alt=&quot;&#39;+o+&#39;&quot; width=&quot;&#39;+avatarSize+&#39;&quot; height=&quot;&#39;+avatarSize+&#39;&quot;/&gt;&lt;/div&gt;&#39;),e+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+o+&quot;&lt;/a&gt;&quot;;var A=d.content.$t,v=A.replace(/(&lt;([^&gt;]+)&gt;)/gi,&quot;&quot;);&quot;&quot;!=v&amp;&amp;v.length&gt;characters?(v=v.substring(0,characters),v+=&quot;&amp;hellip;&quot;,1==showMorelink&amp;&amp;(v+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+moreLinktext+&quot;&lt;/a&gt;&quot;)):v=v,e+=&quot;&lt;span&gt;&quot;+v+&quot;&lt;/span&gt;&quot;,e+=&quot;&lt;/li&gt;&quot;}e+=&quot;&lt;/ul&gt;&quot;;var c=&quot;&quot;;0==hideCredits&amp;&amp;(c=&quot;display:block;&quot;),e+=&quot;&quot;,document.write(e)}var numComments=7,showAvatar=!0,avatarSize=42,roundAvatar=!0,characters=40,showMorelink=!1,defaultAvatar=&quot;http://2.bp.blogspot.com/-XjxrXKBPQqs/VYcGtLWPGUI/AAAAAAAAKaQ/5jr871JIwds/s1600/default-avatar.jpg&quot;,hideCredits=!0,numComments=numComments||5,avatarSize=avatarSize||60,characters=characters||40,defaultAvatar=defaultAvatar||&quot;http://4.bp.blogspot.com/-SRSVCXNxbAc/UrbxxXd06YI/AAAAAAAAFl4/332qncR9pD4/s1600/default-avatar.jpg&quot;,moreLinktext=moreLinktext||&quot; More &amp;raquo;&quot;,showAvatar=&quot;undefined&quot;==typeof showAvatar?!0:showAvatar,showMorelink=&quot;undefined&quot;==typeof showMorelink?!1:showMorelink,roundAvatar=&quot;undefined&quot;==typeof roundAvatar?!0:roundAvatar,hideCredits=&quot;undefined&quot;==typeof hideCredits?!1:roundAvatar;
+//]]&gt;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.keuangandesa.info/feeds/comments/default?alt=json&amp;amp;callback=arlinacomments&amp;amp;max-results=7&quot;&gt;&lt;/script&gt;</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -3197,7 +3294,14 @@ window.onload = function () {
 </div>
 <div class='clear'/>
 <b:section class='sidebar section' id='sidebar' preferred='yes'>
-  <b:widget id='Label1' locked='false' title='Tag Populer' type='Label' version='1' visible='true'>
+  <b:widget id='Label1' locked='false' title='Tag Populer' type='Label' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+      <b:widget-setting name='display'>LIST</b:widget-setting>
+      <b:widget-setting name='selectedLabelsList'/>
+      <b:widget-setting name='showType'>ALL</b:widget-setting>
+      <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title'>
     <h2><data:title/></h2>
@@ -3235,7 +3339,7 @@ window.onload = function () {
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='HTML2' locked='false' title='' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML2' locked='false' title='' type='HTML' version='1'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -3246,7 +3350,7 @@ window.onload = function () {
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='FollowByEmail1' locked='false' mobile='yes' title='Newsletter' type='FollowByEmail' version='1' visible='true'>
+  <b:widget id='FollowByEmail1' locked='false' mobile='yes' title='Newsletter' type='FollowByEmail' version='1'>
     <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if>
   <div class='widget-content'>
@@ -3269,7 +3373,13 @@ window.onload = function () {
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='PopularPosts2' locked='false' title='Trending' type='PopularPosts' version='1' visible='true'>
+  <b:widget id='PopularPosts2' locked='false' title='Trending' type='PopularPosts' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+      <b:widget-setting name='showThumbnails'>true</b:widget-setting>
+      <b:widget-setting name='showSnippets'>true</b:widget-setting>
+      <b:widget-setting name='timeRange'>LAST_YEAR</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
   <div class='widget-content popular-posts'>
@@ -3345,7 +3455,10 @@ window.onload = function () {
 <div id='footer-adwidget'>
 <div class='footer-widget' id='footx1'>
 <b:section class='footer' id='footer1'>
-  <b:widget id='Translate1' locked='false' title='Translate' type='Translate' version='1' visible='true'>
+  <b:widget id='Translate1' locked='false' title='Translate' type='Translate' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='displayMode'>VERTICAL</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'>
     <h2 class='title'><data:title/></h2>
@@ -3367,7 +3480,14 @@ window.onload = function () {
 </div>
 <div class='footer-widget' id='footx2'>
 <b:section class='footer' id='footer2'>
-  <b:widget id='Label3' locked='false' mobile='yes' title='Label' type='Label' version='1' visible='true'>
+  <b:widget id='Label3' locked='false' mobile='yes' title='Label' type='Label' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+      <b:widget-setting name='display'>LIST</b:widget-setting>
+      <b:widget-setting name='selectedLabelsList'/>
+      <b:widget-setting name='showType'>ALL</b:widget-setting>
+      <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title'>
     <h2><data:title/></h2>
@@ -3409,7 +3529,10 @@ window.onload = function () {
 </div>
 <div class='footer-widget' id='footx3'>
 <b:section class='footer' id='footer3'>
-  <b:widget id='HTML1' locked='false' title='About' type='HTML' version='1' visible='true'>
+  <b:widget id='HTML1' locked='false' title='About' type='HTML' version='1'>
+    <b:widget-settings>
+      <b:widget-setting name='content'><![CDATA[<b>Keuangan Desa (KD)</b><span style="font-weight: normal;"> adalah media literasi keuangan desa yang menyediakan informasi khusus seputar pengelolaan keuangan desa. Dikemas dengan cara memadukan konsep, standar, terapan, studi kasus, panduan sekaligus berita terkini di seputaran dunia keuangan desa. <br /></span>]]></b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -3420,7 +3543,7 @@ window.onload = function () {
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='ContactForm1' locked='false' mobile='yes' title='Formulir Kontak' type='ContactForm' version='1' visible='true'>
+  <b:widget id='ContactForm1' locked='false' mobile='yes' title='Formulir Kontak' type='ContactForm' version='1'>
     <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'>
     <h2 class='title'><data:title/></h2>
