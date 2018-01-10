@@ -168,7 +168,7 @@ ul,dl{margin:.5em 0em .5em 3em}ol{list-style:decimal outside}ul{list-style:disc 
 ol {counter-reset:daftar;list-style:none;padding:0;margin:0;}
 ol ol {margin: 0 0 0 2em;}
 .post ol li{position:relative;display:block;padding:0;margin:.5em 0 .5em 2em;background:#fff;text-decoration:none;}
-.post ol li:before {content:counter(daftar)".";counter-increment:daftar;position:absolute;left:-2.5em;height:2em;width:2em;text-align:center;}
+.post ol li:before {content:counters(daftar, ".") ".";counter-increment:daftar;position:absolute;left:-2.5em;height:2em;width:2em;text-align:center;}
 .post-body ul {position:relative;display:block;padding:0;margin:.5em 0 .5em 1.5em;text-decoration:none;}
 
 /* CSS Post Table */
