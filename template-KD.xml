@@ -1415,7 +1415,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <a class='menu-slide' href='#'><i class='fa fa-list'/> Menu</a>
 <ul class='nav vienna-mainmenu'>
 <li><a class='active' href='/'><span itemprop='name'><i class='fa fa-home'/> Home</span></a></li>
-<li><a href='http://keuangandesa.info/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
+<li><a href='http://www.keuangandesa.info/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 2</span></a></li>
@@ -1436,7 +1436,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.info/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
+<li><a href='http://www.keuangandesa.info/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 2</span></a></li>
@@ -1450,7 +1450,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.info/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
+<li><a href='http://www.keuangandesa.info/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Menengah</span></a></li>
@@ -1464,7 +1464,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.info/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
+<li><a href='http://www.keuangandesa.info/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>UU</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>PP</span></a></li>
@@ -1479,7 +1479,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </ul> -->
 </li>
 <!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>-->
-<li><a href='http://keuangandesa.info/search/label/Video?max-results=6' itemprop='url'><span itemprop='name'>Video</span></a></li>
+<li><a href='http://www.keuangandesa.info/search/label/Video?max-results=6' itemprop='url'><span itemprop='name'>Video</span></a></li>
 </ul>
 <form action='/p/blog-page_26.html' id='search-form'>
 <input name='cx' type='hidden' value='partner-pub-012986247084594959022:_qw5vgnzdnu'/>
