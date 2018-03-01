@@ -1422,7 +1422,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 3</span></a></li>
 </ul>-->
 </li>
-<li><a href='http://keuangandesa.info/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
+<li><a href='http://www.keuangandesa.info/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>A1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>A2</span></a></li>
