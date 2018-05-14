@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='https://www.w3.org/1999/xhtml' xmlns:b='https://www.google.com/2005/gml/b' xmlns:data='https://www.google.com/2005/gml/data' xmlns:expr='https://www.google.com/2005/gml/expr'>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
 <!-- [ Meta Tag SEO ] -->
 <meta charset='utf-8'/>
@@ -3114,7 +3114,7 @@ window.onload = function () {
     <b:widget-settings>
       <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
       <b:widget-setting name='showThumbnails'>true</b:widget-setting>
-      <b:widget-setting name='showSnippets'>false</b:widget-setting>
+      <b:widget-setting name='showSnippets'>true</b:widget-setting>
       <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
@@ -3294,8 +3294,8 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
 <b:section class='sidebar section' id='sidebar' preferred='yes'>
   <b:widget id='Label1' locked='false' title='Tag Populer' type='Label' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
-      <b:widget-setting name='display'>LIST</b:widget-setting>
+      <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
+      <b:widget-setting name='display'>CLOUD</b:widget-setting>
       <b:widget-setting name='selectedLabelsList'/>
       <b:widget-setting name='showType'>ALL</b:widget-setting>
       <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
@@ -3376,7 +3376,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
       <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
       <b:widget-setting name='showThumbnails'>true</b:widget-setting>
       <b:widget-setting name='showSnippets'>true</b:widget-setting>
-      <b:widget-setting name='timeRange'>LAST_YEAR</b:widget-setting>
+      <b:widget-setting name='timeRange'>LAST_MONTH</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <b:if cond='data:title'><h2><data:title/></h2></b:if>
@@ -3480,10 +3480,10 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
 <b:section class='footer' id='footer2'>
   <b:widget id='Label3' locked='false' mobile='yes' title='Label' type='Label' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
-      <b:widget-setting name='display'>LIST</b:widget-setting>
-      <b:widget-setting name='selectedLabelsList'/>
-      <b:widget-setting name='showType'>ALL</b:widget-setting>
+      <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
+      <b:widget-setting name='display'>CLOUD</b:widget-setting>
+      <b:widget-setting name='selectedLabelsList'>APBDes,Akuntansi,Artikel,Buku,Data dan Fakta,Download,Infografis,Istilah,Keuangan Desa,Opini,Pajak,Pelaksanaan,Pelaporan,Penatausahaan,Pengelola Keuangan,Pengelolaan Keuangan Desa,Perencanaan,Pertanggungjawaban,Siskeudes,Standar,Video</b:widget-setting>
+      <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
       <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
