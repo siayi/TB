@@ -1192,11 +1192,107 @@ function arlina_thumbnail_resize(e,t){var n=350;var r=210;image_tag='<img width=
 <script type='text/javascript'>
 //<![CDATA[
 // Featured Source
-var _0xbe12=["\x68\x74\x74\x70\x3A\x2F\x2F\x73\x69\x74\x65\x73\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D\x2F\x73\x69\x74\x65\x2F\x66\x64\x62\x6C\x6F\x67\x73\x69\x74\x65\x2F\x48\x6F\x6D\x65\x2F\x6E\x6F\x74\x68\x75\x6D\x62\x6E\x61\x69\x6C\x2E\x67\x69\x66","\x35","\x3C","\x73\x70\x6C\x69\x74","\x6C\x65\x6E\x67\x74\x68","\x3E","\x69\x6E\x64\x65\x78\x4F\x66","\x73\x75\x62\x73\x74\x72\x69\x6E\x67","","\x6A\x6F\x69\x6E","\x72\x61\x6E\x64\x6F\x6D","\x66\x6C\x6F\x6F\x72","\x65\x6E\x74\x72\x79","\x66\x65\x65\x64","\x74\x65\x72\x6D","\x63\x61\x74\x65\x67\x6F\x72\x79","\x24\x74","\x74\x69\x74\x6C\x65","\x6C\x69\x6E\x6B","\x72\x65\x6C","\x61\x6C\x74\x65\x72\x6E\x61\x74\x65","\x68\x72\x65\x66","\x72\x65\x70\x6C\x69\x65\x73","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x68\x74\x6D\x6C","\x20","\x63\x6F\x6E\x74\x65\x6E\x74","\x73\x75\x6D\x6D\x61\x72\x79","\x70\x75\x62\x6C\x69\x73\x68\x65\x64","\x3C\x69\x6D\x67","\x73\x72\x63\x3D\x22","\x22","\x73\x75\x62\x73\x74\x72","\x4A\x61\x6E","\x46\x65\x62","\x4D\x61\x72","\x41\x70\x72","\x4D\x61\x79","\x4A\x75\x6E","\x4A\x75\x6C","\x41\x75\x67","\x53\x65\x70","\x4F\x63\x74","\x4E\x6F\x76","\x44\x65\x63","\x2D","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x61\x69\x6E\x2D\x70\x6F\x73\x74\x20\x63\x6F\x6C\x2D\x70\x6F\x73\x74\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x64\x61\x74\x65\x22\x3E\x3C\x70\x3E\x3C\x73\x70\x61\x6E\x3E","\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x70\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E\x3C\x69\x6D\x67\x20\x77\x69\x64\x74\x68\x3D\x22","\x22\x20\x68\x65\x69\x67\x68\x74\x3D\x22","\x22\x20\x73\x72\x63\x3D\x22","\x2F\x73\x37\x32\x2D\x63\x2F","\x2F\x77","\x2D\x68","\x2D\x63\x2F","\x72\x65\x70\x6C\x61\x63\x65","\x22\x20\x61\x6C\x74\x3D\x22\x22\x3E\x3C\x2F\x69\x6D\x67\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x6E\x66\x6F\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x74\x69\x74\x6C\x65\x22\x3E\x3C\x68\x33\x3E\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x6C\x61\x62\x65\x6C\x22\x3E","\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x20\x74\x69\x74\x6C\x65\x3D\x22\x22\x3E","\x3C\x2F\x61\x3E\x3C\x2F\x68\x33\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x61\x3E\x3C\x2F\x64\x69\x76\x3E","\x77\x72\x69\x74\x65","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x65\x63\x6F\x6E\x64\x61\x72\x79\x2D\x70\x6F\x73\x74\x20\x63\x6F\x6C\x2D\x70\x6F\x73\x74\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E\x3C\x2F\x69\x6D\x67\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x6E\x66\x6F\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x74\x69\x74\x6C\x65\x22\x3E\x3C\x68\x33\x3E\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x6C\x61\x62\x65\x6C\x22\x3E","\x6F\x6E\x6C\x6F\x61\x64","\x61\x72\x6C\x69\x6E\x61\x63\x72\x65\x64\x69\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x3A\x2F\x2F\x61\x72\x6C\x69\x6E\x61\x64\x65\x73\x69\x67\x6E\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D","\x68\x74\x74\x70\x3A\x2F\x2F\x61\x72\x6C\x69\x6E\x61\x64\x65\x73\x69\x67\x6E\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D\x2F","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x6E\x6F\x66\x6F\x6C\x6C\x6F\x77","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x41\x72\x6C\x69\x6E\x61\x20\x44\x65\x73\x69\x67\x6E"];imgr= new Array();imgr[0]=_0xbe12[0];showRandomImg=true;aBold=true;summaryPost=150;summaryTitle=50;numposts1=10;featured_numposts=_0xbe12[1];function removeHtmlTag(_0x3737x2,_0x3737x3){var _0x3737x4=_0x3737x2[_0xbe12[3]](_0xbe12[2]);for(var _0x3737x5=0;_0x3737x5<_0x3737x4[_0xbe12[4]];_0x3737x5++){if(_0x3737x4[_0x3737x5][_0xbe12[6]](_0xbe12[5])!= -1){_0x3737x4[_0x3737x5]=_0x3737x4[_0x3737x5][_0xbe12[7]](_0x3737x4[_0x3737x5][_0xbe12[6]](_0xbe12[5])+1,_0x3737x4[_0x3737x5][_0xbe12[4]])}};_0x3737x4=_0x3737x4[_0xbe12[9]](_0xbe12[8]);_0x3737x4=_0x3737x4[_0xbe12[7]](0,_0x3737x3-1);return _0x3737x4;}function sliderposts(_0x3737x7){j=showRandomImg?Math[_0xbe12[11]]((imgr[_0xbe12[4]]+1)*Math[_0xbe12[10]]()):0;img= new Array;if(numposts1<=_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]){maxpost=numposts1}else {maxpost=_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]};for(var _0x3737x5=0;_0x3737x5<maxpost;_0x3737x5++){var _0x3737x8=_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0x3737x5];var _0x3737x9=_0x3737x8[_0xbe12[15]][0][_0xbe12[14]];var _0x3737xa=_0x3737x8[_0xbe12[17]][_0xbe12[16]];var _0x3737xb;var _0x3737xc;if(_0x3737x5==_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]){break };for(var _0x3737xd=0;_0x3737xd<_0x3737x8[_0xbe12[18]][_0xbe12[4]];_0x3737xd++){if(_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[19]]==_0xbe12[20]){_0x3737xc=_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[21]];break ;}};for(var _0x3737xd=0;_0x3737xd<_0x3737x8[_0xbe12[18]][_0xbe12[4]];_0x3737xd++){if(_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[19]]==_0xbe12[22]&&_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[23]]==_0xbe12[24]){_0x3737xb=_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[17]][_0xbe12[3]](_0xbe12[25])[0];break ;}};if(_0xbe12[26] in _0x3737x8){var _0x3737xe=_0x3737x8[_0xbe12[26]][_0xbe12[16]]}else {if(_0xbe12[27] in _0x3737x8){var _0x3737xe=_0x3737x8[_0xbe12[27]][_0xbe12[16]]}else {var _0x3737xe=_0xbe12[8]}};postdate=_0x3737x8[_0xbe12[28]][_0xbe12[16]];if(j>imgr[_0xbe12[4]]-1){j=0};img[_0x3737x5]=imgr[j];s=_0x3737xe;a=s[_0xbe12[6]](_0xbe12[29]);b=s[_0xbe12[6]](_0xbe12[30],a);c=s[_0xbe12[6]](_0xbe12[31],b+5);d=s[_0xbe12[32]](b+5,c-b-5);if(a!=-1&&(b!=-1&&(c!=-1&&d!=_0xbe12[8]))){img[_0x3737x5]=d};var _0x3737xf=[1,2,3,4,5,6,7,8,9,10,11,12];var _0x3737x10=[_0xbe12[33],_0xbe12[34],_0xbe12[35],_0xbe12[36],_0xbe12[37],_0xbe12[38],_0xbe12[39],_0xbe12[40],_0xbe12[41],_0xbe12[42],_0xbe12[43],_0xbe12[44]];var _0x3737x11=postdate[_0xbe12[3]](_0xbe12[45])[2][_0xbe12[7]](0,2);var _0x3737x12=postdate[_0xbe12[3]](_0xbe12[45])[1];var _0x3737x13=postdate[_0xbe12[3]](_0xbe12[45])[0];var _0x3737x14=530;var _0x3737x15=400;var _0x3737x16=265;var _0x3737x17=200;for(var _0x3737x18=0;_0x3737x18<_0x3737xf[_0xbe12[4]];_0x3737x18++){if(parseInt(_0x3737x12)==_0x3737xf[_0x3737x18]){_0x3737x12=_0x3737x10[_0x3737x18];break ;}};var _0x3737x19=_0x3737x11+_0xbe12[25]+_0x3737x12+_0xbe12[25]+_0x3737x13;if(_0x3737x5==0){var _0x3737x1a=_0xbe12[46]+_0x3737x19+_0xbe12[47]+_0x3737xc+_0xbe12[48]+_0x3737x14+_0xbe12[49]+_0x3737x15+_0xbe12[50]+img[_0x3737x5][_0xbe12[55]](_0xbe12[51],_0xbe12[52]+_0x3737x14+_0xbe12[53]+_0x3737x15+_0xbe12[54])+_0xbe12[56]+_0x3737x9+_0xbe12[57]+_0x3737xc+_0xbe12[58]+_0x3737xa+_0xbe12[59];document[_0xbe12[60]](_0x3737x1a);}else {var _0x3737x1a=_0xbe12[61]+_0x3737xc+_0xbe12[48]+_0x3737x16+_0xbe12[49]+_0x3737x17+_0xbe12[50]+img[_0x3737x5]+_0xbe12[62]+_0x3737x9+_0xbe12[57]+_0x3737xc+_0xbe12[58]+_0x3737xa+_0xbe12[59];document[_0xbe12[60]](_0x3737x1a);};j++;};}window[_0xbe12[63]]=function(){var _0x3737x1b=document[_0xbe12[65]](_0xbe12[64]);if(_0x3737x1b==null){window[_0xbe12[66]][_0xbe12[21]]=_0xbe12[67]};_0x3737x1b[_0xbe12[69]](_0xbe12[21],_0xbe12[68]);_0x3737x1b[_0xbe12[69]](_0xbe12[19],_0xbe12[70]);_0x3737x1b[_0xbe12[71]]=_0xbe12[72];};
-// jCarouselLite - https://gmarwaha.com/jquery/jcarousellite/
-!function(e){function t(t,n){return parseInt(e.css(t[0],n))||0}function n(e){return e[0].offsetWidth+t(e,"marginLeft")+t(e,"marginRight")}function l(e){return e[0].offsetHeight+t(e,"marginTop")+t(e,"marginBottom")}e.fn.jCarouselLite=function(t){return t=e.extend({btnPrev:null,btnNext:null,btnGo:null,mouseWheel:!1,auto:null,speed:200,easing:null,vertical:!1,circular:!0,visible:4,start:0,scroll:1,beforeStart:null,afterEnd:null},t||{}),this.each(function(){function i(){return v.slice(p).slice(0,h)}function r(n){if(!s){if(t.beforeStart&&t.beforeStart.call(this,i()),t.circular)n<=t.start-h-1?(u.css(c,-((b-2*h)*g)+"px"),p=n==t.start-h-1?b-2*h-1:b-2*h-t.scroll):n>=b-h+1?(u.css(c,-(h*g)+"px"),p=n==b-h+1?h+1:h+t.scroll):p=n;else{if(0>n||n>b-h)return;p=n}s=!0,u.animate("left"==c?{left:-(p*g)}:{top:-(p*g)},t.speed,t.easing,function(){t.afterEnd&&t.afterEnd.call(this,i()),s=!1}),t.circular||(e(t.btnPrev+","+t.btnNext).removeClass("disabled"),e(p-t.scroll<0&&t.btnPrev||p+t.scroll>b-h&&t.btnNext||[]).addClass("disabled"))}return!1}var s=!1,c=t.vertical?"top":"left",o=t.vertical?"height":"width",a=e(this),u=e("ul",a),f=e("li",u),d=f.size(),h=t.visible;t.circular&&(u.prepend(f.slice(d-h-1+1).clone()).append(f.slice(0,h).clone()),t.start+=h);var v=e("li",u),b=v.size(),p=t.start;a.css("visibility","visible"),v.css({overflow:"hidden","float":t.vertical?"none":"left"}),u.css({margin:"0",padding:"0",position:"relative","list-style-type":"none","z-index":"1"}),a.css({overflow:"hidden",position:"relative","z-index":"2",left:"0px"});var g=t.vertical?l(v):n(v),x=g*b,m=g*h;v.css({width:v.width(),height:v.height()}),u.css(o,x+"px").css(c,-(p*g)),a.css(o,m+"px"),t.btnPrev&&e(t.btnPrev).click(function(){return r(p-t.scroll)}),t.btnNext&&e(t.btnNext).click(function(){return r(p+t.scroll)}),t.btnGo&&e.each(t.btnGo,function(n,l){e(l).click(function(){return r(t.circular?t.visible+n:n)})}),t.mouseWheel&&a.mousewheel&&a.mousewheel(function(e,n){return r(n>0?p-t.scroll:p+t.scroll)}),t.auto&&setInterval(function(){r(p+t.scroll)},t.auto+t.speed)})}}(jQuery);
-// callback
-function recentarticles1(t){j=showRandomImg?Math.floor((imgr.length+1)*Math.random()):0,img=new Array;for(var e=0;e<numposts5;e++){var r,n,i=t.feed.entry[e],m=i.title.$t;if(e==t.feed.entry.length)break;for(var l=0;l<i.link.length;l++)if("alternate"==i.link[l].rel){n=i.link[l].href;break}for(var l=0;l<i.link.length;l++)if("replies"==i.link[l].rel&&"text/html"==i.link[l].type){r=i.link[l].title.split(" ")[0];break}if("content"in i)var o=i.content.$t;else if("summary"in i)var o=i.summary.$t;else var o="";postdate=i.published.$t,j>imgr.length-1&&(j=0),img[e]=imgr[j],s=o,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),-1!=a&&-1!=b&&-1!=c&&""!=d&&(img[e]=d);for(var u=[1,2,3,4,5,6,7,8,9,10,11,12],h=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],p=(postdate.split("-")[2].substring(0,2),postdate.split("-")[1]),f=(postdate.split("-")[0],0);f<u.length;f++)if(parseInt(p)==u[f]){p=h[f];break}var w='<li class="car"><div class="thumbE"><a href="'+n+'"><img width="265" min-height="200" class="Thumbnail thumbnail carousel " src="'+img[e]+'"/></a></div><a class="slider_title" href="'+n+'">'+m+"</a></li>";document.write(w),j++}}function mythumb(t){for(var e=0;e<numposts;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var u;try{u=n.media$thumbnail.url,u=u.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);document.write('<ul class="arlinathumbs">'),document.write("<li>"),1==showpostthumbnails&&document.write('<a href="'+r+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i+'" src="'+u+'"/></div></a>'),document.write('<span class="arlinatitle"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v=v+'<span class="arlinameta_date">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore&&(v=v+'<span class="arlinameta_more"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</span>"),document.write("</li>"),document.write("</ul>")}document.write('<ul class="arlinathumbs2">');for(var e=1;e<numposts2;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=1;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var $;try{$=n.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),$=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);1==showpostthumbnails2&&document.write('<a href="'+r+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i+'" src="'+$+'"/></div></a>'),document.write("<li>"),document.write('<span class="arlinatitle arlinatitle2"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";document.write('<span class="arlinameta arlinameta2">'),1==showpostdate2&&(v=v+'<span class="arlinameta_date arlinameta_date2">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum2&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore2&&(v=v+'<span class="arlinameta_more arlinameta_more2"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write("</li>")}document.write("</ul>")}function mythumb1(t){for(var e=0;e<numposts;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var u;try{u=n.media$thumbnail.url,u=u.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);document.write('<ul class="arlinathumbs1">'),document.write("<li>"),1==showpostthumbnails&&document.write('<a href="'+r+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i+'" src="'+u+'"/></div></a>'),document.write('<span class="arlinatitle"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v=v+'<span class="arlinameta_date">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore&&(v=v+'<span class="arlinameta_more"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</span>"),document.write("</li>"),document.write("</ul>")}document.write('<ul class="arlinathumbs22">');for(var e=1;e<numposts3;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=1;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var $;try{$=n.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),$=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);1==showpostthumbnails2&&document.write('<a href="'+r+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i+'" src="'+$+'"/></div></a>'),document.write("<li>"),document.write('<span class="arlinatitle arlinatitle2"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";document.write('<span class="arlinameta arlinameta2">'),1==showpostdate2&&(v=v+'<span class="arlinameta_date arlinameta_date2">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum2&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore2&&(v=v+'<span class="arlinameta_more arlinameta_more2"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write("</li>")}document.write("</ul>")}function mythumb2(t){document.write('<div id="recent-posts">');for(var e=0;numpost>e;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type){n.link[m].title,n.link[m].href}if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var l;try{l=n.media$thumbnail.url}catch(o){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),l=-1!=a&&-1!=b&&-1!=c&&""!=d?d:'" style="display: none;'}var u=n.published.$t,h=u.substring(0,4),p=u.substring(5,7),f=u.substring(8,10),w=new Array;w[1]="Jan",w[2]="Feb",w[3]="Mar",w[4]="Apr",w[5]="May",w[6]="Jun",w[7]="Jul",w[8]="Aug",w[9]="Sep",w[10]="Oct",w[11]="Nov",w[12]="Dec",document.write('<div class="post_wrapper1">'),document.write('<div class="post_thumb"><a href="'+r+'"><img src="'+l.replace("/s72-c/","/s120-c/")+'" alt="'+i+'" height="90" width="90"></div>');var g="",v=0;if(document.write(""),1==showpostdate&&(g=g+f+"/"+p+"/"+h,v=1),document.write('<div class="post_desc"><a href="'+r+'"><h5>'+i+'</h5></a><span class="meta"><i class="fa fa-clock-o"></i>&nbsp;'+g+"</span><p>"),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</p></div><div class='clear'></div></div>"),1==displayseparator&&e!=numposts-1&&document.write("")}document.write("</div>")}imgr=new Array,imgr[0]="https://3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s1600/picture_not_available.png",showRandomImg=!0,aBold=!0,summaryPost=150,summaryPost1=0,summaryTitle=15,numposts5=6;var numpost=3,displayseparator=!1,showpostdate=!0,showpostsummary=!0,numchars=50;
+var _0xbe12 = ["https://sites.google.com/site/fdblogsite/Home/nothumbnail.gif", "5", "<", "split", "length", ">", "indexOf", "substring", "", "join", "random", "floor", "entry", "feed", "term", "category", "$t", "title", "link", "rel", "alternate", "href", "replies", "type", "text/html", " ", "content", "summary", "published", "<img", 'src="', '"', "substr", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "-", '<div class="main-post col-post"><div class="date"><p><span>', '</span></p></div><a href="', '"><img width="', '" height="', '" src="', "/s72-c/", "/w", "-h", "-c/", "replace", '" alt=""></img><div class="info"><div class="box-title"><h3><span class="box-label">', '</span><a href="', '" title="">', "</a></h3></div></div></a></div>", "write", '<div class="secondary-post col-post"><a href="', '"></img><div class="info"><div class="box-title"><h3><span class="box-label">', "onload", "arlinacredit", "getElementById", "location", "https://www.arlinadzgn.com/", "https://www.arlinadzgn.com/", "setAttribute", "nofollow", "innerHTML", "Arlina Design"];
+imgr = new Array;
+imgr[0] = _0xbe12[0];
+showRandomImg = true;
+aBold = true;
+summaryPost = 150;
+summaryTitle = 50;
+numposts1 = 10;
+featured_numposts = _0xbe12[1];
+function removeHtmlTag(_0x3737x2$jscomp$0, _0x3737x3$jscomp$0) {
+	var _0x3737x4$jscomp$0 = _0x3737x2$jscomp$0[_0xbe12[3]](_0xbe12[2]);
+	var _0x3737x5$jscomp$0 = 0;
+	for (; _0x3737x5$jscomp$0 < _0x3737x4$jscomp$0[_0xbe12[4]]; _0x3737x5$jscomp$0++) {
+		if (_0x3737x4$jscomp$0[_0x3737x5$jscomp$0][_0xbe12[6]](_0xbe12[5]) != -1) {
+			_0x3737x4$jscomp$0[_0x3737x5$jscomp$0] = _0x3737x4$jscomp$0[_0x3737x5$jscomp$0][_0xbe12[7]](_0x3737x4$jscomp$0[_0x3737x5$jscomp$0][_0xbe12[6]](_0xbe12[5]) + 1, _0x3737x4$jscomp$0[_0x3737x5$jscomp$0][_0xbe12[4]]);
+		}
+	}
+_0x3737x4$jscomp$0=_0x3737x4$jscomp$0[_0xbe12[9]](_0xbe12[8]);_0x3737x4$jscomp$0=_0x3737x4$jscomp$0[_0xbe12[7]](0,_0x3737x3$jscomp$0-1);return _0x3737x4$jscomp$0;}
+function sliderposts(_0x3737x7$jscomp$0){j=showRandomImg?Math[_0xbe12[11]]((imgr[_0xbe12[4]]+1)*Math[_0xbe12[10]]()):0;img=new Array;if(numposts1<=_0x3737x7$jscomp$0[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]){maxpost=numposts1;}else{maxpost=_0x3737x7$jscomp$0[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]];}
+var _0x3737x5$jscomp$1=0;for(;_0x3737x5$jscomp$1<maxpost;_0x3737x5$jscomp$1++){var _0x3737x8$jscomp$0=_0x3737x7$jscomp$0[_0xbe12[13]][_0xbe12[12]][_0x3737x5$jscomp$1];var _0x3737x9$jscomp$0=_0x3737x8$jscomp$0[_0xbe12[15]][0][_0xbe12[14]];var _0x3737xa$jscomp$0=_0x3737x8$jscomp$0[_0xbe12[17]][_0xbe12[16]];var _0x3737xb$jscomp$0;var _0x3737xc$jscomp$0;if(_0x3737x5$jscomp$1==_0x3737x7$jscomp$0[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]){break;}
+var _0x3737xd$jscomp$0=0;for(;_0x3737xd$jscomp$0<_0x3737x8$jscomp$0[_0xbe12[18]][_0xbe12[4]];_0x3737xd$jscomp$0++){if(_0x3737x8$jscomp$0[_0xbe12[18]][_0x3737xd$jscomp$0][_0xbe12[19]]==_0xbe12[20]){_0x3737xc$jscomp$0=_0x3737x8$jscomp$0[_0xbe12[18]][_0x3737xd$jscomp$0][_0xbe12[21]];break;}}
+_0x3737xd$jscomp$0=0;for(;_0x3737xd$jscomp$0<_0x3737x8$jscomp$0[_0xbe12[18]][_0xbe12[4]];_0x3737xd$jscomp$0++){if(_0x3737x8$jscomp$0[_0xbe12[18]][_0x3737xd$jscomp$0][_0xbe12[19]]==_0xbe12[22]&&_0x3737x8$jscomp$0[_0xbe12[18]][_0x3737xd$jscomp$0][_0xbe12[23]]==_0xbe12[24]){_0x3737xb$jscomp$0=_0x3737x8$jscomp$0[_0xbe12[18]][_0x3737xd$jscomp$0][_0xbe12[17]][_0xbe12[3]](_0xbe12[25])[0];break;}}
+if(_0xbe12[26]in _0x3737x8$jscomp$0){var _0x3737xe$jscomp$0=_0x3737x8$jscomp$0[_0xbe12[26]][_0xbe12[16]];}else{if(_0xbe12[27]in _0x3737x8$jscomp$0){_0x3737xe$jscomp$0=_0x3737x8$jscomp$0[_0xbe12[27]][_0xbe12[16]];}else{_0x3737xe$jscomp$0=_0xbe12[8];}}
+postdate=_0x3737x8$jscomp$0[_0xbe12[28]][_0xbe12[16]];if(j>imgr[_0xbe12[4]]-1){j=0;}
+img[_0x3737x5$jscomp$1]=imgr[j];s=_0x3737xe$jscomp$0;a=s[_0xbe12[6]](_0xbe12[29]);b=s[_0xbe12[6]](_0xbe12[30],a);c=s[_0xbe12[6]](_0xbe12[31],b+5);d=s[_0xbe12[32]](b+5,c-b-5);if(a!=-1&&(b!=-1&&(c!=-1&&d!=_0xbe12[8]))){img[_0x3737x5$jscomp$1]=d;}
+var _0x3737xf$jscomp$0=[1,2,3,4,5,6,7,8,9,10,11,12];var _0x3737x10$jscomp$0=[_0xbe12[33],_0xbe12[34],_0xbe12[35],_0xbe12[36],_0xbe12[37],_0xbe12[38],_0xbe12[39],_0xbe12[40],_0xbe12[41],_0xbe12[42],_0xbe12[43],_0xbe12[44]];var _0x3737x11$jscomp$0=postdate[_0xbe12[3]](_0xbe12[45])[2][_0xbe12[7]](0,2);var _0x3737x12$jscomp$0=postdate[_0xbe12[3]](_0xbe12[45])[1];var _0x3737x13$jscomp$0=postdate[_0xbe12[3]](_0xbe12[45])[0];var _0x3737x14$jscomp$0=530;var _0x3737x15$jscomp$0=400;var _0x3737x16$jscomp$0=265;var _0x3737x17$jscomp$0=200;var _0x3737x18$jscomp$0=0;for(;_0x3737x18$jscomp$0<_0x3737xf$jscomp$0[_0xbe12[4]];_0x3737x18$jscomp$0++){if(parseInt(_0x3737x12$jscomp$0)==_0x3737xf$jscomp$0[_0x3737x18$jscomp$0]){_0x3737x12$jscomp$0=_0x3737x10$jscomp$0[_0x3737x18$jscomp$0];break;}}
+var _0x3737x19$jscomp$0=_0x3737x11$jscomp$0+_0xbe12[25]+_0x3737x12$jscomp$0+_0xbe12[25]+_0x3737x13$jscomp$0;if(_0x3737x5$jscomp$1==0){var _0x3737x1a$jscomp$0=_0xbe12[46]+_0x3737x19$jscomp$0+_0xbe12[47]+_0x3737xc$jscomp$0+_0xbe12[48]+_0x3737x14$jscomp$0+_0xbe12[49]+_0x3737x15$jscomp$0+_0xbe12[50]+img[_0x3737x5$jscomp$1][_0xbe12[55]](_0xbe12[51],_0xbe12[52]+_0x3737x14$jscomp$0+_0xbe12[53]+_0x3737x15$jscomp$0+_0xbe12[54])+_0xbe12[56]+_0x3737x9$jscomp$0+_0xbe12[57]+_0x3737xc$jscomp$0+_0xbe12[58]+_0x3737xa$jscomp$0+_0xbe12[59];document[_0xbe12[60]](_0x3737x1a$jscomp$0);}else{_0x3737x1a$jscomp$0=_0xbe12[61]+_0x3737xc$jscomp$0+_0xbe12[48]+_0x3737x16$jscomp$0+_0xbe12[49]+_0x3737x17$jscomp$0+_0xbe12[50]+img[_0x3737x5$jscomp$1]+_0xbe12[62]+_0x3737x9$jscomp$0+_0xbe12[57]+_0x3737xc$jscomp$0+_0xbe12[58]+_0x3737xa$jscomp$0+_0xbe12[59];document[_0xbe12[60]](_0x3737x1a$jscomp$0);}
+j++;}}
+window[_0xbe12[63]]=function(){var _0x3737x1b$jscomp$0=document[_0xbe12[65]](_0xbe12[64]);if(_0x3737x1b$jscomp$0==null){window[_0xbe12[66]][_0xbe12[21]]=_0xbe12[67];}
+_0x3737x1b$jscomp$0[_0xbe12[69]](_0xbe12[21],_0xbe12[68]);_0x3737x1b$jscomp$0[_0xbe12[69]](_0xbe12[19],_0xbe12[70]);_0x3737x1b$jscomp$0[_0xbe12[71]]=_0xbe12[72];};!function(e$jscomp$7){function t$jscomp$0(t$jscomp$1,n$jscomp$4){return parseInt(e$jscomp$7.css(t$jscomp$1[0],n$jscomp$4))||0;}
+function n$jscomp$3(e$jscomp$8){return e$jscomp$8[0].offsetWidth+t$jscomp$0(e$jscomp$8,"marginLeft")+t$jscomp$0(e$jscomp$8,"marginRight");}
+function l$jscomp$0(e$jscomp$9){return e$jscomp$9[0].offsetHeight+t$jscomp$0(e$jscomp$9,"marginTop")+t$jscomp$0(e$jscomp$9,"marginBottom");}
+e$jscomp$7.fn.jCarouselLite=function(t$jscomp$2){return t$jscomp$2=e$jscomp$7.extend({btnPrev:null,btnNext:null,btnGo:null,mouseWheel:false,auto:null,speed:200,easing:null,vertical:false,circular:true,visible:4,start:0,scroll:1,beforeStart:null,afterEnd:null},t$jscomp$2||{}),this.each(function(){function i$jscomp$3(){return v$jscomp$0.slice(p$jscomp$0).slice(0,h$jscomp$6);}
+function r$jscomp$1(n$jscomp$5){if(!s$jscomp$2){if(t$jscomp$2.beforeStart&&t$jscomp$2.beforeStart.call(this,i$jscomp$3()),t$jscomp$2.circular){if(n$jscomp$5<=t$jscomp$2.start-h$jscomp$6-1){u$jscomp$0.css(c$jscomp$0,-((b$jscomp$0-2*h$jscomp$6)*g$jscomp$0)+"px");p$jscomp$0=n$jscomp$5==t$jscomp$2.start-h$jscomp$6-1?b$jscomp$0-2*h$jscomp$6-1:b$jscomp$0-2*h$jscomp$6-t$jscomp$2.scroll;}else{if(n$jscomp$5>=b$jscomp$0-h$jscomp$6+1){u$jscomp$0.css(c$jscomp$0,-(h$jscomp$6*g$jscomp$0)+"px");p$jscomp$0=n$jscomp$5==b$jscomp$0-h$jscomp$6+1?h$jscomp$6+1:h$jscomp$6+t$jscomp$2.scroll;}else{p$jscomp$0=n$jscomp$5;}}}else{if(0>n$jscomp$5||n$jscomp$5>b$jscomp$0-h$jscomp$6){return;}
+p$jscomp$0=n$jscomp$5;}
+s$jscomp$2=true;u$jscomp$0.animate("left"==c$jscomp$0?{left:-(p$jscomp$0*g$jscomp$0)}:{top:-(p$jscomp$0*g$jscomp$0)},t$jscomp$2.speed,t$jscomp$2.easing,function(){if(t$jscomp$2.afterEnd){t$jscomp$2.afterEnd.call(this,i$jscomp$3());}
+s$jscomp$2=false;});if(!t$jscomp$2.circular){e$jscomp$7(t$jscomp$2.btnPrev+","+t$jscomp$2.btnNext).removeClass("disabled");e$jscomp$7(p$jscomp$0-t$jscomp$2.scroll<0&&t$jscomp$2.btnPrev||p$jscomp$0+t$jscomp$2.scroll>b$jscomp$0-h$jscomp$6&&t$jscomp$2.btnNext||[]).addClass("disabled");}}
+return false;}
+var s$jscomp$2=false;var c$jscomp$0=t$jscomp$2.vertical?"top":"left";var o$jscomp$0=t$jscomp$2.vertical?"height":"width";var a$jscomp$0=e$jscomp$7(this);var u$jscomp$0=e$jscomp$7("ul",a$jscomp$0);var f$jscomp$1=e$jscomp$7("li",u$jscomp$0);var d$jscomp$0=f$jscomp$1.size();var h$jscomp$6=t$jscomp$2.visible;if(t$jscomp$2.circular){u$jscomp$0.prepend(f$jscomp$1.slice(d$jscomp$0-h$jscomp$6-1+1).clone()).append(f$jscomp$1.slice(0,h$jscomp$6).clone());t$jscomp$2.start+=h$jscomp$6;}
+var v$jscomp$0=e$jscomp$7("li",u$jscomp$0);var b$jscomp$0=v$jscomp$0.size();var p$jscomp$0=t$jscomp$2.start;a$jscomp$0.css("visibility","visible");v$jscomp$0.css({overflow:"hidden","float":t$jscomp$2.vertical?"none":"left"});u$jscomp$0.css({margin:"0",padding:"0",position:"relative","list-style-type":"none","z-index":"1"});a$jscomp$0.css({overflow:"hidden",position:"relative","z-index":"2",left:"0px"});var g$jscomp$0=t$jscomp$2.vertical?l$jscomp$0(v$jscomp$0):n$jscomp$3(v$jscomp$0);var x$jscomp$74=g$jscomp$0*b$jscomp$0;var m$jscomp$0=g$jscomp$0*h$jscomp$6;v$jscomp$0.css({width:v$jscomp$0.width(),height:v$jscomp$0.height()});u$jscomp$0.css(o$jscomp$0,x$jscomp$74+"px").css(c$jscomp$0,-(p$jscomp$0*g$jscomp$0));a$jscomp$0.css(o$jscomp$0,m$jscomp$0+"px");if(t$jscomp$2.btnPrev){e$jscomp$7(t$jscomp$2.btnPrev).click(function(){return r$jscomp$1(p$jscomp$0-t$jscomp$2.scroll);});}
+if(t$jscomp$2.btnNext){e$jscomp$7(t$jscomp$2.btnNext).click(function(){return r$jscomp$1(p$jscomp$0+t$jscomp$2.scroll);});}
+if(t$jscomp$2.btnGo){e$jscomp$7.each(t$jscomp$2.btnGo,function(n$jscomp$6,l$jscomp$1){e$jscomp$7(l$jscomp$1).click(function(){return r$jscomp$1(t$jscomp$2.circular?t$jscomp$2.visible+n$jscomp$6:n$jscomp$6);});});}
+if(t$jscomp$2.mouseWheel&&a$jscomp$0.mousewheel){a$jscomp$0.mousewheel(function(e$jscomp$10,n$jscomp$7){return r$jscomp$1(n$jscomp$7>0?p$jscomp$0-t$jscomp$2.scroll:p$jscomp$0+t$jscomp$2.scroll);});}
+if(t$jscomp$2.auto){setInterval(function(){r$jscomp$1(p$jscomp$0+t$jscomp$2.scroll);},t$jscomp$2.auto+t$jscomp$2.speed);}});};}
+(jQuery);function recentarticles1(t$jscomp$3){j=showRandomImg?Math.floor((imgr.length+1)*Math.random()):0;img=new Array;var e$jscomp$11=0;for(;e$jscomp$11<numposts5;e$jscomp$11++){var r$jscomp$2;var n$jscomp$8;var i$jscomp$4=t$jscomp$3.feed.entry[e$jscomp$11];var m$jscomp$1=i$jscomp$4.title.$t;if(e$jscomp$11==t$jscomp$3.feed.entry.length){break;}
+var l$jscomp$2=0;for(;l$jscomp$2<i$jscomp$4.link.length;l$jscomp$2++){if("alternate"==i$jscomp$4.link[l$jscomp$2].rel){n$jscomp$8=i$jscomp$4.link[l$jscomp$2].href;break;}}
+l$jscomp$2=0;for(;l$jscomp$2<i$jscomp$4.link.length;l$jscomp$2++){if("replies"==i$jscomp$4.link[l$jscomp$2].rel&&"text/html"==i$jscomp$4.link[l$jscomp$2].type){r$jscomp$2=i$jscomp$4.link[l$jscomp$2].title.split(" ")[0];break;}}
+if("content"in i$jscomp$4){var o$jscomp$1=i$jscomp$4.content.$t;}else{if("summary"in i$jscomp$4){o$jscomp$1=i$jscomp$4.summary.$t;}else{o$jscomp$1="";}}
+postdate=i$jscomp$4.published.$t;if(j>imgr.length-1){j=0;}
+img[e$jscomp$11]=imgr[j];s=o$jscomp$1;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);if(-1!=a&&-1!=b&&-1!=c&&""!=d){img[e$jscomp$11]=d;}
+var u$jscomp$1=[1,2,3,4,5,6,7,8,9,10,11,12];var h$jscomp$7=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];var p$jscomp$1=(postdate.split("-")[2].substring(0,2),postdate.split("-")[1]);var f$jscomp$2=(postdate.split("-")[0],0);for(;f$jscomp$2<u$jscomp$1.length;f$jscomp$2++){if(parseInt(p$jscomp$1)==u$jscomp$1[f$jscomp$2]){p$jscomp$1=h$jscomp$7[f$jscomp$2];break;}}
+var w$jscomp$7='<li class="car"><div class="thumbE"><a href="'+n$jscomp$8+'"><img width="265" min-height="200" class="Thumbnail thumbnail carousel " src="'+img[e$jscomp$11]+'"/></a></div><a class="slider_title" href="'+n$jscomp$8+'">'+m$jscomp$1+"</a></li>";document.write(w$jscomp$7);j++;}}
+function mythumb(t$jscomp$4){var e$jscomp$12=0;for(;e$jscomp$12<numposts;e$jscomp$12++){var r$jscomp$3;var n$jscomp$9=t$jscomp$4.feed.entry[e$jscomp$12];var i$jscomp$5=n$jscomp$9.title.$t;if(e$jscomp$12==t$jscomp$4.feed.entry.length){break;}
+var m$jscomp$2=0;for(;m$jscomp$2<n$jscomp$9.link.length;m$jscomp$2++){if("replies"==n$jscomp$9.link[m$jscomp$2].rel&&"text/html"==n$jscomp$9.link[m$jscomp$2].type){var l$jscomp$3=n$jscomp$9.link[m$jscomp$2].title;var o$jscomp$2=n$jscomp$9.link[m$jscomp$2].href;}
+if("alternate"==n$jscomp$9.link[m$jscomp$2].rel){r$jscomp$3=n$jscomp$9.link[m$jscomp$2].href;break;}}
+var u$jscomp$2;try{u$jscomp$2=n$jscomp$9.media$thumbnail.url;u$jscomp$2=u$jscomp$2.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/");}catch(h$jscomp$8){s=n$jscomp$9.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);u$jscomp$2=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb;}
+var p$jscomp$2=n$jscomp$9.published.$t;var f$jscomp$3=p$jscomp$2.substring(0,4);var w$jscomp$8=p$jscomp$2.substring(5,7);var g$jscomp$1=p$jscomp$2.substring(8,10);document.write('<ul class="arlinathumbs">');document.write("<li>");if(1==showpostthumbnails){document.write('<a href="'+r$jscomp$3+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i$jscomp$5+'" src="'+u$jscomp$2+'"/></div></a>');}
+document.write('<span class="arlinatitle"><a href="'+r$jscomp$3+'" target ="_top">'+i$jscomp$5+"</a></span>");var v$jscomp$1="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v$jscomp$1=v$jscomp$1+'<span class="arlinameta_date">'+g$jscomp$1+"/"+w$jscomp$8+"/"+f$jscomp$3+"</span>"),1==showcommentnum&&("1 Comments"==l$jscomp$3&&(l$jscomp$3="1 Comment"),"0 Comments"==l$jscomp$3&&(l$jscomp$3="No Comments"),l$jscomp$3='<span class="arlinameta_comment"><a href="'+o$jscomp$2+'" target ="_top">'+l$jscomp$3+"</a></span>",v$jscomp$1=v$jscomp$1+l$jscomp$3),1==displaymore&&(v$jscomp$1=v$jscomp$1+'<span class="arlinameta_more"><a href="'+r$jscomp$3+'" class="url" target ="_top">Read More...</a></span>'),document.write(v$jscomp$1),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n$jscomp$9){var k$jscomp$0=n$jscomp$9.content.$t;}else{if("summary"in n$jscomp$9){k$jscomp$0=n$jscomp$9.summary.$t;}else{k$jscomp$0="";}}
+var y$jscomp$59=/<\S[^>]*>/g;if(k$jscomp$0=k$jscomp$0.replace(y$jscomp$59,""),1==showpostsummary){if(k$jscomp$0.length<numchars){document.write("");document.write(k$jscomp$0);document.write("");}else{document.write("");k$jscomp$0=k$jscomp$0.substring(0,numchars);var _$jscomp$0=k$jscomp$0.lastIndexOf(" ");k$jscomp$0=k$jscomp$0.substring(0,_$jscomp$0);document.write(k$jscomp$0+"...");document.write("");}}
+document.write("</span>");document.write("</li>");document.write("</ul>");}
+document.write('<ul class="arlinathumbs2">');e$jscomp$12=1;for(;e$jscomp$12<numposts2;e$jscomp$12++){n$jscomp$9=t$jscomp$4.feed.entry[e$jscomp$12];i$jscomp$5=n$jscomp$9.title.$t;if(e$jscomp$12==t$jscomp$4.feed.entry.length){break;}
+m$jscomp$2=1;for(;m$jscomp$2<n$jscomp$9.link.length;m$jscomp$2++){if("replies"==n$jscomp$9.link[m$jscomp$2].rel&&"text/html"==n$jscomp$9.link[m$jscomp$2].type){l$jscomp$3=n$jscomp$9.link[m$jscomp$2].title;o$jscomp$2=n$jscomp$9.link[m$jscomp$2].href;}
+if("alternate"==n$jscomp$9.link[m$jscomp$2].rel){r$jscomp$3=n$jscomp$9.link[m$jscomp$2].href;break;}}
+var $$jscomp$0;try{$$jscomp$0=n$jscomp$9.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/");}catch(h$jscomp$9){s=n$jscomp$9.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);$$jscomp$0=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2;}
+p$jscomp$2=n$jscomp$9.published.$t;f$jscomp$3=p$jscomp$2.substring(0,4);w$jscomp$8=p$jscomp$2.substring(5,7);g$jscomp$1=p$jscomp$2.substring(8,10);if(1==showpostthumbnails2){document.write('<a href="'+r$jscomp$3+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i$jscomp$5+'" src="'+$$jscomp$0+'"/></div></a>');}
+document.write("<li>");document.write('<span class="arlinatitle arlinatitle2"><a href="'+r$jscomp$3+'" target ="_top">'+i$jscomp$5+"</a></span>");v$jscomp$1="";document.write('<span class="arlinameta arlinameta2">');if(1==showpostdate2){v$jscomp$1=v$jscomp$1+'<span class="arlinameta_date arlinameta_date2">'+g$jscomp$1+"/"+w$jscomp$8+"/"+f$jscomp$3+"</span>";}
+if(1==showcommentnum2){if("1 Comments"==l$jscomp$3){l$jscomp$3="1 Comment";}
+if("0 Comments"==l$jscomp$3){l$jscomp$3="No Comments";}
+l$jscomp$3='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o$jscomp$2+'" target ="_top">'+l$jscomp$3+"</a></span>";v$jscomp$1=v$jscomp$1+l$jscomp$3;}
+if(1==displaymore2){v$jscomp$1=v$jscomp$1+'<span class="arlinameta_more arlinameta_more2"><a href="'+r$jscomp$3+'" class="url" target ="_top">Read More...</a></span>';}
+document.write(v$jscomp$1);document.write("</span>");document.write("</li>");}
+document.write("</ul>");}
+function mythumb1(t$jscomp$5){var e$jscomp$13=0;for(;e$jscomp$13<numposts;e$jscomp$13++){var r$jscomp$4;var n$jscomp$10=t$jscomp$5.feed.entry[e$jscomp$13];var i$jscomp$6=n$jscomp$10.title.$t;if(e$jscomp$13==t$jscomp$5.feed.entry.length){break;}
+var m$jscomp$3=0;for(;m$jscomp$3<n$jscomp$10.link.length;m$jscomp$3++){if("replies"==n$jscomp$10.link[m$jscomp$3].rel&&"text/html"==n$jscomp$10.link[m$jscomp$3].type){var l$jscomp$4=n$jscomp$10.link[m$jscomp$3].title;var o$jscomp$3=n$jscomp$10.link[m$jscomp$3].href;}
+if("alternate"==n$jscomp$10.link[m$jscomp$3].rel){r$jscomp$4=n$jscomp$10.link[m$jscomp$3].href;break;}}
+var u$jscomp$3;try{u$jscomp$3=n$jscomp$10.media$thumbnail.url;u$jscomp$3=u$jscomp$3.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/");}catch(h$jscomp$10){s=n$jscomp$10.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);u$jscomp$3=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb;}
+var p$jscomp$3=n$jscomp$10.published.$t;var f$jscomp$4=p$jscomp$3.substring(0,4);var w$jscomp$9=p$jscomp$3.substring(5,7);var g$jscomp$2=p$jscomp$3.substring(8,10);document.write('<ul class="arlinathumbs1">');document.write("<li>");if(1==showpostthumbnails){document.write('<a href="'+r$jscomp$4+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i$jscomp$6+'" src="'+u$jscomp$3+'"/></div></a>');}
+document.write('<span class="arlinatitle"><a href="'+r$jscomp$4+'" target ="_top">'+i$jscomp$6+"</a></span>");var v$jscomp$2="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v$jscomp$2=v$jscomp$2+'<span class="arlinameta_date">'+g$jscomp$2+"/"+w$jscomp$9+"/"+f$jscomp$4+"</span>"),1==showcommentnum&&("1 Comments"==l$jscomp$4&&(l$jscomp$4="1 Comment"),"0 Comments"==l$jscomp$4&&(l$jscomp$4="No Comments"),l$jscomp$4='<span class="arlinameta_comment"><a href="'+o$jscomp$3+'" target ="_top">'+l$jscomp$4+"</a></span>",v$jscomp$2=v$jscomp$2+l$jscomp$4),1==displaymore&&(v$jscomp$2=v$jscomp$2+'<span class="arlinameta_more"><a href="'+r$jscomp$4+'" class="url" target ="_top">Read More...</a></span>'),document.write(v$jscomp$2),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n$jscomp$10){var k$jscomp$1=n$jscomp$10.content.$t;}else{if("summary"in n$jscomp$10){k$jscomp$1=n$jscomp$10.summary.$t;}else{k$jscomp$1="";}}
+var y$jscomp$60=/<\S[^>]*>/g;if(k$jscomp$1=k$jscomp$1.replace(y$jscomp$60,""),1==showpostsummary){if(k$jscomp$1.length<numchars){document.write("");document.write(k$jscomp$1);document.write("");}else{document.write("");k$jscomp$1=k$jscomp$1.substring(0,numchars);var _$jscomp$1=k$jscomp$1.lastIndexOf(" ");k$jscomp$1=k$jscomp$1.substring(0,_$jscomp$1);document.write(k$jscomp$1+"...");document.write("");}}
+document.write("</span>");document.write("</li>");document.write("</ul>");}
+document.write('<ul class="arlinathumbs22">');e$jscomp$13=1;for(;e$jscomp$13<numposts3;e$jscomp$13++){n$jscomp$10=t$jscomp$5.feed.entry[e$jscomp$13];i$jscomp$6=n$jscomp$10.title.$t;if(e$jscomp$13==t$jscomp$5.feed.entry.length){break;}
+m$jscomp$3=1;for(;m$jscomp$3<n$jscomp$10.link.length;m$jscomp$3++){if("replies"==n$jscomp$10.link[m$jscomp$3].rel&&"text/html"==n$jscomp$10.link[m$jscomp$3].type){l$jscomp$4=n$jscomp$10.link[m$jscomp$3].title;o$jscomp$3=n$jscomp$10.link[m$jscomp$3].href;}
+if("alternate"==n$jscomp$10.link[m$jscomp$3].rel){r$jscomp$4=n$jscomp$10.link[m$jscomp$3].href;break;}}
+var $$jscomp$1;try{$$jscomp$1=n$jscomp$10.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/");}catch(h$jscomp$11){s=n$jscomp$10.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);$$jscomp$1=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2;}
+p$jscomp$3=n$jscomp$10.published.$t;f$jscomp$4=p$jscomp$3.substring(0,4);w$jscomp$9=p$jscomp$3.substring(5,7);g$jscomp$2=p$jscomp$3.substring(8,10);if(1==showpostthumbnails2){document.write('<a href="'+r$jscomp$4+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i$jscomp$6+'" src="'+$$jscomp$1+'"/></div></a>');}
+document.write("<li>");document.write('<span class="arlinatitle arlinatitle2"><a href="'+r$jscomp$4+'" target ="_top">'+i$jscomp$6+"</a></span>");v$jscomp$2="";document.write('<span class="arlinameta arlinameta2">');if(1==showpostdate2){v$jscomp$2=v$jscomp$2+'<span class="arlinameta_date arlinameta_date2">'+g$jscomp$2+"/"+w$jscomp$9+"/"+f$jscomp$4+"</span>";}
+if(1==showcommentnum2){if("1 Comments"==l$jscomp$4){l$jscomp$4="1 Comment";}
+if("0 Comments"==l$jscomp$4){l$jscomp$4="No Comments";}
+l$jscomp$4='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o$jscomp$3+'" target ="_top">'+l$jscomp$4+"</a></span>";v$jscomp$2=v$jscomp$2+l$jscomp$4;}
+if(1==displaymore2){v$jscomp$2=v$jscomp$2+'<span class="arlinameta_more arlinameta_more2"><a href="'+r$jscomp$4+'" class="url" target ="_top">Read More...</a></span>';}
+document.write(v$jscomp$2);document.write("</span>");document.write("</li>");}
+document.write("</ul>");}
+function mythumb2(t$jscomp$6){document.write('<div id="recent-posts">');var e$jscomp$14=0;for(;numpost>e$jscomp$14;e$jscomp$14++){var r$jscomp$5;var n$jscomp$11=t$jscomp$6.feed.entry[e$jscomp$14];var i$jscomp$7=n$jscomp$11.title.$t;if(e$jscomp$14==t$jscomp$6.feed.entry.length){break;}
+var m$jscomp$4=0;for(;m$jscomp$4<n$jscomp$11.link.length;m$jscomp$4++){if("replies"==n$jscomp$11.link[m$jscomp$4].rel&&"text/html"==n$jscomp$11.link[m$jscomp$4].type){n$jscomp$11.link[m$jscomp$4].title;n$jscomp$11.link[m$jscomp$4].href;}
+if("alternate"==n$jscomp$11.link[m$jscomp$4].rel){r$jscomp$5=n$jscomp$11.link[m$jscomp$4].href;break;}}
+var l$jscomp$5;try{l$jscomp$5=n$jscomp$11.media$thumbnail.url;}catch(o$jscomp$4){s=n$jscomp$11.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);l$jscomp$5=-1!=a&&-1!=b&&-1!=c&&""!=d?d:'" style="display: none;';}
+var u$jscomp$4=n$jscomp$11.published.$t;var h$jscomp$12=u$jscomp$4.substring(0,4);var p$jscomp$4=u$jscomp$4.substring(5,7);var f$jscomp$5=u$jscomp$4.substring(8,10);var w$jscomp$10=new Array;w$jscomp$10[1]="Jan";w$jscomp$10[2]="Feb";w$jscomp$10[3]="Mar";w$jscomp$10[4]="Apr";w$jscomp$10[5]="May";w$jscomp$10[6]="Jun";w$jscomp$10[7]="Jul";w$jscomp$10[8]="Aug";w$jscomp$10[9]="Sep";w$jscomp$10[10]="Oct";w$jscomp$10[11]="Nov";w$jscomp$10[12]="Dec";document.write('<div class="post_wrapper1">');document.write('<div class="post_thumb"><a href="'+r$jscomp$5+'"><img src="'+l$jscomp$5.replace("/s72-c/","/s120-c/")+'" alt="'+i$jscomp$7+'" height="90" width="90"></div>');var g$jscomp$3="";var v$jscomp$3=0;if(document.write(""),1==showpostdate&&(g$jscomp$3=g$jscomp$3+f$jscomp$5+"/"+p$jscomp$4+"/"+h$jscomp$12,v$jscomp$3=1),document.write('<div class="post_desc"><a href="'+r$jscomp$5+'"><h5>'+i$jscomp$7+'</h5></a><span class="meta"><i class="fa fa-clock-o"></i>&nbsp;'+g$jscomp$3+"</span><p>"),"content"in n$jscomp$11){var k$jscomp$2=n$jscomp$11.content.$t;}else{if("summary"in n$jscomp$11){k$jscomp$2=n$jscomp$11.summary.$t;}else{k$jscomp$2="";}}
+var y$jscomp$61=/<\S[^>]*>/g;if(k$jscomp$2=k$jscomp$2.replace(y$jscomp$61,""),1==showpostsummary){if(k$jscomp$2.length<numchars){document.write("");document.write(k$jscomp$2);document.write("");}else{document.write("");k$jscomp$2=k$jscomp$2.substring(0,numchars);var _$jscomp$2=k$jscomp$2.lastIndexOf(" ");k$jscomp$2=k$jscomp$2.substring(0,_$jscomp$2);document.write(k$jscomp$2+"...");document.write("");}}
+document.write("</p></div><div class='clear'></div></div>");if(1==displayseparator&&e$jscomp$14!=numposts-1){document.write("");}}
+document.write("</div>");}
+imgr=new Array,imgr[0]="https://3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s1600/picture_not_available.png",showRandomImg=true,aBold=true,summaryPost=150,summaryPost1=0,summaryTitle=15,numposts5=6;var numpost=3;var displayseparator=false;var showpostdate=true;var showpostsummary=true;var numchars=50;
 //]]>
 var numposts = 1;
 var numposts2 = 3;
@@ -1520,54 +1616,7 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <div id='carousel'>
 <div id='crosscol-wrapper'>
-<b:section class='crosscol' id='crosscol' showaddelement='no'>
-  <b:widget id='HTML13' locked='false' title='Artikel Pilihan' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Artikel</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-       <!-- only display title if it's non-empty -->
-       <b:if cond='data:title != &quot;&quot;'>
-       <b:if cond='data:title != &quot;&quot;'>
-         <div class='recent-post-title'><h2><span><data:title/></span></h2></div>
-</b:if>
-</b:if>
-<div class='clear'/>
-<div class='widget-content'>
-<div id='previous_button'>
-<i class='fa fa-angle-left'/>
-</div>
-<div id='next_button'>
-<i class='fa fa-angle-right'/>
-</div>
-<div class='content'>
-<ul>
-<script>
-document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?max-results=&quot;+numposts5+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=recentarticles1\&quot;&gt;&lt;\/script&gt;&quot;);
-</script>
-</ul>
-<div class='clear'/>
-</div>
-<div class='clear'/>
-</div>
-<script type='text/javascript'>
-(function($) { $(document).ready(function(){
-$(&quot;#carousel .content&quot;).jCarouselLite({
-      auto:0,
-      scroll: 1,
-      speed: 600,	
-      visible: 4,
-      start: 0,
-      circular: true,
-      btnPrev: &quot;#previous_button&quot;,
-      btnNext: &quot;#next_button&quot;
-
-});
-})})(jQuery)	
-</script>
-</b:includable>
-  </b:widget>
-</b:section>
+<b:section class='crosscol' id='crosscol' showaddelement='no'/>
 </div>
 </div>
 <div class='clear'/>
@@ -1591,74 +1640,9 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 <div id='post-wrapper'>
 <div id='mag-wrapper'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
-<b:section class='viennabox1 section' id='viennabox-1' showaddelement='yes'>
-  <b:widget id='HTML70' locked='false' title='Berita' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Berita</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-    <!-- only display title if it's non-empty -->
-    <b:if cond='data:title != &quot;&quot;'>
-        <div class='recent-post-title'>
-            <h2><span><data:title/></span></h2></div>
-    </b:if>
-    <div class='widget-content'>
-        <div class='news_pictures'>
-            <ul class='news_pictures_list'>
-                <script>
-                    document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?orderby=published&amp;alt=json-in-script&amp;callback=mythumb1\&quot;&gt;&lt;\/script&gt;&quot;);
-                </script>
-            </ul>
-        </div>
-    </div>
-</b:includable>
-  </b:widget>
-</b:section>
-<b:section class='viennabox section' id='viennabox-2' showaddelement='yes'>
-  <b:widget id='HTML71' locked='false' title='Pajak' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Pajak</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-     <!-- only display title if it's non-empty -->
-     <b:if cond='data:title != &quot;&quot;'>
-         <div class='recent-post-title'>
-<h2><span><data:title/></span></h2></div>       
-</b:if>
-                      <div class='widget-content'>
-                        <div class='news_pictures'>
-                          <ul class='news_pictures_list'>
-                            <script>
-                              document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?orderby=published&amp;alt=json-in-script&amp;callback=mythumb\&quot;&gt;&lt;\/script&gt;&quot;);
-                            </script>
-                          </ul>
-                        </div>
-                      </div>
-</b:includable>
-  </b:widget>
-</b:section>
-<b:section class='viennabox section' id='viennabox-3' showaddelement='yes'>
-  <b:widget id='HTML72' locked='false' title='Akuntansi' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Akuntansi</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-<!-- only display title if it's non-empty -->
-<b:if cond='data:title != &quot;&quot;'>
-<div class='recent-post-title'><h2><span><data:title/></span></h2></div>
-</b:if>
-                      <div class='widget-content'>
-                        <div class='news_pictures'>
-                          <ul class='news_pictures_list'>
-                            <script>
-                              document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?orderby=published&amp;alt=json-in-script&amp;callback=mythumb\&quot;&gt;&lt;\/script&gt;&quot;);
-                            </script>
-                          </ul>
-                        </div>
-                      </div>
-</b:includable>
-  </b:widget>
-</b:section>
+<b:section class='viennabox1 section' id='viennabox-1' showaddelement='yes'/>
+<b:section class='viennabox section' id='viennabox-2' showaddelement='yes'/>
+<b:section class='viennabox section' id='viennabox-3' showaddelement='yes'/>
 </b:if>
 </div>
 <div class='clear'/>
@@ -3000,78 +2984,9 @@ window.onload = function () {
 </div>
 <div id='mag-wrapper2'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
-<b:section class='viennabox1 section' id='viennabox-4' showaddelement='yes'>
-  <b:widget id='HTML73' locked='false' title='Perencanaan' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Perencanaan</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-                      <!-- only display title if it's non-empty -->
-                      <b:if cond='data:title != &quot;&quot;'>
-                        <script>
-                          document.write(&#39;&lt;div class=&quot;recent-post-title&quot;&gt;&lt;h2&gt;&lt;span&gt;&lt;a href=&quot;/search/label/<data:content/>?max-results=5&quot;&gt;<data:title/>&lt;/a&gt;&lt;/h2&gt;&lt;/span&gt;&lt;/div&gt;&#39;); 
-                        </script>
-                      </b:if>
-                      <div class='widget-content'>
-                        <div class='news_pictures'>
-                          <ul class='news_pictures_list'>
-                            <script>
-                              document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?orderby=published&amp;alt=json-in-script&amp;callback=mythumb1\&quot;&gt;&lt;\/script&gt;&quot;);
-                            </script>
-                          </ul>
-                        </div>
-                      </div>
-                    </b:includable>
-  </b:widget>
-</b:section>
-<b:section class='viennabox section' id='viennabox-5' showaddelement='yes'>
-  <b:widget id='HTML74' locked='false' title='Pelaksanaan' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Pelaksanaan</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-                      <!-- only display title if it's non-empty -->
-                      <b:if cond='data:title != &quot;&quot;'>
-                        <script>
-                          document.write(&#39;&lt;div class=&quot;recent-post-title&quot;&gt;&lt;h2&gt;&lt;span&gt;&lt;a href=&quot;/search/label/<data:content/>?max-results=5&quot;&gt;<data:title/>&lt;/a&gt;&lt;/h2&gt;&lt;/span&gt;&lt;/div&gt;&#39;); 
-                        </script>
-                      </b:if>
-                      <div class='widget-content'>
-                        <div class='news_pictures'>
-                          <ul class='news_pictures_list'>
-                            <script>
-                              document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?orderby=published&amp;alt=json-in-script&amp;callback=mythumb\&quot;&gt;&lt;\/script&gt;&quot;);
-                            </script>
-                          </ul>
-                        </div>
-                      </div>
-                    </b:includable>
-  </b:widget>
-</b:section>
-<b:section class='viennabox section' id='viennabox-6' showaddelement='yes'>
-  <b:widget id='HTML75' locked='false' title='Pelaporan' type='HTML' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>Pelaporan</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-                      <!-- only display title if it's non-empty -->
-                      <b:if cond='data:title != &quot;&quot;'>
-                        <script>
-                          document.write(&#39;&lt;div class=&quot;recent-post-title&quot;&gt;&lt;h2&gt;&lt;span&gt;&lt;a href=&quot;/search/label/<data:content/>?max-results=5&quot;&gt;<data:title/>&lt;/a&gt;&lt;/h2&gt;&lt;/span&gt;&lt;/div&gt;&#39;); 
-                        </script>
-                      </b:if>
-                      <div class='widget-content'>
-                        <div class='news_pictures'>
-                          <ul class='news_pictures_list'>
-                            <script>
-                              document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/<data:content/>?orderby=published&amp;alt=json-in-script&amp;callback=mythumb\&quot;&gt;&lt;\/script&gt;&quot;);
-                            </script>
-                          </ul>
-                        </div>
-                      </div>
-                    </b:includable>
-  </b:widget>
-</b:section>
+<b:section class='viennabox1 section' id='viennabox-4' showaddelement='yes'/>
+<b:section class='viennabox section' id='viennabox-5' showaddelement='yes'/>
+<b:section class='viennabox section' id='viennabox-6' showaddelement='yes'/>
 </b:if>
 </div>
 <div class='clear'/>
