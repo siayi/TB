@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='https://www.w3.org/1999/xhtml' xmlns:b='https://www.google.com/2005/gml/b' xmlns:data='https://www.google.com/2005/gml/data' xmlns:expr='https://www.google.com/2005/gml/expr'>
 <head>
 <!-- [ Meta Tag SEO ] -->
 <meta charset='utf-8'/>
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <meta content='blogger' name='generator'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
-<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
 <link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
 <link expr:href='data:blog.url' rel='canonical'/>
 <b:if cond='data:blog.pageType == &quot;index&quot;'>
@@ -37,7 +37,7 @@
 <meta content='keuangan desa' name='keywords'/></b:if>
 <link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
 <link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' expr:title='data:blog.title + &quot; - RSS&quot;' rel='alternate' type='application/rss+xml'/>
-<link expr:href='&quot;http://www.blogger.com/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<link expr:href='&quot;https://www.blogger.com/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <b:if cond='data:blog.postImageThumbnailUrl'>
 <link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
@@ -103,11 +103,11 @@ Theme Publish    : 2 Juli 2016
 Theme Base Color : White, Blue, and Black
 Theme Layout     : 3 Column
 Theme Designer   : Arlina Design
-Designer URL     : http://arlinadesign.blogspot.com
+Designer URL     : https://arlinadesign.blogspot.com
 Thanks to        : All supported
 Theme License    : This free Blogger template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use.
 However, to satisfy the &#39;attribution&#39; clause of the license, you are required to keep the footer links intact which provides due credit to its authors. For more specific details about the license, you may visit the URL below:
-http://creativecommons.org/licenses/by/3.0/
+https://creativecommons.org/licenses/by/3.0/
 */
 
 /* CSS Reset */
@@ -524,8 +524,8 @@ span.post-author.vcard {visibility:hidden;width:0;height:0;}
 .comment_avatar_wrap{border-radius:10%;width:46px;height:46px;border:none;background:none;text-align:center;padding:0;overflow:hidden;}
 #comments .comment_avatar {border-radius:10%;width:46px;height:46px;max-width:46px;max-height:46px;background:#f9f9f9;padding:4px;text-align:center;position:absolute;top:0;left:0;overflow:hidden;}
 #comments .comment_admin .comment_avatar{border-radius:10%;width:46px;height:46px;max-width:46px;max-height:46px;padding:4px;text-align:center;position:absolute;top:0;left:0;overflow:hidden;}
-#comments .comment_avatar img {border-radius:10%;width:46px;height:46px;max-width:46px;max-height: 46px;background:url(http://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
-.comment_avatar img{border-radius:10%;width:46px;height:46px;background:url(http://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
+#comments .comment_avatar img {border-radius:10%;width:46px;height:46px;max-width:46px;max-height: 46px;background:url(https://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
+.comment_avatar img{border-radius:10%;width:46px;height:46px;background:url(https://4.bp.blogspot.com/-hLqBXiTrm0Q/VJ7pie2jM3I/AAAAAAAABwI/aHQypgTLHu8/s1600/avatwisted.png) no-repeat;overflow:hidden;}
 .comment_name a{font-weight:700;font-size:15px;padding:5px 0;color:#666;text-decoration:none}
 .comment_child .comment_name a{color:#666;}
 .comment_child .comment_name a:hover {color:#4db2ec;}
@@ -559,7 +559,7 @@ font-size:11px;margin:0;padding:2px 6px 4px 6px;border-radius:2px;border:1px sol
 .comment_reply:hover{text-decoration:none!important;background:#fff;color:#6991d8!important;border-color:#7fa8f0;}
 .comment-form{width:100%;max-width:100%;margin-bottom:10px;padding:0;}
 .comment_form a{text-decoration:none;text-transform:uppercase;font-weight:700;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#666}
-#comment-editor{width:103%!important;background:url(&#39;http://4.bp.blogspot.com/-jSUS8v5kwpQ/U8Z_6Ufr-PI/AAAAAAAAEYY/o4cQPKvt8vQ/s1600/loading.gif&#39;) no-repeat 50% 25%;position:relative;margin-left:-8px;margin-top:-15px}
+#comment-editor{width:103%!important;background:url(&#39;https://4.bp.blogspot.com/-jSUS8v5kwpQ/U8Z_6Ufr-PI/AAAAAAAAEYY/o4cQPKvt8vQ/s1600/loading.gif&#39;) no-repeat 50% 25%;position:relative;margin-left:-8px;margin-top:-15px}
 .comment-form p{position:relative;background:#fdfdfd;color:#999;font-size:14px;font-family:&#39;Open Sans&#39;,Helvetica,Arial,sans-serif;line-height:1.5em;margin-bottom:20px;padding:15px;border:1px solid #e3e3e3}
 .comment-form p:after, .comment-form p:before {top:100%;left:8%;border:solid transparent;content:&quot; &quot;;height:0;width:0;position:absolute;pointer-events:none;}
 .comment-form p:after {border-color:rgba(68,68,68,0);border-top-color:#fdfdfd;border-width:9px;margin-left:-9px;}
@@ -593,7 +593,7 @@ span.small-button1 {text-align:left;display:inline-block;}
 .sidebar-inner {padding:15px 0;}
 .sidebar .widget-content,.sidebar-two .widget-content {padding:15px 0;}
 .sidebar h2,.sidebar-two h2,.sidebar h3,.sidebar-two h3{overflow:hidden;position:relative;font-family:&#39;Roboto Condensed&#39;;font-size:16px;font-weight:700;padding:10px 0;margin:0;text-transform:uppercase;display:block;background:#fff;border-bottom:2px solid #444;transition:All .3s ease-out}
-.sidebar h2:after,.sidebar-two h2:after,.sidebar h3:after,.sidebar-two h3:after{content:&#39;&#39;;display:inline-block;position:absolute;height:14px;top:0;margin:12px 0 12px 10px;width:100%;background:url(http://4.bp.blogspot.com/-R2WTW6O9E1o/VX7dqIGT1eI/AAAAAAAACc4/pyvQDMMLX3E/s1600/repeat-bg.png)repeat}
+.sidebar h2:after,.sidebar-two h2:after,.sidebar h3:after,.sidebar-two h3:after{content:&#39;&#39;;display:inline-block;position:absolute;height:14px;top:0;margin:12px 0 12px 10px;width:100%;background:url(https://4.bp.blogspot.com/-R2WTW6O9E1o/VX7dqIGT1eI/AAAAAAAACc4/pyvQDMMLX3E/s1600/repeat-bg.png)repeat}
 .vita-list h2, .vita-list h3{font-family:&#39;Roboto Condensed&#39;;font-size:16px;font-weight:400;color:#444;padding:0;text-transform:uppercase;display:block;background:#fff;transition:All 0.3s ease-out;}
 .sidebar .widget,.sidebar-two .widget {background:#fff;margin:0 0 15px;}
 .sidebar ul, .sidebar ol,.sidebar-two ul, .sidebar-two ol {list-style-type:none;margin:0;padding:15px 0;padding-top:5px;}
@@ -1163,7 +1163,7 @@ body {overflow:hidden;}
 var relnojudul = 0;
 var relmaxtampil = 4;
 var numchars = 120;
-var reljudul=new Array();var relurls=new Array();var relcuplikan=new Array();var relgambar=new Array();function saringtags(g,h){var e=g.split("<");for(var f=0;f<e.length;f++){if(e[f].indexOf(">")!=-1){e[f]=e[f].substring(e[f].indexOf(">")+1,e[f].length)}}e=e.join("");e=e.substring(0,h-1);return e}function relpostimgcuplik(h){for(var e=0;e<h.feed.entry.length;e++){var g=h.feed.entry[e];reljudul[relnojudul]=g.title.$t;postcontent="";if("content" in g){postcontent=g.content.$t}else{if("summary" in g){postcontent=g.summary.$t}}relcuplikan[relnojudul]=saringtags(postcontent,numchars);if("media$thumbnail" in g){postimg=g.media$thumbnail.url}else{postimg="http://1.bp.blogspot.com/-htG7vy9vIAA/Tp0KrMUdoWI/AAAAAAAABAU/e7XkFtErqsU/s1600/grey.GIF"}relgambar[relnojudul]=postimg;for(var f=0;f<g.link.length;f++){if(g.link[f].rel=="alternate"){relurls[relnojudul]=g.link[f].href;break}}relnojudul++}}function contains(a,e){for(var f=0;f<a.length;f++){if(a[f]==e){return true}}return false}function artikelterkait(){var v=new Array(0);var w=new Array(0);var x=new Array(0);var A=new Array(0);for(var u=0;u<relurls.length;u++){if(!contains(v,relurls[u])){v.length+=1;v[v.length-1]=relurls[u];w.length+=1;w[w.length-1]=reljudul[u];x.length+=1;x[x.length-1]=relcuplikan[u];A.length+=1;A[A.length-1]=relgambar[u]}}reljudul=w;relurls=v;relcuplikan=x;relgambar=A;for(var u=0;u<reljudul.length;u++){var B=Math.floor((reljudul.length-1)*Math.random());var i=reljudul[u];var s=relurls[u];var y=relcuplikan[u];var C=relgambar[u];reljudul[u]=reljudul[B];relurls[u]=relurls[B];relcuplikan[u]=relcuplikan[B];relgambar[u]=relgambar[B];reljudul[B]=i;relurls[B]=s;relcuplikan[B]=y;relgambar[B]=C}var r=0;var D=Math.floor((reljudul.length-1)*Math.random());var z=D;var q;var t=document.URL;while(r<relmaxtampil){if(relurls[D]!=t){q="<li class='news-title clearfix'>";q+="<a href='"+relurls[D]+"' rel='nofollow' target='_top' title='"+reljudul[D]+"'><div class='overlayb'></div><img src='"+relgambar[D]+"' /></a>";q+="<a class='relinkjdulx' href='"+relurls[D]+"' target='_top'>"+reljudul[D]+"</a>";q+="<span class='news-text'>"+relcuplikan[D]+"</span>";q+="</li>";document.write(q);r++;if(r==relmaxtampil){break}}if(D<reljudul.length-1){D++}else{D=0}if(D==z){break}}};
+var reljudul=new Array();var relurls=new Array();var relcuplikan=new Array();var relgambar=new Array();function saringtags(g,h){var e=g.split("<");for(var f=0;f<e.length;f++){if(e[f].indexOf(">")!=-1){e[f]=e[f].substring(e[f].indexOf(">")+1,e[f].length)}}e=e.join("");e=e.substring(0,h-1);return e}function relpostimgcuplik(h){for(var e=0;e<h.feed.entry.length;e++){var g=h.feed.entry[e];reljudul[relnojudul]=g.title.$t;postcontent="";if("content" in g){postcontent=g.content.$t}else{if("summary" in g){postcontent=g.summary.$t}}relcuplikan[relnojudul]=saringtags(postcontent,numchars);if("media$thumbnail" in g){postimg=g.media$thumbnail.url}else{postimg="https://1.bp.blogspot.com/-htG7vy9vIAA/Tp0KrMUdoWI/AAAAAAAABAU/e7XkFtErqsU/s1600/grey.GIF"}relgambar[relnojudul]=postimg;for(var f=0;f<g.link.length;f++){if(g.link[f].rel=="alternate"){relurls[relnojudul]=g.link[f].href;break}}relnojudul++}}function contains(a,e){for(var f=0;f<a.length;f++){if(a[f]==e){return true}}return false}function artikelterkait(){var v=new Array(0);var w=new Array(0);var x=new Array(0);var A=new Array(0);for(var u=0;u<relurls.length;u++){if(!contains(v,relurls[u])){v.length+=1;v[v.length-1]=relurls[u];w.length+=1;w[w.length-1]=reljudul[u];x.length+=1;x[x.length-1]=relcuplikan[u];A.length+=1;A[A.length-1]=relgambar[u]}}reljudul=w;relurls=v;relcuplikan=x;relgambar=A;for(var u=0;u<reljudul.length;u++){var B=Math.floor((reljudul.length-1)*Math.random());var i=reljudul[u];var s=relurls[u];var y=relcuplikan[u];var C=relgambar[u];reljudul[u]=reljudul[B];relurls[u]=relurls[B];relcuplikan[u]=relcuplikan[B];relgambar[u]=relgambar[B];reljudul[B]=i;relurls[B]=s;relcuplikan[B]=y;relgambar[B]=C}var r=0;var D=Math.floor((reljudul.length-1)*Math.random());var z=D;var q;var t=document.URL;while(r<relmaxtampil){if(relurls[D]!=t){q="<li class='news-title clearfix'>";q+="<a href='"+relurls[D]+"' rel='nofollow' target='_top' title='"+reljudul[D]+"'><div class='overlayb'></div><img src='"+relgambar[D]+"' /></a>";q+="<a class='relinkjdulx' href='"+relurls[D]+"' target='_top'>"+reljudul[D]+"</a>";q+="<span class='news-text'>"+relcuplikan[D]+"</span>";q+="</li>";document.write(q);r++;if(r==relmaxtampil){break}}if(D<reljudul.length-1){D++}else{D=0}if(D==z){break}}};
 //]]>
 </script>
 </b:if>
@@ -1173,7 +1173,7 @@ var reljudul=new Array();var relurls=new Array();var relcuplikan=new Array();var
 //<![CDATA[
 //CSS Ready
 function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
-loadCSS("http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700");loadCSS("http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700");loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+loadCSS("https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700");loadCSS("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700");loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
 //]]>
 </script>
 <script type='text/javascript'>
@@ -1193,10 +1193,10 @@ function arlina_thumbnail_resize(e,t){var n=350;var r=210;image_tag='<img width=
 //<![CDATA[
 // Featured Source
 var _0xbe12=["\x68\x74\x74\x70\x3A\x2F\x2F\x73\x69\x74\x65\x73\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D\x2F\x73\x69\x74\x65\x2F\x66\x64\x62\x6C\x6F\x67\x73\x69\x74\x65\x2F\x48\x6F\x6D\x65\x2F\x6E\x6F\x74\x68\x75\x6D\x62\x6E\x61\x69\x6C\x2E\x67\x69\x66","\x35","\x3C","\x73\x70\x6C\x69\x74","\x6C\x65\x6E\x67\x74\x68","\x3E","\x69\x6E\x64\x65\x78\x4F\x66","\x73\x75\x62\x73\x74\x72\x69\x6E\x67","","\x6A\x6F\x69\x6E","\x72\x61\x6E\x64\x6F\x6D","\x66\x6C\x6F\x6F\x72","\x65\x6E\x74\x72\x79","\x66\x65\x65\x64","\x74\x65\x72\x6D","\x63\x61\x74\x65\x67\x6F\x72\x79","\x24\x74","\x74\x69\x74\x6C\x65","\x6C\x69\x6E\x6B","\x72\x65\x6C","\x61\x6C\x74\x65\x72\x6E\x61\x74\x65","\x68\x72\x65\x66","\x72\x65\x70\x6C\x69\x65\x73","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x68\x74\x6D\x6C","\x20","\x63\x6F\x6E\x74\x65\x6E\x74","\x73\x75\x6D\x6D\x61\x72\x79","\x70\x75\x62\x6C\x69\x73\x68\x65\x64","\x3C\x69\x6D\x67","\x73\x72\x63\x3D\x22","\x22","\x73\x75\x62\x73\x74\x72","\x4A\x61\x6E","\x46\x65\x62","\x4D\x61\x72","\x41\x70\x72","\x4D\x61\x79","\x4A\x75\x6E","\x4A\x75\x6C","\x41\x75\x67","\x53\x65\x70","\x4F\x63\x74","\x4E\x6F\x76","\x44\x65\x63","\x2D","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x61\x69\x6E\x2D\x70\x6F\x73\x74\x20\x63\x6F\x6C\x2D\x70\x6F\x73\x74\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x64\x61\x74\x65\x22\x3E\x3C\x70\x3E\x3C\x73\x70\x61\x6E\x3E","\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x70\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E\x3C\x69\x6D\x67\x20\x77\x69\x64\x74\x68\x3D\x22","\x22\x20\x68\x65\x69\x67\x68\x74\x3D\x22","\x22\x20\x73\x72\x63\x3D\x22","\x2F\x73\x37\x32\x2D\x63\x2F","\x2F\x77","\x2D\x68","\x2D\x63\x2F","\x72\x65\x70\x6C\x61\x63\x65","\x22\x20\x61\x6C\x74\x3D\x22\x22\x3E\x3C\x2F\x69\x6D\x67\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x6E\x66\x6F\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x74\x69\x74\x6C\x65\x22\x3E\x3C\x68\x33\x3E\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x6C\x61\x62\x65\x6C\x22\x3E","\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x20\x74\x69\x74\x6C\x65\x3D\x22\x22\x3E","\x3C\x2F\x61\x3E\x3C\x2F\x68\x33\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x61\x3E\x3C\x2F\x64\x69\x76\x3E","\x77\x72\x69\x74\x65","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x65\x63\x6F\x6E\x64\x61\x72\x79\x2D\x70\x6F\x73\x74\x20\x63\x6F\x6C\x2D\x70\x6F\x73\x74\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E\x3C\x2F\x69\x6D\x67\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x6E\x66\x6F\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x74\x69\x74\x6C\x65\x22\x3E\x3C\x68\x33\x3E\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x62\x6F\x78\x2D\x6C\x61\x62\x65\x6C\x22\x3E","\x6F\x6E\x6C\x6F\x61\x64","\x61\x72\x6C\x69\x6E\x61\x63\x72\x65\x64\x69\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x3A\x2F\x2F\x61\x72\x6C\x69\x6E\x61\x64\x65\x73\x69\x67\x6E\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D","\x68\x74\x74\x70\x3A\x2F\x2F\x61\x72\x6C\x69\x6E\x61\x64\x65\x73\x69\x67\x6E\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D\x2F","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x6E\x6F\x66\x6F\x6C\x6C\x6F\x77","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x41\x72\x6C\x69\x6E\x61\x20\x44\x65\x73\x69\x67\x6E"];imgr= new Array();imgr[0]=_0xbe12[0];showRandomImg=true;aBold=true;summaryPost=150;summaryTitle=50;numposts1=10;featured_numposts=_0xbe12[1];function removeHtmlTag(_0x3737x2,_0x3737x3){var _0x3737x4=_0x3737x2[_0xbe12[3]](_0xbe12[2]);for(var _0x3737x5=0;_0x3737x5<_0x3737x4[_0xbe12[4]];_0x3737x5++){if(_0x3737x4[_0x3737x5][_0xbe12[6]](_0xbe12[5])!= -1){_0x3737x4[_0x3737x5]=_0x3737x4[_0x3737x5][_0xbe12[7]](_0x3737x4[_0x3737x5][_0xbe12[6]](_0xbe12[5])+1,_0x3737x4[_0x3737x5][_0xbe12[4]])}};_0x3737x4=_0x3737x4[_0xbe12[9]](_0xbe12[8]);_0x3737x4=_0x3737x4[_0xbe12[7]](0,_0x3737x3-1);return _0x3737x4;}function sliderposts(_0x3737x7){j=showRandomImg?Math[_0xbe12[11]]((imgr[_0xbe12[4]]+1)*Math[_0xbe12[10]]()):0;img= new Array;if(numposts1<=_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]){maxpost=numposts1}else {maxpost=_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]};for(var _0x3737x5=0;_0x3737x5<maxpost;_0x3737x5++){var _0x3737x8=_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0x3737x5];var _0x3737x9=_0x3737x8[_0xbe12[15]][0][_0xbe12[14]];var _0x3737xa=_0x3737x8[_0xbe12[17]][_0xbe12[16]];var _0x3737xb;var _0x3737xc;if(_0x3737x5==_0x3737x7[_0xbe12[13]][_0xbe12[12]][_0xbe12[4]]){break };for(var _0x3737xd=0;_0x3737xd<_0x3737x8[_0xbe12[18]][_0xbe12[4]];_0x3737xd++){if(_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[19]]==_0xbe12[20]){_0x3737xc=_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[21]];break ;}};for(var _0x3737xd=0;_0x3737xd<_0x3737x8[_0xbe12[18]][_0xbe12[4]];_0x3737xd++){if(_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[19]]==_0xbe12[22]&&_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[23]]==_0xbe12[24]){_0x3737xb=_0x3737x8[_0xbe12[18]][_0x3737xd][_0xbe12[17]][_0xbe12[3]](_0xbe12[25])[0];break ;}};if(_0xbe12[26] in _0x3737x8){var _0x3737xe=_0x3737x8[_0xbe12[26]][_0xbe12[16]]}else {if(_0xbe12[27] in _0x3737x8){var _0x3737xe=_0x3737x8[_0xbe12[27]][_0xbe12[16]]}else {var _0x3737xe=_0xbe12[8]}};postdate=_0x3737x8[_0xbe12[28]][_0xbe12[16]];if(j>imgr[_0xbe12[4]]-1){j=0};img[_0x3737x5]=imgr[j];s=_0x3737xe;a=s[_0xbe12[6]](_0xbe12[29]);b=s[_0xbe12[6]](_0xbe12[30],a);c=s[_0xbe12[6]](_0xbe12[31],b+5);d=s[_0xbe12[32]](b+5,c-b-5);if(a!=-1&&(b!=-1&&(c!=-1&&d!=_0xbe12[8]))){img[_0x3737x5]=d};var _0x3737xf=[1,2,3,4,5,6,7,8,9,10,11,12];var _0x3737x10=[_0xbe12[33],_0xbe12[34],_0xbe12[35],_0xbe12[36],_0xbe12[37],_0xbe12[38],_0xbe12[39],_0xbe12[40],_0xbe12[41],_0xbe12[42],_0xbe12[43],_0xbe12[44]];var _0x3737x11=postdate[_0xbe12[3]](_0xbe12[45])[2][_0xbe12[7]](0,2);var _0x3737x12=postdate[_0xbe12[3]](_0xbe12[45])[1];var _0x3737x13=postdate[_0xbe12[3]](_0xbe12[45])[0];var _0x3737x14=530;var _0x3737x15=400;var _0x3737x16=265;var _0x3737x17=200;for(var _0x3737x18=0;_0x3737x18<_0x3737xf[_0xbe12[4]];_0x3737x18++){if(parseInt(_0x3737x12)==_0x3737xf[_0x3737x18]){_0x3737x12=_0x3737x10[_0x3737x18];break ;}};var _0x3737x19=_0x3737x11+_0xbe12[25]+_0x3737x12+_0xbe12[25]+_0x3737x13;if(_0x3737x5==0){var _0x3737x1a=_0xbe12[46]+_0x3737x19+_0xbe12[47]+_0x3737xc+_0xbe12[48]+_0x3737x14+_0xbe12[49]+_0x3737x15+_0xbe12[50]+img[_0x3737x5][_0xbe12[55]](_0xbe12[51],_0xbe12[52]+_0x3737x14+_0xbe12[53]+_0x3737x15+_0xbe12[54])+_0xbe12[56]+_0x3737x9+_0xbe12[57]+_0x3737xc+_0xbe12[58]+_0x3737xa+_0xbe12[59];document[_0xbe12[60]](_0x3737x1a);}else {var _0x3737x1a=_0xbe12[61]+_0x3737xc+_0xbe12[48]+_0x3737x16+_0xbe12[49]+_0x3737x17+_0xbe12[50]+img[_0x3737x5]+_0xbe12[62]+_0x3737x9+_0xbe12[57]+_0x3737xc+_0xbe12[58]+_0x3737xa+_0xbe12[59];document[_0xbe12[60]](_0x3737x1a);};j++;};}window[_0xbe12[63]]=function(){var _0x3737x1b=document[_0xbe12[65]](_0xbe12[64]);if(_0x3737x1b==null){window[_0xbe12[66]][_0xbe12[21]]=_0xbe12[67]};_0x3737x1b[_0xbe12[69]](_0xbe12[21],_0xbe12[68]);_0x3737x1b[_0xbe12[69]](_0xbe12[19],_0xbe12[70]);_0x3737x1b[_0xbe12[71]]=_0xbe12[72];};
-// jCarouselLite - http://gmarwaha.com/jquery/jcarousellite/
+// jCarouselLite - https://gmarwaha.com/jquery/jcarousellite/
 !function(e){function t(t,n){return parseInt(e.css(t[0],n))||0}function n(e){return e[0].offsetWidth+t(e,"marginLeft")+t(e,"marginRight")}function l(e){return e[0].offsetHeight+t(e,"marginTop")+t(e,"marginBottom")}e.fn.jCarouselLite=function(t){return t=e.extend({btnPrev:null,btnNext:null,btnGo:null,mouseWheel:!1,auto:null,speed:200,easing:null,vertical:!1,circular:!0,visible:4,start:0,scroll:1,beforeStart:null,afterEnd:null},t||{}),this.each(function(){function i(){return v.slice(p).slice(0,h)}function r(n){if(!s){if(t.beforeStart&&t.beforeStart.call(this,i()),t.circular)n<=t.start-h-1?(u.css(c,-((b-2*h)*g)+"px"),p=n==t.start-h-1?b-2*h-1:b-2*h-t.scroll):n>=b-h+1?(u.css(c,-(h*g)+"px"),p=n==b-h+1?h+1:h+t.scroll):p=n;else{if(0>n||n>b-h)return;p=n}s=!0,u.animate("left"==c?{left:-(p*g)}:{top:-(p*g)},t.speed,t.easing,function(){t.afterEnd&&t.afterEnd.call(this,i()),s=!1}),t.circular||(e(t.btnPrev+","+t.btnNext).removeClass("disabled"),e(p-t.scroll<0&&t.btnPrev||p+t.scroll>b-h&&t.btnNext||[]).addClass("disabled"))}return!1}var s=!1,c=t.vertical?"top":"left",o=t.vertical?"height":"width",a=e(this),u=e("ul",a),f=e("li",u),d=f.size(),h=t.visible;t.circular&&(u.prepend(f.slice(d-h-1+1).clone()).append(f.slice(0,h).clone()),t.start+=h);var v=e("li",u),b=v.size(),p=t.start;a.css("visibility","visible"),v.css({overflow:"hidden","float":t.vertical?"none":"left"}),u.css({margin:"0",padding:"0",position:"relative","list-style-type":"none","z-index":"1"}),a.css({overflow:"hidden",position:"relative","z-index":"2",left:"0px"});var g=t.vertical?l(v):n(v),x=g*b,m=g*h;v.css({width:v.width(),height:v.height()}),u.css(o,x+"px").css(c,-(p*g)),a.css(o,m+"px"),t.btnPrev&&e(t.btnPrev).click(function(){return r(p-t.scroll)}),t.btnNext&&e(t.btnNext).click(function(){return r(p+t.scroll)}),t.btnGo&&e.each(t.btnGo,function(n,l){e(l).click(function(){return r(t.circular?t.visible+n:n)})}),t.mouseWheel&&a.mousewheel&&a.mousewheel(function(e,n){return r(n>0?p-t.scroll:p+t.scroll)}),t.auto&&setInterval(function(){r(p+t.scroll)},t.auto+t.speed)})}}(jQuery);
 // callback
-function recentarticles1(t){j=showRandomImg?Math.floor((imgr.length+1)*Math.random()):0,img=new Array;for(var e=0;e<numposts5;e++){var r,n,i=t.feed.entry[e],m=i.title.$t;if(e==t.feed.entry.length)break;for(var l=0;l<i.link.length;l++)if("alternate"==i.link[l].rel){n=i.link[l].href;break}for(var l=0;l<i.link.length;l++)if("replies"==i.link[l].rel&&"text/html"==i.link[l].type){r=i.link[l].title.split(" ")[0];break}if("content"in i)var o=i.content.$t;else if("summary"in i)var o=i.summary.$t;else var o="";postdate=i.published.$t,j>imgr.length-1&&(j=0),img[e]=imgr[j],s=o,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),-1!=a&&-1!=b&&-1!=c&&""!=d&&(img[e]=d);for(var u=[1,2,3,4,5,6,7,8,9,10,11,12],h=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],p=(postdate.split("-")[2].substring(0,2),postdate.split("-")[1]),f=(postdate.split("-")[0],0);f<u.length;f++)if(parseInt(p)==u[f]){p=h[f];break}var w='<li class="car"><div class="thumbE"><a href="'+n+'"><img width="265" min-height="200" class="Thumbnail thumbnail carousel " src="'+img[e]+'"/></a></div><a class="slider_title" href="'+n+'">'+m+"</a></li>";document.write(w),j++}}function mythumb(t){for(var e=0;e<numposts;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var u;try{u=n.media$thumbnail.url,u=u.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);document.write('<ul class="arlinathumbs">'),document.write("<li>"),1==showpostthumbnails&&document.write('<a href="'+r+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i+'" src="'+u+'"/></div></a>'),document.write('<span class="arlinatitle"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v=v+'<span class="arlinameta_date">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore&&(v=v+'<span class="arlinameta_more"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</span>"),document.write("</li>"),document.write("</ul>")}document.write('<ul class="arlinathumbs2">');for(var e=1;e<numposts2;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=1;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var $;try{$=n.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),$=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);1==showpostthumbnails2&&document.write('<a href="'+r+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i+'" src="'+$+'"/></div></a>'),document.write("<li>"),document.write('<span class="arlinatitle arlinatitle2"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";document.write('<span class="arlinameta arlinameta2">'),1==showpostdate2&&(v=v+'<span class="arlinameta_date arlinameta_date2">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum2&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore2&&(v=v+'<span class="arlinameta_more arlinameta_more2"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write("</li>")}document.write("</ul>")}function mythumb1(t){for(var e=0;e<numposts;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var u;try{u=n.media$thumbnail.url,u=u.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);document.write('<ul class="arlinathumbs1">'),document.write("<li>"),1==showpostthumbnails&&document.write('<a href="'+r+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i+'" src="'+u+'"/></div></a>'),document.write('<span class="arlinatitle"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v=v+'<span class="arlinameta_date">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore&&(v=v+'<span class="arlinameta_more"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</span>"),document.write("</li>"),document.write("</ul>")}document.write('<ul class="arlinathumbs22">');for(var e=1;e<numposts3;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=1;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var $;try{$=n.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),$=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);1==showpostthumbnails2&&document.write('<a href="'+r+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i+'" src="'+$+'"/></div></a>'),document.write("<li>"),document.write('<span class="arlinatitle arlinatitle2"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";document.write('<span class="arlinameta arlinameta2">'),1==showpostdate2&&(v=v+'<span class="arlinameta_date arlinameta_date2">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum2&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore2&&(v=v+'<span class="arlinameta_more arlinameta_more2"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write("</li>")}document.write("</ul>")}function mythumb2(t){document.write('<div id="recent-posts">');for(var e=0;numpost>e;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type){n.link[m].title,n.link[m].href}if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var l;try{l=n.media$thumbnail.url}catch(o){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),l=-1!=a&&-1!=b&&-1!=c&&""!=d?d:'" style="display: none;'}var u=n.published.$t,h=u.substring(0,4),p=u.substring(5,7),f=u.substring(8,10),w=new Array;w[1]="Jan",w[2]="Feb",w[3]="Mar",w[4]="Apr",w[5]="May",w[6]="Jun",w[7]="Jul",w[8]="Aug",w[9]="Sep",w[10]="Oct",w[11]="Nov",w[12]="Dec",document.write('<div class="post_wrapper1">'),document.write('<div class="post_thumb"><a href="'+r+'"><img src="'+l.replace("/s72-c/","/s120-c/")+'" alt="'+i+'" height="90" width="90"></div>');var g="",v=0;if(document.write(""),1==showpostdate&&(g=g+f+"/"+p+"/"+h,v=1),document.write('<div class="post_desc"><a href="'+r+'"><h5>'+i+'</h5></a><span class="meta"><i class="fa fa-clock-o"></i>&nbsp;'+g+"</span><p>"),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</p></div><div class='clear'></div></div>"),1==displayseparator&&e!=numposts-1&&document.write("")}document.write("</div>")}imgr=new Array,imgr[0]="http://3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s1600/picture_not_available.png",showRandomImg=!0,aBold=!0,summaryPost=150,summaryPost1=0,summaryTitle=15,numposts5=6;var numpost=3,displayseparator=!1,showpostdate=!0,showpostsummary=!0,numchars=50;
+function recentarticles1(t){j=showRandomImg?Math.floor((imgr.length+1)*Math.random()):0,img=new Array;for(var e=0;e<numposts5;e++){var r,n,i=t.feed.entry[e],m=i.title.$t;if(e==t.feed.entry.length)break;for(var l=0;l<i.link.length;l++)if("alternate"==i.link[l].rel){n=i.link[l].href;break}for(var l=0;l<i.link.length;l++)if("replies"==i.link[l].rel&&"text/html"==i.link[l].type){r=i.link[l].title.split(" ")[0];break}if("content"in i)var o=i.content.$t;else if("summary"in i)var o=i.summary.$t;else var o="";postdate=i.published.$t,j>imgr.length-1&&(j=0),img[e]=imgr[j],s=o,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),-1!=a&&-1!=b&&-1!=c&&""!=d&&(img[e]=d);for(var u=[1,2,3,4,5,6,7,8,9,10,11,12],h=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],p=(postdate.split("-")[2].substring(0,2),postdate.split("-")[1]),f=(postdate.split("-")[0],0);f<u.length;f++)if(parseInt(p)==u[f]){p=h[f];break}var w='<li class="car"><div class="thumbE"><a href="'+n+'"><img width="265" min-height="200" class="Thumbnail thumbnail carousel " src="'+img[e]+'"/></a></div><a class="slider_title" href="'+n+'">'+m+"</a></li>";document.write(w),j++}}function mythumb(t){for(var e=0;e<numposts;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var u;try{u=n.media$thumbnail.url,u=u.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);document.write('<ul class="arlinathumbs">'),document.write("<li>"),1==showpostthumbnails&&document.write('<a href="'+r+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i+'" src="'+u+'"/></div></a>'),document.write('<span class="arlinatitle"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v=v+'<span class="arlinameta_date">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore&&(v=v+'<span class="arlinameta_more"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</span>"),document.write("</li>"),document.write("</ul>")}document.write('<ul class="arlinathumbs2">');for(var e=1;e<numposts2;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=1;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var $;try{$=n.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),$=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);1==showpostthumbnails2&&document.write('<a href="'+r+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i+'" src="'+$+'"/></div></a>'),document.write("<li>"),document.write('<span class="arlinatitle arlinatitle2"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";document.write('<span class="arlinameta arlinameta2">'),1==showpostdate2&&(v=v+'<span class="arlinameta_date arlinameta_date2">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum2&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore2&&(v=v+'<span class="arlinameta_more arlinameta_more2"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write("</li>")}document.write("</ul>")}function mythumb1(t){for(var e=0;e<numposts;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var u;try{u=n.media$thumbnail.url,u=u.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);document.write('<ul class="arlinathumbs1">'),document.write("<li>"),1==showpostthumbnails&&document.write('<a href="'+r+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i+'" src="'+u+'"/></div></a>'),document.write('<span class="arlinatitle"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v=v+'<span class="arlinameta_date">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore&&(v=v+'<span class="arlinameta_more"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</span>"),document.write("</li>"),document.write("</ul>")}document.write('<ul class="arlinathumbs22">');for(var e=1;e<numposts3;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=1;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type)var l=n.link[m].title,o=n.link[m].href;if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var $;try{$=n.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/")}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),$=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2}var p=n.published.$t,f=p.substring(0,4),w=p.substring(5,7),g=p.substring(8,10);1==showpostthumbnails2&&document.write('<a href="'+r+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i+'" src="'+$+'"/></div></a>'),document.write("<li>"),document.write('<span class="arlinatitle arlinatitle2"><a href="'+r+'" target ="_top">'+i+"</a></span>");var v="";document.write('<span class="arlinameta arlinameta2">'),1==showpostdate2&&(v=v+'<span class="arlinameta_date arlinameta_date2">'+g+"/"+w+"/"+f+"</span>"),1==showcommentnum2&&("1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o+'" target ="_top">'+l+"</a></span>",v+=l),1==displaymore2&&(v=v+'<span class="arlinameta_more arlinameta_more2"><a href="'+r+'" class="url" target ="_top">Read More...</a></span>'),document.write(v),document.write("</span>"),document.write("</li>")}document.write("</ul>")}function mythumb2(t){document.write('<div id="recent-posts">');for(var e=0;numpost>e;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var m=0;m<n.link.length;m++){if("replies"==n.link[m].rel&&"text/html"==n.link[m].type){n.link[m].title,n.link[m].href}if("alternate"==n.link[m].rel){r=n.link[m].href;break}}var l;try{l=n.media$thumbnail.url}catch(o){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),l=-1!=a&&-1!=b&&-1!=c&&""!=d?d:'" style="display: none;'}var u=n.published.$t,h=u.substring(0,4),p=u.substring(5,7),f=u.substring(8,10),w=new Array;w[1]="Jan",w[2]="Feb",w[3]="Mar",w[4]="Apr",w[5]="May",w[6]="Jun",w[7]="Jul",w[8]="Aug",w[9]="Sep",w[10]="Oct",w[11]="Nov",w[12]="Dec",document.write('<div class="post_wrapper1">'),document.write('<div class="post_thumb"><a href="'+r+'"><img src="'+l.replace("/s72-c/","/s120-c/")+'" alt="'+i+'" height="90" width="90"></div>');var g="",v=0;if(document.write(""),1==showpostdate&&(g=g+f+"/"+p+"/"+h,v=1),document.write('<div class="post_desc"><a href="'+r+'"><h5>'+i+'</h5></a><span class="meta"><i class="fa fa-clock-o"></i>&nbsp;'+g+"</span><p>"),"content"in n)var k=n.content.$t;else if("summary"in n)var k=n.summary.$t;else var k="";var y=/<\S[^>]*>/g;if(k=k.replace(y,""),1==showpostsummary)if(k.length<numchars)document.write(""),document.write(k),document.write("");else{document.write(""),k=k.substring(0,numchars);var _=k.lastIndexOf(" ");k=k.substring(0,_),document.write(k+"..."),document.write("")}document.write("</p></div><div class='clear'></div></div>"),1==displayseparator&&e!=numposts-1&&document.write("")}document.write("</div>")}imgr=new Array,imgr[0]="https://3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s1600/picture_not_available.png",showRandomImg=!0,aBold=!0,summaryPost=150,summaryPost1=0,summaryTitle=15,numposts5=6;var numpost=3,displayseparator=!1,showpostdate=!0,showpostsummary=!0,numchars=50;
 //]]>
 var numposts = 1;
 var numposts2 = 3;
@@ -1215,8 +1215,8 @@ var thumb_width = 350;
 var thumb_height = 210;
 var thumb_width2 = 110;
 var thumb_height2 = 110;
-var no_thumb = &#39;http://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
-var no_thumb2 = &#39;http://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
+var no_thumb = &#39;https://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
+var no_thumb2 = &#39;https://1.bp.blogspot.com/-5W3LET6BVVg/VW_WQ-S4OPI/AAAAAAAAKHY/ahNb-ytVCXk/s1600/no-image.gif&#39;
 </script>
 <script type='text/javascript'>
 //<![CDATA[
@@ -1237,7 +1237,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </b:if>
 <b:if cond='data:blog.url == &quot;p/blog-page_26.html&quot;'>
 <style type='text/css'>
-.post-body{background:url(http://2.bp.blogspot.com/-alum9K2SRYg/VjqAgYxuVCI/AAAAAAAAL-g/dkWivHcWDYg/s1600/preloader.gif)50% 10% no-repeat!important;padding:60px;margin:0}
+.post-body{background:url(https://2.bp.blogspot.com/-alum9K2SRYg/VjqAgYxuVCI/AAAAAAAAL-g/dkWivHcWDYg/s1600/preloader.gif)50% 10% no-repeat!important;padding:60px;margin:0}
 #gcsengine{margin-top:-70px}
 </style>
 </b:if>
@@ -1276,10 +1276,10 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
   <div class='vitop-wrapper'>
           <nav class='top-menunav'>
             <ul>
-              <li><a href='http://keuangandesa.info/p/tentang-keuangan-desa.html' title='About Us'><i class='fa fa-user'/> About</a></li>
-              <li><a href='http://keuangandesa.info/p/daftar-isi.html' title='Our Sitemap'><i class='fa fa-list'/> Sitemap</a></li>
-              <li><a href='http://keuangandesa.info/p/kontak-kami.html' title='Contact us'><i class='fa fa-envelope'/> Kontak Kami</a></li>
-              <li><a href='http://keuangandesa.info/p/blog-page.html' title='Disclaimer'><i class='fa fa-check-circle'/> Disclaimer</a></li>
+              <li><a href='https://www.keuangandesa.info/p/tentang-keuangan-desa.html' title='About Us'><i class='fa fa-user'/> About</a></li>
+              <li><a href='https://www.keuangandesa.info/p/daftar-isi.html' title='Our Sitemap'><i class='fa fa-list'/> Sitemap</a></li>
+              <li><a href='https://www.keuangandesa.info/p/kontak-kami.html' title='Contact us'><i class='fa fa-envelope'/> Kontak Kami</a></li>
+              <li><a href='https://www.keuangandesa.info/p/blog-page.html' title='Disclaimer'><i class='fa fa-check-circle'/> Disclaimer</a></li>
 <li class='doremi join'><a href='#' rel='nofollow' target='_blank' title='Join Our Site'><i class='fa fa-plus'/><span class='inv'/></a></li>
 <li class='doremi gplus'><a href='#' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/><span class='inv'/></a></li>
 <li class='doremi facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/><span class='inv'/></a></li>
@@ -1293,11 +1293,11 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </div>
 <div class='clear'/>
 
-<div id='header-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
+<div id='header-wrapper' itemscope='itemscope' itemtype='https://schema.org/WPHeader'>
   <b:section class='header section' id='header' maxwidgets='1' showaddelement='no'>
     <b:widget id='Header1' locked='true' title='KeuanganDesa.info - Mengawal Tata Kelola Keuangan Desa (Header)' type='Header' version='1'>
       <b:widget-settings>
-        <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-YeXpS32O5Qo/V4TpZA00hqI/AAAAAAAAHmw/Sr9ImBQ0fc0-VZgEeExj1J_Ys8plkbyngCK4B/s1600/keuangandesa.info-v3.png</b:widget-setting>
+        <b:widget-setting name='displayUrl'>https://3.bp.blogspot.com/-YeXpS32O5Qo/V4TpZA00hqI/AAAAAAAAHmw/Sr9ImBQ0fc0-VZgEeExj1J_Ys8plkbyngCK4B/s1600/keuangandesa.info-v3.png</b:widget-setting>
         <b:widget-setting name='displayHeight'>38</b:widget-setting>
         <b:widget-setting name='sectionWidth'>239</b:widget-setting>
         <b:widget-setting name='useImage'>true</b:widget-setting>
@@ -1411,18 +1411,18 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </div>
 <div class='clear'/>
 
-<nav id='nav' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation'>
+<nav id='nav' itemscope='itemscope' itemtype='https://schema.org/SiteNavigationElement' role='navigation'>
 <a class='menu-slide' href='#'><i class='fa fa-list'/> Menu</a>
 <ul class='nav vienna-mainmenu'>
 <li><a class='active' href='/'><span itemprop='name'><i class='fa fa-home'/> Home</span></a></li>
-<li><a href='http://www.keuangandesa.info/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
+<li><a href='https://www.keuangandesa.info/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 2</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Berita 3</span></a></li>
 </ul>-->
 </li>
-<li><a href='http://www.keuangandesa.info/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
+<li><a href='https://www.keuangandesa.info/search/label/Keuangan%20Desa?max-results=6' itemprop='url'><span itemprop='name'>Keuangan</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>A1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>A2</span></a></li>
@@ -1436,7 +1436,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://www.keuangandesa.info/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
+<li><a href='https://www.keuangandesa.info/search/label/Pajak?max-results=6' itemprop='url'><span itemprop='name'>Pajak</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 1</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Pajak 2</span></a></li>
@@ -1450,7 +1450,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://www.keuangandesa.info/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
+<li><a href='https://www.keuangandesa.info/search/label/Akuntansi?max-results=6' itemprop='url'><span itemprop='name'>Akuntansi</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>Dasar</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>Menengah</span></a></li>
@@ -1464,7 +1464,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </li>
 </ul>-->
 </li>
-<li><a href='http://www.keuangandesa.info/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
+<li><a href='https://www.keuangandesa.info/search/label/Peraturan?max-results=6' itemprop='url'><span itemprop='name'>Peraturan</span></a>
 <!--<ul>
 <li><a href='#' itemprop='url'><span itemprop='name'>UU</span></a></li>
 <li><a href='#' itemprop='url'><span itemprop='name'>PP</span></a></li>
@@ -1479,7 +1479,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </ul> -->
 </li>
 <!--<li><a href='#' itemprop='url'><span itemprop='name'>Mobile</span></a></li>-->
-<li><a href='http://www.keuangandesa.info/search/label/Video?max-results=6' itemprop='url'><span itemprop='name'>Video</span></a></li>
+<li><a href='https://www.keuangandesa.info/search/label/Video?max-results=6' itemprop='url'><span itemprop='name'>Video</span></a></li>
 </ul>
 <form action='/p/blog-page_26.html' id='search-form'>
 <input name='cx' type='hidden' value='partner-pub-012986247084594959022:_qw5vgnzdnu'/>
@@ -1516,7 +1516,7 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 </div>
 </b:if>
 <div class='clear'/>
-<div id='content-wrapper' itemscope='itemscope' itemtype='http://schema.org/Blog' role='main'>
+<div id='content-wrapper' itemscope='itemscope' itemtype='https://schema.org/Blog' role='main'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <div id='carousel'>
 <div id='crosscol-wrapper'>
@@ -1848,7 +1848,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
       <iframe class='blogger-iframe-colorize blogger-comment-from-post' height='410' id='comment-editor' name='comment-editor'/>
         </b:if>
         <b:if cond='data:blog.pageType == &quot;item&quot;'>
-        <a expr:href='&quot;http://www.blogger.com/comment-iframe.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;postID=&quot; + data:post.id' id='comment-editor-src' title='comment editor'/>
+        <a expr:href='&quot;https://www.blogger.com/comment-iframe.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;postID=&quot; + data:post.id' id='comment-editor-src' title='comment editor'/>
       <iframe class='blogger-iframe-colorize blogger-comment-from-post' height='410' id='comment-editor' name='comment-editor'/>
         </b:if>
     <b:else/>
@@ -1864,11 +1864,11 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
 </div>
       <data:blogTeamBlogMessage/>
         <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
-        <a expr:href='&quot;http://www.blogger.com/comment-iframe.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;pageID=&quot; + data:post.id' id='comment-editor-src' title='comment editor'/>
+        <a expr:href='&quot;https://www.blogger.com/comment-iframe.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;pageID=&quot; + data:post.id' id='comment-editor-src' title='comment editor'/>
       <iframe class='blogger-iframe-colorize blogger-comment-from-post' height='410' id='comment-editor' name='comment-editor'/>
         </b:if>
         <b:if cond='data:blog.pageType == &quot;item&quot;'>
-        <a expr:href='&quot;http://www.blogger.com/comment-iframe.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;postID=&quot; + data:post.id' id='comment-editor-src' title='comment editor'/>
+        <a expr:href='&quot;https://www.blogger.com/comment-iframe.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;postID=&quot; + data:post.id' id='comment-editor-src' title='comment editor'/>
       <iframe class='blogger-iframe-colorize blogger-comment-from-post' height='410' id='comment-editor' name='comment-editor'/>
         </b:if>
       </div>
@@ -1887,7 +1887,7 @@ $(&quot;#carousel .content&quot;).jCarouselLite({
         <div class='goog-inline-block comment-action-icon'/>
       </div>
     <b:else/>
-      <a class='comment-delete' expr:href='&quot;http://www.blogger.com/delete-comment.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;postID=&quot; + data:comment.id' title='delete comment'>delete</a>
+      <a class='comment-delete' expr:href='&quot;https://www.blogger.com/delete-comment.g?blogID=&quot; + data:blog.blogId + &quot;&amp;amp;postID=&quot; + data:comment.id' title='delete comment'>delete</a>
     </b:if>
   </span>
 </b:includable>
@@ -2164,7 +2164,7 @@ avatar.find('.comment_avatar img').each(function() {
 					  </span>
 					<b:else/>
 					  <span class='author-info'>
-					  <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+					  <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
 						<span itemprop='name'><data:post.author/></span>
 					  </span>
 					  </span>
@@ -2239,7 +2239,7 @@ avatar.find('.comment_avatar img').each(function() {
   <div class='date-outer'>
     <div class='date-posts'>
       <div class='post-outer'>
-        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
           <b:if cond='data:post.thumbnailUrl'>
             <meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/>
           </b:if>
@@ -2271,7 +2271,7 @@ avatar.find('.comment_avatar img').each(function() {
 					<b:if cond='data:post.authorProfileUrl'>
 					  <span class='author-info'>
 					  <i class='fa fa-user'/>
-					  <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+					  <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
 						<meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
 						<a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
 						  <span itemprop='name'><data:post.author/></span>
@@ -2280,7 +2280,7 @@ avatar.find('.comment_avatar img').each(function() {
 					  </span>
 					<b:else/>
 					  <span class='author-info'>
-					  <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+					  <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
 						<span itemprop='name'><data:post.author/></span>
 					  </span>
 					  </span>
@@ -2486,7 +2486,7 @@ avatar.find('.comment_avatar img').each(function() {
             <b:if cond='data:post.authorProfileUrl'>
 			  <span class='author-info'>
               <i class='fa fa-user'/>
-			  <span class='vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+			  <span class='vcard' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
 			  <span class='fn'> 
                 <a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
                   <span itemprop='name'><data:post.author/></span>
@@ -2534,7 +2534,7 @@ avatar.find('.comment_avatar img').each(function() {
 
     <div class='post-header'>
     <div class='post-header-line-1'/>
-<span class='post-author vcard' itemscope='itemscope' itemtype='http://schema.org/Person'> 
+<span class='post-author vcard' itemscope='itemscope' itemtype='https://schema.org/Person'> 
                 <b:if cond='data:top.showAuthor'> 
                   <b:if cond='data:post.authorProfileUrl'> 
                     <span class='fn author'> 
@@ -2951,9 +2951,9 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
 window.onload = function () {
 	var e = document.getElementById("arlinacredit");
 	if (e == null) {
-		window.location.href = "http://arlinadesign.blogspot.com"
+		window.location.href = "https://arlinadesign.blogspot.com"
 	}
-	e.setAttribute("href", "http://arlinadesign.blogspot.com/");
+	e.setAttribute("href", "https://arlinadesign.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
 	e.innerHTML = "Arlina Design"
 }
@@ -3273,10 +3273,10 @@ ul.arlinacomments{list-style:none;margin:0;padding:0}.arlinacomments li{display:
 &lt;script type=&quot;text/javascript&quot;&gt;
 //&lt;![CDATA[
 // Recent Comments
-function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&gt;&#39;;for(var t=0;numComments&gt;t;t++){var r,o,n,i;if(t==a.feed.entry.length)break;e+=&quot;&lt;li&gt;&quot;;for(var d=a.feed.entry[t],s=0;s&lt;d.link.length;s++)&quot;alternate&quot;==d.link[s].rel&amp;&amp;(r=d.link[s].href);for(var l=0;l&lt;d.author.length;l++)o=d.author[l].name.$t,n=d.author[l].gd$image.src;n=-1!=n.indexOf(&quot;/s1600/&quot;)?n.replace(&quot;/s1600/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s220/&quot;)?n.replace(&quot;/s220/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s512-c/&quot;)&amp;&amp;0!=n.indexOf(&quot;http:&quot;)?&quot;http:&quot;+n.replace(&quot;/s512-c/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;blogblog.com/img/b16-rounded.gif&quot;)?&quot;http://1.bp.blogspot.com/-7bkcAKdpGXI/UrbyQRqvSKI/AAAAAAAAFmI/oBv_yMeYnMQ/s&quot;+avatarSize+&quot;/blogger.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/openid16-rounded.gif&quot;)?&quot;http://2.bp.blogspot.com/-VgnInuIUKBU/UrbzyXTYWRI/AAAAAAAAFmU/3f_Vfj3TI6A/s&quot;+avatarSize+&quot;/openid.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/blank.gif&quot;)?-1!=defaultAvatar.indexOf(&quot;gravatar.com&quot;)?defaultAvatar+&quot;&amp;s=&quot;+avatarSize:defaultAvatar:n,1==showAvatar&amp;&amp;(i=1==roundAvatar?&quot;avatarRound&quot;:&quot;&quot;,e+=&#39;&lt;div class=&quot;avatarImage &#39;+i+&#39;&quot;&gt;&lt;img class=&quot;&#39;+i+&#39;&quot; src=&quot;&#39;+n+&#39;&quot; alt=&quot;&#39;+o+&#39;&quot; width=&quot;&#39;+avatarSize+&#39;&quot; height=&quot;&#39;+avatarSize+&#39;&quot;/&gt;&lt;/div&gt;&#39;),e+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+o+&quot;&lt;/a&gt;&quot;;var A=d.content.$t,v=A.replace(/(&lt;([^&gt;]+)&gt;)/gi,&quot;&quot;);&quot;&quot;!=v&amp;&amp;v.length&gt;characters?(v=v.substring(0,characters),v+=&quot;&amp;hellip;&quot;,1==showMorelink&amp;&amp;(v+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+moreLinktext+&quot;&lt;/a&gt;&quot;)):v=v,e+=&quot;&lt;span&gt;&quot;+v+&quot;&lt;/span&gt;&quot;,e+=&quot;&lt;/li&gt;&quot;}e+=&quot;&lt;/ul&gt;&quot;;var c=&quot;&quot;;0==hideCredits&amp;&amp;(c=&quot;display:block;&quot;),e+=&quot;&quot;,document.write(e)}var numComments=7,showAvatar=!0,avatarSize=42,roundAvatar=!0,characters=40,showMorelink=!1,defaultAvatar=&quot;http://2.bp.blogspot.com/-XjxrXKBPQqs/VYcGtLWPGUI/AAAAAAAAKaQ/5jr871JIwds/s1600/default-avatar.jpg&quot;,hideCredits=!0,numComments=numComments||5,avatarSize=avatarSize||60,characters=characters||40,defaultAvatar=defaultAvatar||&quot;http://4.bp.blogspot.com/-SRSVCXNxbAc/UrbxxXd06YI/AAAAAAAAFl4/332qncR9pD4/s1600/default-avatar.jpg&quot;,moreLinktext=moreLinktext||&quot; More &amp;raquo;&quot;,showAvatar=&quot;undefined&quot;==typeof showAvatar?!0:showAvatar,showMorelink=&quot;undefined&quot;==typeof showMorelink?!1:showMorelink,roundAvatar=&quot;undefined&quot;==typeof roundAvatar?!0:roundAvatar,hideCredits=&quot;undefined&quot;==typeof hideCredits?!1:roundAvatar;
+function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&gt;&#39;;for(var t=0;numComments&gt;t;t++){var r,o,n,i;if(t==a.feed.entry.length)break;e+=&quot;&lt;li&gt;&quot;;for(var d=a.feed.entry[t],s=0;s&lt;d.link.length;s++)&quot;alternate&quot;==d.link[s].rel&amp;&amp;(r=d.link[s].href);for(var l=0;l&lt;d.author.length;l++)o=d.author[l].name.$t,n=d.author[l].gd$image.src;n=-1!=n.indexOf(&quot;/s1600/&quot;)?n.replace(&quot;/s1600/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s220/&quot;)?n.replace(&quot;/s220/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s512-c/&quot;)&amp;&amp;0!=n.indexOf(&quot;http:&quot;)?&quot;http:&quot;+n.replace(&quot;/s512-c/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;blogblog.com/img/b16-rounded.gif&quot;)?&quot;https://1.bp.blogspot.com/-7bkcAKdpGXI/UrbyQRqvSKI/AAAAAAAAFmI/oBv_yMeYnMQ/s&quot;+avatarSize+&quot;/blogger.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/openid16-rounded.gif&quot;)?&quot;https://2.bp.blogspot.com/-VgnInuIUKBU/UrbzyXTYWRI/AAAAAAAAFmU/3f_Vfj3TI6A/s&quot;+avatarSize+&quot;/openid.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/blank.gif&quot;)?-1!=defaultAvatar.indexOf(&quot;gravatar.com&quot;)?defaultAvatar+&quot;&amp;s=&quot;+avatarSize:defaultAvatar:n,1==showAvatar&amp;&amp;(i=1==roundAvatar?&quot;avatarRound&quot;:&quot;&quot;,e+=&#39;&lt;div class=&quot;avatarImage &#39;+i+&#39;&quot;&gt;&lt;img class=&quot;&#39;+i+&#39;&quot; src=&quot;&#39;+n+&#39;&quot; alt=&quot;&#39;+o+&#39;&quot; width=&quot;&#39;+avatarSize+&#39;&quot; height=&quot;&#39;+avatarSize+&#39;&quot;/&gt;&lt;/div&gt;&#39;),e+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+o+&quot;&lt;/a&gt;&quot;;var A=d.content.$t,v=A.replace(/(&lt;([^&gt;]+)&gt;)/gi,&quot;&quot;);&quot;&quot;!=v&amp;&amp;v.length&gt;characters?(v=v.substring(0,characters),v+=&quot;&amp;hellip;&quot;,1==showMorelink&amp;&amp;(v+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+moreLinktext+&quot;&lt;/a&gt;&quot;)):v=v,e+=&quot;&lt;span&gt;&quot;+v+&quot;&lt;/span&gt;&quot;,e+=&quot;&lt;/li&gt;&quot;}e+=&quot;&lt;/ul&gt;&quot;;var c=&quot;&quot;;0==hideCredits&amp;&amp;(c=&quot;display:block;&quot;),e+=&quot;&quot;,document.write(e)}var numComments=7,showAvatar=!0,avatarSize=42,roundAvatar=!0,characters=40,showMorelink=!1,defaultAvatar=&quot;https://2.bp.blogspot.com/-XjxrXKBPQqs/VYcGtLWPGUI/AAAAAAAAKaQ/5jr871JIwds/s1600/default-avatar.jpg&quot;,hideCredits=!0,numComments=numComments||5,avatarSize=avatarSize||60,characters=characters||40,defaultAvatar=defaultAvatar||&quot;https://4.bp.blogspot.com/-SRSVCXNxbAc/UrbxxXd06YI/AAAAAAAAFl4/332qncR9pD4/s1600/default-avatar.jpg&quot;,moreLinktext=moreLinktext||&quot; More &amp;raquo;&quot;,showAvatar=&quot;undefined&quot;==typeof showAvatar?!0:showAvatar,showMorelink=&quot;undefined&quot;==typeof showMorelink?!1:showMorelink,roundAvatar=&quot;undefined&quot;==typeof roundAvatar?!0:roundAvatar,hideCredits=&quot;undefined&quot;==typeof hideCredits?!1:roundAvatar;
 //]]&gt;
 &lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;http://www.keuangandesa.info/feeds/comments/default?alt=json&amp;amp;callback=arlinacomments&amp;amp;max-results=7&quot;&gt;&lt;/script&gt;</b:widget-setting>
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.keuangandesa.info/feeds/comments/default?alt=json&amp;amp;callback=arlinacomments&amp;amp;max-results=7&quot;&gt;&lt;/script&gt;</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -3444,7 +3444,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
 <p class='subscribe-note'><span>BERLANGGANAN</span> <span class='itatu'>Info</span> KeuanganDesa</p>
 <div class='subscribe-wrapper'>
 <div class='subscribe-form'>
-<form action='http://feedburner.google.com/fb/a/mailverify?uri=KeuanganDesa' class='subscribe-form' method='post' onsubmit='window.open (&apos;http://feedburner.google.com/fb/a/mailverify?uri=KeuanganDesa&apos;, &apos;popupwindow&apos;, &apos;scrollbars=yes,width=550,height=520&apos;);return true' target='popupwindow'>
+<form action='https://feedburner.google.com/fb/a/mailverify?uri=KeuanganDesa' class='subscribe-form' method='post' onsubmit='window.open (&apos;https://feedburner.google.com/fb/a/mailverify?uri=KeuanganDesa&apos;, &apos;popupwindow&apos;, &apos;scrollbars=yes,width=550,height=520&apos;);return true' target='popupwindow'>
 <input name='uri' type='hidden' value='KeuanganDesa'/><input name='loc' type='hidden' value='en_US'/><input autocomplete='off' class='subscribe-css-email-field' name='email' placeholder='Enter your Email'/><input class='subscribe-css-email-button' title='' type='submit' value='submit'/></form>
 </div>
 </div>
@@ -3616,7 +3616,7 @@ function resizeThumb(e,s){for(var t=document.getElementById(e),r=t.getElementsBy
 // Sticky Widget
 function makemeSticky(e){function t(){var e=s.getBoundingClientRect();e.top<0?(n.className=a+" makesticking",n.style.width=i+"px"):n.className=a}var n=document.getElementById(e),s=document.createElement("div");n.parentNode.insertBefore(s,n);var i=n.offsetWidth,a=n.className+" makesticky";window.addEventListener("scroll",t,!1)}makemeSticky("PopularPosts2");
 // Breaking News
-$(document).ready(function(){var e="http://www.keuangandesa.info",t=20;$.ajax({url:""+e+"/feeds/posts/default?alt=json-in-script&max-results="+t,type:"get",dataType:"jsonp",success:function(e){function t(){$("#adbreakingnews li:first").slideUp(function(){$(this).appendTo($("#adbreakingnews ul")).slideDown()})}var n,r,s="",a=e.feed.entry;if(void 0!==a){s="<ul>";for(var l=0;l<a.length;l++){for(var o=0;o<a[l].link.length;o++)if("alternate"==a[l].link[o].rel){n=a[l].link[o].href;break}r=a[l].title.$t,s+='<li><a href="'+n+'" target="_blank">'+r+"</a></li>"}s+="</ul>",$("#adbreakingnews").html(s),setInterval(function(){t()},5e3)}else $("#adbreakingnews").html("<span>No result!</span>")},error:function(){$("#adbreakingnews").html("<strong>Error Loading Feed!</strong>")}})});
+$(document).ready(function(){var e="https://www.keuangandesa.info",t=20;$.ajax({url:""+e+"/feeds/posts/default?alt=json-in-script&max-results="+t,type:"get",dataType:"jsonp",success:function(e){function t(){$("#adbreakingnews li:first").slideUp(function(){$(this).appendTo($("#adbreakingnews ul")).slideDown()})}var n,r,s="",a=e.feed.entry;if(void 0!==a){s="<ul>";for(var l=0;l<a.length;l++){for(var o=0;o<a[l].link.length;o++)if("alternate"==a[l].link[o].rel){n=a[l].link[o].href;break}r=a[l].title.$t,s+='<li><a href="'+n+'" target="_blank">'+r+"</a></li>"}s+="</ul>",$("#adbreakingnews").html(s),setInterval(function(){t()},5e3)}else $("#adbreakingnews").html("<span>No result!</span>")},error:function(){$("#adbreakingnews").html("<strong>Error Loading Feed!</strong>")}})});
 //]]>
 </script>
 <b:if cond='data:blog.pageType != &quot;index&quot;'>
