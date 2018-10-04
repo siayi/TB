@@ -3005,17 +3005,17 @@ window.onload = function () {
 <div class='vienna-socials-icons mom-socials-widget'>
     <ul>
         <li class='facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/></a></li>
-        <li class='twitter'><a href='#' rel='nofollow' target='_blank' title='Follow us on Twitter'><i class='fa fa-twitter'/></a></li>
+<!--        <li class='twitter'><a href='#' rel='nofollow' target='_blank' title='Follow us on Twitter'><i class='fa fa-twitter'/></a></li>-->
         <li class='googleplus'><a href='https://plus.google.com/101626814972305934686' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/></a></li>
-        <li class='rss'><a href='#' rel='nofollow' target='_blank' title='Follow us on RSS'><i class='fa fa-rss '/></a></li>
-        <li class='youtube'><a href='#' rel='nofollow' target='_blank' title='Follow us on Youtube'><i class='fa fa-youtube '/></a></li>
-        <li class='dribbble'><a href='#' rel='nofollow' target='_blank' title='Follow us on Dribble'><i class='fa fa-dribbble '/></a></li>
+<!--        <li class='rss'><a href='#' rel='nofollow' target='_blank' title='Follow us on RSS'><i class='fa fa-rss '/></a></li> -->
+        <li class='youtube'><a href='https://www.youtube.com/playlist?list=PLvJQhSmsOpvkBhfdL0n4QI6QglLUAMaeP' rel='nofollow' target='_blank' title='Follow us on Youtube'><i class='fa fa-youtube '/></a></li>
+<!--        <li class='dribbble'><a href='#' rel='nofollow' target='_blank' title='Follow us on Dribble'><i class='fa fa-dribbble '/></a></li>
         <li class='deviantart'><a href='#' rel='nofollow' target='_blank' title='Follow us on DeviantArt'><i class='fa fa-deviantart'/></a></li>
-        <li class='pinterest'><a href='#' rel='nofollow' target='_blank' title='Follow us on Pinterest'><i class='fa fa-pinterest '/></a></li>
+        <li class='pinterest'><a href='#' rel='nofollow' target='_blank' title='Follow us on Pinterest'><i class='fa fa-pinterest '/></a></li> -->
         <li class='instgram'><a href='https://www.instagram.com/ayi_sumarna/' rel='nofollow' target='_blank' title='Follow us on Instagram'><i class='fa fa-instagram '/></a></li>
-        <li class='tumblr'><a href='#' rel='nofollow' target='_blank' title='Follow us on Tumblr'><i class='fa fa-tumblr '/></a></li>
+<!--        <li class='tumblr'><a href='#' rel='nofollow' target='_blank' title='Follow us on Tumblr'><i class='fa fa-tumblr '/></a></li>
         <li class='linkedin'><a href='#' rel='nofollow' target='_blank' title='Follow us on LinkedIn'><i class='fa fa-linkedin '/></a></li>
-        <li class='soundcloud'><a href='#' rel='nofollow' target='_blank' title='Follow us on Soundcloud'><i class='fa fa-soundcloud '/></a></li>
+        <li class='soundcloud'><a href='#' rel='nofollow' target='_blank' title='Follow us on Soundcloud'><i class='fa fa-soundcloud '/></a></li> -->
     </ul>
 </div>
 </div>
