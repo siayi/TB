@@ -3027,7 +3027,7 @@ window.onload = function () {
 <b:section class='vita-list vita-list-1 section' id='vita-list-1' showaddelement='yes'>
   <b:widget id='PopularPosts1' locked='false' title='Populer' type='PopularPosts' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+      <b:widget-setting name='numItemsToShow'>5</b:widget-setting>
       <b:widget-setting name='showThumbnails'>true</b:widget-setting>
       <b:widget-setting name='showSnippets'>true</b:widget-setting>
       <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
