@@ -3286,7 +3286,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='PopularPosts2' locked='false' title='Trending' type='PopularPosts' version='1'>
+<!--  <b:widget id='PopularPosts2' locked='false' title='Trending' type='PopularPosts' version='1'>
     <b:widget-settings>
       <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
       <b:widget-setting name='showThumbnails'>true</b:widget-setting>
@@ -3301,17 +3301,17 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
       <li>
         <b:if cond='data:showThumbnails == &quot;false&quot;'>
           <b:if cond='data:showSnippets == &quot;false&quot;'>
-            <!-- (1) No snippet/thumbnail -->
+            <!- - (1) No snippet/thumbnail - ->
             <a expr:href='data:post.href'><data:post.title/></a>
           <b:else/>
-            <!-- (2) Show only snippets -->
+            <!- - (2) Show only snippets - ->
             <div class='item-title'><a expr:href='data:post.href' expr:title='data:post.title'><data:post.title/></a></div>
             <div class='item-snippet'><data:post.snippet/></div>
           </b:if>
         <b:else/>
           <b:if cond='data:showSnippets == &quot;false&quot;'>
-            <!-- (3) Show only thumbnails -->
-            <div class='item-thumbnail-only'>
+            <!- - (3) Show only thumbnails - ->
+           <div class='item-thumbnail-only'>
               <b:if cond='data:post.thumbnail'>
                 <div class='item-thumbnail'>
                   <a expr:href='data:post.href' target='_blank'>
@@ -3323,7 +3323,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
             </div>
             <div style='clear: both;'/>
           <b:else/>
-            <!-- (4) Show snippets and thumbnails -->
+            <!- - (4) Show snippets and thumbnails - ->
             <div class='item-content'>
               <b:if cond='data:post.thumbnail'>
 
@@ -3344,7 +3344,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
     </ul>
   </div>
 </b:includable>
-  </b:widget>
+  </b:widget> -->
 </b:section>
 </div>
 </aside>
@@ -3368,7 +3368,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
 <div id='footer-adwidget'>
 <div class='footer-widget' id='footx1'>
 <b:section class='footer' id='footer1'>
-  <b:widget id='Translate1' locked='false' title='Translate' type='Translate' version='1'>
+<!--  <b:widget id='Translate1' locked='false' title='Translate' type='Translate' version='1'>
     <b:widget-settings>
       <b:widget-setting name='displayMode'>VERTICAL</b:widget-setting>
     </b:widget-settings>
@@ -3388,7 +3388,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
   </script>
   <script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'/>
 </b:includable>
-  </b:widget>
+  </b:widget> -->
 </b:section>
 </div>
 <div class='footer-widget' id='footx2'>
