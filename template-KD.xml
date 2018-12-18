@@ -3393,7 +3393,7 @@ function merdesacomments(a){var e;e=&#39;&lt;ul class=&quot;merdesacomments&quot
 </div>
 <div class='footer-widget' id='footx2'>
 <b:section class='footer' id='footer2'>
-  <b:widget id='Label3' locked='false' mobile='yes' title='Label' type='Label' version='1'>
+<!--  <b:widget id='Label3' locked='false' mobile='yes' title='Label' type='Label' version='1'>
     <b:widget-settings>
       <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
       <b:widget-setting name='display'>CLOUD</b:widget-setting>
@@ -3437,7 +3437,7 @@ function merdesacomments(a){var e;e=&#39;&lt;ul class=&quot;merdesacomments&quot
     </b:if>
   </div>
 </b:includable>
-  </b:widget>
+  </b:widget> -->
 </b:section>
 </div>
 <div class='footer-widget' id='footx3'>
