@@ -997,34 +997,34 @@ div#HTML13,div#HTML14,div#HTML70,div#HTML71,div#HTML72,div#HTML73,div#HTML74,div
 .milakubox1 .widget {padding:0 0px 15px 0;}
 .milakubox1 .widget-content {background:#fff;}
 .milakubox1  ul {list-style-type:none;margin:0;padding:0;}
-ul.arlinathumbs {margin:0;}
-ul.arlinathumbs li {font-size:12px;min-height:68px;margin:0 0 8px;padding:0 0 8px;border-bottom:1px dotted #e5e5e5;}
-ul.arlinathumbs .arlinathumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
-ul.arlinathumbs .arlinathumb img {height:auto;width:100%;}
-ul.arlinathumbs1{margin:0;padding:0;width:49%;float:left}
-ul.arlinathumbs1 li{font-size:12px;min-height:68px;margin:0;padding:0}
-ul.arlinathumbs1 .arlinathumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
-ul.arlinathumbs1 .arlinathumb img {height:auto;width:100%;}
-ul.arlinathumbs2 {font-size:13px;}
-ul.arlinathumbs2 li {padding:00;font-size:11px;margin:10px 0;padding:0;min-height:80px;}
-ul.arlinathumbs2 .arlinathumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
-ul.arlinathumbs2 .arlinathumb2 img {height:75px;width:75px;}
-span.arlinatitle{position:relative;display:block;margin:0 0 5px;font-family:&#39;Roboto Condensed&#39;;line-height:24px;letter-spacing:.5px;font-style:normal;font-size:22px;color:#333}
-span.arlinatitle2{font-size:16px}
+ul.merdesathumbs {margin:0;}
+ul.merdesathumbs li {font-size:12px;min-height:68px;margin:0 0 8px;padding:0 0 8px;border-bottom:1px dotted #e5e5e5;}
+ul.merdesathumbs .merdesathumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
+ul.merdesathumbs .merdesathumb img {height:auto;width:100%;}
+ul.merdesathumbs1{margin:0;padding:0;width:49%;float:left}
+ul.merdesathumbs1 li{font-size:12px;min-height:68px;margin:0;padding:0}
+ul.merdesathumbs1 .merdesathumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
+ul.merdesathumbs1 .merdesathumb img {height:auto;width:100%;}
+ul.merdesathumbs2 {font-size:13px;}
+ul.merdesathumbs2 li {padding:00;font-size:11px;margin:10px 0;padding:0;min-height:80px;}
+ul.merdesathumbs2 .merdesathumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
+ul.merdesathumbs2 .merdesathumb2 img {height:75px;width:75px;}
+span.merdesatitle{position:relative;display:block;margin:0 0 5px;font-family:&#39;Roboto Condensed&#39;;line-height:24px;letter-spacing:.5px;font-style:normal;font-size:22px;color:#333}
+span.merdesatitle2{font-size:16px}
 span.viesummary{display:block;margin:6px 0;color:#888;font-family:Open Sans,sans-serif;font-size:13px;font-weight:400;line-height:normal}
-span.arlinameta {background:transparent;display:block;font-size:11px;color:#aaa;}
-span.arlinatitle a,span.arlinatitle2 a{color:#444;}
-span.arlinameta a {color:#aaa!important;display:inline-block;}
-span.arlinameta_date, span.arlinameta_comment, span.arlinameta_more {display:inline-block;margin-right:8px;}
-span.arlinameta_date:before,span.arlinameta_comment:before,span.arlinameta_more:before {font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-right:4px;}
-span.arlinameta_date:before {content: &quot;\f017&quot;}
-span.arlinameta_comment:before {content: &quot;\f086&quot;;}
-span.arlinameta_more:before {content: &quot;\f0a9&quot;;}
-ul.arlinathumbs22 {font-size:13px;width:49%;float:right;}
-ul.arlinathumbs22 li{font-size:11px;margin:0 0 10px;padding:0;min-height:80px}
-ul.arlinathumbs22 .arlinathumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
-ul.arlinathumbs22 .arlinathumb2 img {height:75px;width:75px;}
-ul.arlinathumbs22 li a:hover, ul.arlinathumbs li a:hover,ul.arlinathumbs2 li a:hover, ul.arlinathumbs li a:hover {color:#4db2ec;}
+span.merdesameta {background:transparent;display:block;font-size:11px;color:#aaa;}
+span.merdesatitle a,span.merdesatitle2 a{color:#444;}
+span.merdesameta a {color:#aaa!important;display:inline-block;}
+span.merdesameta_date, span.merdesameta_comment, span.merdesameta_more {display:inline-block;margin-right:8px;}
+span.merdesameta_date:before,span.merdesameta_comment:before,span.merdesameta_more:before {font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-right:4px;}
+span.merdesameta_date:before {content: &quot;\f017&quot;}
+span.merdesameta_comment:before {content: &quot;\f086&quot;;}
+span.merdesameta_more:before {content: &quot;\f0a9&quot;;}
+ul.merdesathumbs22 {font-size:13px;width:49%;float:right;}
+ul.merdesathumbs22 li{font-size:11px;margin:0 0 10px;padding:0;min-height:80px}
+ul.merdesathumbs22 .merdesathumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
+ul.merdesathumbs22 .merdesathumb2 img {height:75px;width:75px;}
+ul.merdesathumbs22 li a:hover, ul.merdesathumbs li a:hover,ul.merdesathumbs2 li a:hover, ul.merdesathumbs li a:hover {color:#4db2ec;}
 .featured-post{overflow:hidden;position:relative;}
 .featured-post a{color:#fff;display:block;line-height:1}
 h3.entry-title{padding:10px 15px;display:inline-block;color:#fff;text-decoration:none;font-weight:900;text-shadow:0 1px 2px rgba(0,0,0,.7);font-size:36px}
@@ -1104,8 +1104,8 @@ h2.post-title, h1.post-title, h2.post-title a, h1.post-title a, h2.post-title, h
 .post .label-info {left:10px;top:10px;}}
 
 @media only screen and (max-width:568px){
-ul.arlinathumbs1,.milakubox {width:100%;float:none;}
-ul.arlinathumbs22 {margin-top:20px;width:100%;float:none;}}
+ul.merdesathumbs1,.milakubox {width:100%;float:none;}
+ul.merdesathumbs22 {margin-top:20px;width:100%;float:none;}}
 
 @media only screen and (max-width:480px){
 h2.post-title, h1.post-title, h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {font-size:16px;}
@@ -1186,7 +1186,7 @@ snippet_count = 120;
 //<![CDATA[
 function removeHtmlTag(n,e){if(-1!=n.indexOf("<")){for(var t=n.split("<"),i=0;i<t.length;i++)-1!=t[i].indexOf(">")&&(t[i]=t[i].substring(t[i].indexOf(">")+1,t[i].length));n=t.join("")}for(e=e<n.length-1?e:n.length-2;" "!=n.charAt(e-1)&&-1!=n.indexOf(" ",e);)e++;return n=n.substring(0,e-1),n+"..."}function createSnippet(n){var e=document.getElementById(n),t=snippet_count,i='<div class="snippets">'+removeHtmlTag(e.innerHTML,t)+"</div>";e.innerHTML=i}
 //thumbnail
-function arlina_thumbnail_resize(e,t){var n=350;var r=210;image_tag='<img width="'+n+'" height="'+r+'" src="'+e.replace("/s72-c/","/w"+n+"-h"+r+"-c/")+'" alt="'+t.replace(/"/g,"")+'" title="'+t.replace(/"/g,"")+'"/>';if(t!="")return image_tag;else return""}
+function merdesa_thumbnail_resize(e,t){var n=350;var r=210;image_tag='<img width="'+n+'" height="'+r+'" src="'+e.replace("/s72-c/","/w"+n+"-h"+r+"-c/")+'" alt="'+t.replace(/"/g,"")+'" title="'+t.replace(/"/g,"")+'"/>';if(t!="")return image_tag;else return""}
 //]]>
 </script>
 <script type='text/javascript'>
@@ -1248,40 +1248,40 @@ function mythumb(t$jscomp$4){var e$jscomp$12=0;for(;e$jscomp$12<numposts;e$jscom
 var m$jscomp$2=0;for(;m$jscomp$2<n$jscomp$9.link.length;m$jscomp$2++){if("replies"==n$jscomp$9.link[m$jscomp$2].rel&&"text/html"==n$jscomp$9.link[m$jscomp$2].type){var l$jscomp$3=n$jscomp$9.link[m$jscomp$2].title;var o$jscomp$2=n$jscomp$9.link[m$jscomp$2].href;}
 if("alternate"==n$jscomp$9.link[m$jscomp$2].rel){r$jscomp$3=n$jscomp$9.link[m$jscomp$2].href;break;}}
 var u$jscomp$2;try{u$jscomp$2=n$jscomp$9.media$thumbnail.url;u$jscomp$2=u$jscomp$2.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/");}catch(h$jscomp$8){s=n$jscomp$9.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);u$jscomp$2=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb;}
-var p$jscomp$2=n$jscomp$9.published.$t;var f$jscomp$3=p$jscomp$2.substring(0,4);var w$jscomp$8=p$jscomp$2.substring(5,7);var g$jscomp$1=p$jscomp$2.substring(8,10);document.write('<ul class="arlinathumbs">');document.write("<li>");if(1==showpostthumbnails){document.write('<a href="'+r$jscomp$3+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i$jscomp$5+'" src="'+u$jscomp$2+'"/></div></a>');}
-document.write('<span class="arlinatitle"><a href="'+r$jscomp$3+'" target ="_top">'+i$jscomp$5+"</a></span>");var v$jscomp$1="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v$jscomp$1=v$jscomp$1+'<span class="arlinameta_date">'+g$jscomp$1+"/"+w$jscomp$8+"/"+f$jscomp$3+"</span>"),1==showcommentnum&&("1 Comments"==l$jscomp$3&&(l$jscomp$3="1 Comment"),"0 Comments"==l$jscomp$3&&(l$jscomp$3="No Comments"),l$jscomp$3='<span class="arlinameta_comment"><a href="'+o$jscomp$2+'" target ="_top">'+l$jscomp$3+"</a></span>",v$jscomp$1=v$jscomp$1+l$jscomp$3),1==displaymore&&(v$jscomp$1=v$jscomp$1+'<span class="arlinameta_more"><a href="'+r$jscomp$3+'" class="url" target ="_top">Read More...</a></span>'),document.write(v$jscomp$1),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n$jscomp$9){var k$jscomp$0=n$jscomp$9.content.$t;}else{if("summary"in n$jscomp$9){k$jscomp$0=n$jscomp$9.summary.$t;}else{k$jscomp$0="";}}
+var p$jscomp$2=n$jscomp$9.published.$t;var f$jscomp$3=p$jscomp$2.substring(0,4);var w$jscomp$8=p$jscomp$2.substring(5,7);var g$jscomp$1=p$jscomp$2.substring(8,10);document.write('<ul class="merdesathumbs">');document.write("<li>");if(1==showpostthumbnails){document.write('<a href="'+r$jscomp$3+'"><div class="merdesathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i$jscomp$5+'" src="'+u$jscomp$2+'"/></div></a>');}
+document.write('<span class="merdesatitle"><a href="'+r$jscomp$3+'" target ="_top">'+i$jscomp$5+"</a></span>");var v$jscomp$1="";if(document.write('<span class="merdesameta">'),1==showpostdate&&(v$jscomp$1=v$jscomp$1+'<span class="merdesameta_date">'+g$jscomp$1+"/"+w$jscomp$8+"/"+f$jscomp$3+"</span>"),1==showcommentnum&&("1 Comments"==l$jscomp$3&&(l$jscomp$3="1 Comment"),"0 Comments"==l$jscomp$3&&(l$jscomp$3="No Comments"),l$jscomp$3='<span class="merdesameta_comment"><a href="'+o$jscomp$2+'" target ="_top">'+l$jscomp$3+"</a></span>",v$jscomp$1=v$jscomp$1+l$jscomp$3),1==displaymore&&(v$jscomp$1=v$jscomp$1+'<span class="merdesameta_more"><a href="'+r$jscomp$3+'" class="url" target ="_top">Read More...</a></span>'),document.write(v$jscomp$1),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n$jscomp$9){var k$jscomp$0=n$jscomp$9.content.$t;}else{if("summary"in n$jscomp$9){k$jscomp$0=n$jscomp$9.summary.$t;}else{k$jscomp$0="";}}
 var y$jscomp$59=/<\S[^>]*>/g;if(k$jscomp$0=k$jscomp$0.replace(y$jscomp$59,""),1==showpostsummary){if(k$jscomp$0.length<numchars){document.write("");document.write(k$jscomp$0);document.write("");}else{document.write("");k$jscomp$0=k$jscomp$0.substring(0,numchars);var _$jscomp$0=k$jscomp$0.lastIndexOf(" ");k$jscomp$0=k$jscomp$0.substring(0,_$jscomp$0);document.write(k$jscomp$0+"...");document.write("");}}
 document.write("</span>");document.write("</li>");document.write("</ul>");}
-document.write('<ul class="arlinathumbs2">');e$jscomp$12=1;for(;e$jscomp$12<numposts2;e$jscomp$12++){n$jscomp$9=t$jscomp$4.feed.entry[e$jscomp$12];i$jscomp$5=n$jscomp$9.title.$t;if(e$jscomp$12==t$jscomp$4.feed.entry.length){break;}
+document.write('<ul class="merdesathumbs2">');e$jscomp$12=1;for(;e$jscomp$12<numposts2;e$jscomp$12++){n$jscomp$9=t$jscomp$4.feed.entry[e$jscomp$12];i$jscomp$5=n$jscomp$9.title.$t;if(e$jscomp$12==t$jscomp$4.feed.entry.length){break;}
 m$jscomp$2=1;for(;m$jscomp$2<n$jscomp$9.link.length;m$jscomp$2++){if("replies"==n$jscomp$9.link[m$jscomp$2].rel&&"text/html"==n$jscomp$9.link[m$jscomp$2].type){l$jscomp$3=n$jscomp$9.link[m$jscomp$2].title;o$jscomp$2=n$jscomp$9.link[m$jscomp$2].href;}
 if("alternate"==n$jscomp$9.link[m$jscomp$2].rel){r$jscomp$3=n$jscomp$9.link[m$jscomp$2].href;break;}}
 var $$jscomp$0;try{$$jscomp$0=n$jscomp$9.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/");}catch(h$jscomp$9){s=n$jscomp$9.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);$$jscomp$0=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2;}
-p$jscomp$2=n$jscomp$9.published.$t;f$jscomp$3=p$jscomp$2.substring(0,4);w$jscomp$8=p$jscomp$2.substring(5,7);g$jscomp$1=p$jscomp$2.substring(8,10);if(1==showpostthumbnails2){document.write('<a href="'+r$jscomp$3+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i$jscomp$5+'" src="'+$$jscomp$0+'"/></div></a>');}
-document.write("<li>");document.write('<span class="arlinatitle arlinatitle2"><a href="'+r$jscomp$3+'" target ="_top">'+i$jscomp$5+"</a></span>");v$jscomp$1="";document.write('<span class="arlinameta arlinameta2">');if(1==showpostdate2){v$jscomp$1=v$jscomp$1+'<span class="arlinameta_date arlinameta_date2">'+g$jscomp$1+"/"+w$jscomp$8+"/"+f$jscomp$3+"</span>";}
+p$jscomp$2=n$jscomp$9.published.$t;f$jscomp$3=p$jscomp$2.substring(0,4);w$jscomp$8=p$jscomp$2.substring(5,7);g$jscomp$1=p$jscomp$2.substring(8,10);if(1==showpostthumbnails2){document.write('<a href="'+r$jscomp$3+'"><div class="merdesathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i$jscomp$5+'" src="'+$$jscomp$0+'"/></div></a>');}
+document.write("<li>");document.write('<span class="merdesatitle merdesatitle2"><a href="'+r$jscomp$3+'" target ="_top">'+i$jscomp$5+"</a></span>");v$jscomp$1="";document.write('<span class="merdesameta merdesameta2">');if(1==showpostdate2){v$jscomp$1=v$jscomp$1+'<span class="merdesameta_date merdesameta_date2">'+g$jscomp$1+"/"+w$jscomp$8+"/"+f$jscomp$3+"</span>";}
 if(1==showcommentnum2){if("1 Comments"==l$jscomp$3){l$jscomp$3="1 Comment";}
 if("0 Comments"==l$jscomp$3){l$jscomp$3="No Comments";}
-l$jscomp$3='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o$jscomp$2+'" target ="_top">'+l$jscomp$3+"</a></span>";v$jscomp$1=v$jscomp$1+l$jscomp$3;}
-if(1==displaymore2){v$jscomp$1=v$jscomp$1+'<span class="arlinameta_more arlinameta_more2"><a href="'+r$jscomp$3+'" class="url" target ="_top">Read More...</a></span>';}
+l$jscomp$3='<span class="merdesameta_comment merdesameta_comment2"><a href="'+o$jscomp$2+'" target ="_top">'+l$jscomp$3+"</a></span>";v$jscomp$1=v$jscomp$1+l$jscomp$3;}
+if(1==displaymore2){v$jscomp$1=v$jscomp$1+'<span class="merdesameta_more merdesameta_more2"><a href="'+r$jscomp$3+'" class="url" target ="_top">Read More...</a></span>';}
 document.write(v$jscomp$1);document.write("</span>");document.write("</li>");}
 document.write("</ul>");}
 function mythumb1(t$jscomp$5){var e$jscomp$13=0;for(;e$jscomp$13<numposts;e$jscomp$13++){var r$jscomp$4;var n$jscomp$10=t$jscomp$5.feed.entry[e$jscomp$13];var i$jscomp$6=n$jscomp$10.title.$t;if(e$jscomp$13==t$jscomp$5.feed.entry.length){break;}
 var m$jscomp$3=0;for(;m$jscomp$3<n$jscomp$10.link.length;m$jscomp$3++){if("replies"==n$jscomp$10.link[m$jscomp$3].rel&&"text/html"==n$jscomp$10.link[m$jscomp$3].type){var l$jscomp$4=n$jscomp$10.link[m$jscomp$3].title;var o$jscomp$3=n$jscomp$10.link[m$jscomp$3].href;}
 if("alternate"==n$jscomp$10.link[m$jscomp$3].rel){r$jscomp$4=n$jscomp$10.link[m$jscomp$3].href;break;}}
 var u$jscomp$3;try{u$jscomp$3=n$jscomp$10.media$thumbnail.url;u$jscomp$3=u$jscomp$3.replace("/s72-c/","/w"+thumb_width+"-h"+thumb_height+"-c/");}catch(h$jscomp$10){s=n$jscomp$10.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);u$jscomp$3=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb;}
-var p$jscomp$3=n$jscomp$10.published.$t;var f$jscomp$4=p$jscomp$3.substring(0,4);var w$jscomp$9=p$jscomp$3.substring(5,7);var g$jscomp$2=p$jscomp$3.substring(8,10);document.write('<ul class="arlinathumbs1">');document.write("<li>");if(1==showpostthumbnails){document.write('<a href="'+r$jscomp$4+'"><div class="arlinathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i$jscomp$6+'" src="'+u$jscomp$3+'"/></div></a>');}
-document.write('<span class="arlinatitle"><a href="'+r$jscomp$4+'" target ="_top">'+i$jscomp$6+"</a></span>");var v$jscomp$2="";if(document.write('<span class="arlinameta">'),1==showpostdate&&(v$jscomp$2=v$jscomp$2+'<span class="arlinameta_date">'+g$jscomp$2+"/"+w$jscomp$9+"/"+f$jscomp$4+"</span>"),1==showcommentnum&&("1 Comments"==l$jscomp$4&&(l$jscomp$4="1 Comment"),"0 Comments"==l$jscomp$4&&(l$jscomp$4="No Comments"),l$jscomp$4='<span class="arlinameta_comment"><a href="'+o$jscomp$3+'" target ="_top">'+l$jscomp$4+"</a></span>",v$jscomp$2=v$jscomp$2+l$jscomp$4),1==displaymore&&(v$jscomp$2=v$jscomp$2+'<span class="arlinameta_more"><a href="'+r$jscomp$4+'" class="url" target ="_top">Read More...</a></span>'),document.write(v$jscomp$2),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n$jscomp$10){var k$jscomp$1=n$jscomp$10.content.$t;}else{if("summary"in n$jscomp$10){k$jscomp$1=n$jscomp$10.summary.$t;}else{k$jscomp$1="";}}
+var p$jscomp$3=n$jscomp$10.published.$t;var f$jscomp$4=p$jscomp$3.substring(0,4);var w$jscomp$9=p$jscomp$3.substring(5,7);var g$jscomp$2=p$jscomp$3.substring(8,10);document.write('<ul class="merdesathumbs1">');document.write("<li>");if(1==showpostthumbnails){document.write('<a href="'+r$jscomp$4+'"><div class="merdesathumb"><img width="'+thumb_width+'" height="'+thumb_height+'" alt="'+i$jscomp$6+'" src="'+u$jscomp$3+'"/></div></a>');}
+document.write('<span class="merdesatitle"><a href="'+r$jscomp$4+'" target ="_top">'+i$jscomp$6+"</a></span>");var v$jscomp$2="";if(document.write('<span class="merdesameta">'),1==showpostdate&&(v$jscomp$2=v$jscomp$2+'<span class="merdesameta_date">'+g$jscomp$2+"/"+w$jscomp$9+"/"+f$jscomp$4+"</span>"),1==showcommentnum&&("1 Comments"==l$jscomp$4&&(l$jscomp$4="1 Comment"),"0 Comments"==l$jscomp$4&&(l$jscomp$4="No Comments"),l$jscomp$4='<span class="merdesameta_comment"><a href="'+o$jscomp$3+'" target ="_top">'+l$jscomp$4+"</a></span>",v$jscomp$2=v$jscomp$2+l$jscomp$4),1==displaymore&&(v$jscomp$2=v$jscomp$2+'<span class="merdesameta_more"><a href="'+r$jscomp$4+'" class="url" target ="_top">Read More...</a></span>'),document.write(v$jscomp$2),document.write("</span>"),document.write('<span class="viesummary">'),"content"in n$jscomp$10){var k$jscomp$1=n$jscomp$10.content.$t;}else{if("summary"in n$jscomp$10){k$jscomp$1=n$jscomp$10.summary.$t;}else{k$jscomp$1="";}}
 var y$jscomp$60=/<\S[^>]*>/g;if(k$jscomp$1=k$jscomp$1.replace(y$jscomp$60,""),1==showpostsummary){if(k$jscomp$1.length<numchars){document.write("");document.write(k$jscomp$1);document.write("");}else{document.write("");k$jscomp$1=k$jscomp$1.substring(0,numchars);var _$jscomp$1=k$jscomp$1.lastIndexOf(" ");k$jscomp$1=k$jscomp$1.substring(0,_$jscomp$1);document.write(k$jscomp$1+"...");document.write("");}}
 document.write("</span>");document.write("</li>");document.write("</ul>");}
-document.write('<ul class="arlinathumbs22">');e$jscomp$13=1;for(;e$jscomp$13<numposts3;e$jscomp$13++){n$jscomp$10=t$jscomp$5.feed.entry[e$jscomp$13];i$jscomp$6=n$jscomp$10.title.$t;if(e$jscomp$13==t$jscomp$5.feed.entry.length){break;}
+document.write('<ul class="merdesathumbs22">');e$jscomp$13=1;for(;e$jscomp$13<numposts3;e$jscomp$13++){n$jscomp$10=t$jscomp$5.feed.entry[e$jscomp$13];i$jscomp$6=n$jscomp$10.title.$t;if(e$jscomp$13==t$jscomp$5.feed.entry.length){break;}
 m$jscomp$3=1;for(;m$jscomp$3<n$jscomp$10.link.length;m$jscomp$3++){if("replies"==n$jscomp$10.link[m$jscomp$3].rel&&"text/html"==n$jscomp$10.link[m$jscomp$3].type){l$jscomp$4=n$jscomp$10.link[m$jscomp$3].title;o$jscomp$3=n$jscomp$10.link[m$jscomp$3].href;}
 if("alternate"==n$jscomp$10.link[m$jscomp$3].rel){r$jscomp$4=n$jscomp$10.link[m$jscomp$3].href;break;}}
 var $$jscomp$1;try{$$jscomp$1=n$jscomp$10.media$thumbnail.url.replace("/s72-c/","/w"+thumb_width2+"-h"+thumb_height2+"-c/");}catch(h$jscomp$11){s=n$jscomp$10.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);$$jscomp$1=-1!=a&&-1!=b&&-1!=c&&""!=d?d:no_thumb2;}
-p$jscomp$3=n$jscomp$10.published.$t;f$jscomp$4=p$jscomp$3.substring(0,4);w$jscomp$9=p$jscomp$3.substring(5,7);g$jscomp$2=p$jscomp$3.substring(8,10);if(1==showpostthumbnails2){document.write('<a href="'+r$jscomp$4+'"><div class="arlinathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i$jscomp$6+'" src="'+$$jscomp$1+'"/></div></a>');}
-document.write("<li>");document.write('<span class="arlinatitle arlinatitle2"><a href="'+r$jscomp$4+'" target ="_top">'+i$jscomp$6+"</a></span>");v$jscomp$2="";document.write('<span class="arlinameta arlinameta2">');if(1==showpostdate2){v$jscomp$2=v$jscomp$2+'<span class="arlinameta_date arlinameta_date2">'+g$jscomp$2+"/"+w$jscomp$9+"/"+f$jscomp$4+"</span>";}
+p$jscomp$3=n$jscomp$10.published.$t;f$jscomp$4=p$jscomp$3.substring(0,4);w$jscomp$9=p$jscomp$3.substring(5,7);g$jscomp$2=p$jscomp$3.substring(8,10);if(1==showpostthumbnails2){document.write('<a href="'+r$jscomp$4+'"><div class="merdesathumb2"><img width="'+thumb_width2+'" height="'+thumb_height2+'" alt="'+i$jscomp$6+'" src="'+$$jscomp$1+'"/></div></a>');}
+document.write("<li>");document.write('<span class="merdesatitle merdesatitle2"><a href="'+r$jscomp$4+'" target ="_top">'+i$jscomp$6+"</a></span>");v$jscomp$2="";document.write('<span class="merdesameta merdesameta2">');if(1==showpostdate2){v$jscomp$2=v$jscomp$2+'<span class="merdesameta_date merdesameta_date2">'+g$jscomp$2+"/"+w$jscomp$9+"/"+f$jscomp$4+"</span>";}
 if(1==showcommentnum2){if("1 Comments"==l$jscomp$4){l$jscomp$4="1 Comment";}
 if("0 Comments"==l$jscomp$4){l$jscomp$4="No Comments";}
-l$jscomp$4='<span class="arlinameta_comment arlinameta_comment2"><a href="'+o$jscomp$3+'" target ="_top">'+l$jscomp$4+"</a></span>";v$jscomp$2=v$jscomp$2+l$jscomp$4;}
-if(1==displaymore2){v$jscomp$2=v$jscomp$2+'<span class="arlinameta_more arlinameta_more2"><a href="'+r$jscomp$4+'" class="url" target ="_top">Read More...</a></span>';}
+l$jscomp$4='<span class="merdesameta_comment merdesameta_comment2"><a href="'+o$jscomp$3+'" target ="_top">'+l$jscomp$4+"</a></span>";v$jscomp$2=v$jscomp$2+l$jscomp$4;}
+if(1==displaymore2){v$jscomp$2=v$jscomp$2+'<span class="merdesameta_more merdesameta_more2"><a href="'+r$jscomp$4+'" class="url" target ="_top">Read More...</a></span>';}
 document.write(v$jscomp$2);document.write("</span>");document.write("</li>");}
 document.write("</ul>");}
 function mythumb2(t$jscomp$6){document.write('<div id="recent-posts">');var e$jscomp$14=0;for(;numpost>e$jscomp$14;e$jscomp$14++){var r$jscomp$5;var n$jscomp$11=t$jscomp$6.feed.entry[e$jscomp$14];var i$jscomp$7=n$jscomp$11.title.$t;if(e$jscomp$14==t$jscomp$6.feed.entry.length){break;}
@@ -2375,7 +2375,7 @@ avatar.find('.comment_avatar img').each(function() {
 <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
 <b:if cond='data:post.thumbnailUrl'>
 <a expr:href='data:post.url'><div class='img-thumbnail'><script type='text/javascript'>
-   document.write(arlina_thumbnail_resize(&quot;<data:post.thumbnailUrl/>&quot;,&#39;<data:post.title/>&#39;));
+   document.write(merdesa_thumbnail_resize(&quot;<data:post.thumbnailUrl/>&quot;,&#39;<data:post.title/>&#39;));
 </script></div>
 </a>
 <b:else/>
@@ -3183,15 +3183,15 @@ window.onload = function () {
   <b:widget id='HTML4' locked='false' title='Komentar' type='HTML' version='1'>
     <b:widget-settings>
       <b:widget-setting name='content'>&lt;style scoped=&#39;&#39; type=&quot;text/css&quot;&gt;
-ul.arlinacomments{list-style:none;margin:0;padding:0}.arlinacomments li{display:block;clear:both;overflow:hidden;list-style:none;border-bottom:0!important;word-break:break-all}.arlinacomments li .avatarImage{float:left;margin-right:10px;position:relative;overflow:hidden}.arlinacomments li img{position:relative;overflow:hidden;display:block;width:42px;height:42px}.arlinacomments li a{font-weight:700}.arlinacomments li span{margin-top:2px;color:#666;display:block;font-size:12px;line-height:1.4}
+ul.merdesacomments{list-style:none;margin:0;padding:0}.merdesacomments li{display:block;clear:both;overflow:hidden;list-style:none;border-bottom:0!important;word-break:break-all}.merdesacomments li .avatarImage{float:left;margin-right:10px;position:relative;overflow:hidden}.merdesacomments li img{position:relative;overflow:hidden;display:block;width:42px;height:42px}.merdesacomments li a{font-weight:700}.merdesacomments li span{margin-top:2px;color:#666;display:block;font-size:12px;line-height:1.4}
 &lt;/style&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
 //&lt;![CDATA[
 // Recent Comments
-function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&gt;&#39;;for(var t=0;numComments&gt;t;t++){var r,o,n,i;if(t==a.feed.entry.length)break;e+=&quot;&lt;li&gt;&quot;;for(var d=a.feed.entry[t],s=0;s&lt;d.link.length;s++)&quot;alternate&quot;==d.link[s].rel&amp;&amp;(r=d.link[s].href);for(var l=0;l&lt;d.author.length;l++)o=d.author[l].name.$t,n=d.author[l].gd$image.src;n=-1!=n.indexOf(&quot;/s1600/&quot;)?n.replace(&quot;/s1600/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s220/&quot;)?n.replace(&quot;/s220/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s512-c/&quot;)&amp;&amp;0!=n.indexOf(&quot;https:&quot;)?&quot;https:&quot;+n.replace(&quot;/s512-c/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;blogblog.com/img/b16-rounded.gif&quot;)?&quot;https://1.bp.blogspot.com/-7bkcAKdpGXI/UrbyQRqvSKI/AAAAAAAAFmI/oBv_yMeYnMQ/s&quot;+avatarSize+&quot;/blogger.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/openid16-rounded.gif&quot;)?&quot;https://2.bp.blogspot.com/-VgnInuIUKBU/UrbzyXTYWRI/AAAAAAAAFmU/3f_Vfj3TI6A/s&quot;+avatarSize+&quot;/openid.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/blank.gif&quot;)?-1!=defaultAvatar.indexOf(&quot;gravatar.com&quot;)?defaultAvatar+&quot;&amp;s=&quot;+avatarSize:defaultAvatar:n,1==showAvatar&amp;&amp;(i=1==roundAvatar?&quot;avatarRound&quot;:&quot;&quot;,e+=&#39;&lt;div class=&quot;avatarImage &#39;+i+&#39;&quot;&gt;&lt;img class=&quot;&#39;+i+&#39;&quot; src=&quot;&#39;+n+&#39;&quot; alt=&quot;&#39;+o+&#39;&quot; width=&quot;&#39;+avatarSize+&#39;&quot; height=&quot;&#39;+avatarSize+&#39;&quot;/&gt;&lt;/div&gt;&#39;),e+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+o+&quot;&lt;/a&gt;&quot;;var A=d.content.$t,v=A.replace(/(&lt;([^&gt;]+)&gt;)/gi,&quot;&quot;);&quot;&quot;!=v&amp;&amp;v.length&gt;characters?(v=v.substring(0,characters),v+=&quot;&amp;hellip;&quot;,1==showMorelink&amp;&amp;(v+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+moreLinktext+&quot;&lt;/a&gt;&quot;)):v=v,e+=&quot;&lt;span&gt;&quot;+v+&quot;&lt;/span&gt;&quot;,e+=&quot;&lt;/li&gt;&quot;}e+=&quot;&lt;/ul&gt;&quot;;var c=&quot;&quot;;0==hideCredits&amp;&amp;(c=&quot;display:block;&quot;),e+=&quot;&quot;,document.write(e)}var numComments=7,showAvatar=!0,avatarSize=42,roundAvatar=!0,characters=40,showMorelink=!1,defaultAvatar=&quot;https://2.bp.blogspot.com/-XjxrXKBPQqs/VYcGtLWPGUI/AAAAAAAAKaQ/5jr871JIwds/s1600/default-avatar.jpg&quot;,hideCredits=!0,numComments=numComments||5,avatarSize=avatarSize||60,characters=characters||40,defaultAvatar=defaultAvatar||&quot;https://4.bp.blogspot.com/-SRSVCXNxbAc/UrbxxXd06YI/AAAAAAAAFl4/332qncR9pD4/s1600/default-avatar.jpg&quot;,moreLinktext=moreLinktext||&quot; More &amp;raquo;&quot;,showAvatar=&quot;undefined&quot;==typeof showAvatar?!0:showAvatar,showMorelink=&quot;undefined&quot;==typeof showMorelink?!1:showMorelink,roundAvatar=&quot;undefined&quot;==typeof roundAvatar?!0:roundAvatar,hideCredits=&quot;undefined&quot;==typeof hideCredits?!1:roundAvatar;
+function merdesacomments(a){var e;e=&#39;&lt;ul class=&quot;merdesacomments&quot;&gt;&#39;;for(var t=0;numComments&gt;t;t++){var r,o,n,i;if(t==a.feed.entry.length)break;e+=&quot;&lt;li&gt;&quot;;for(var d=a.feed.entry[t],s=0;s&lt;d.link.length;s++)&quot;alternate&quot;==d.link[s].rel&amp;&amp;(r=d.link[s].href);for(var l=0;l&lt;d.author.length;l++)o=d.author[l].name.$t,n=d.author[l].gd$image.src;n=-1!=n.indexOf(&quot;/s1600/&quot;)?n.replace(&quot;/s1600/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s220/&quot;)?n.replace(&quot;/s220/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;/s512-c/&quot;)&amp;&amp;0!=n.indexOf(&quot;https:&quot;)?&quot;https:&quot;+n.replace(&quot;/s512-c/&quot;,&quot;/s&quot;+avatarSize+&quot;-c/&quot;):-1!=n.indexOf(&quot;blogblog.com/img/b16-rounded.gif&quot;)?&quot;https://1.bp.blogspot.com/-7bkcAKdpGXI/UrbyQRqvSKI/AAAAAAAAFmI/oBv_yMeYnMQ/s&quot;+avatarSize+&quot;/blogger.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/openid16-rounded.gif&quot;)?&quot;https://2.bp.blogspot.com/-VgnInuIUKBU/UrbzyXTYWRI/AAAAAAAAFmU/3f_Vfj3TI6A/s&quot;+avatarSize+&quot;/openid.png&quot;:-1!=n.indexOf(&quot;blogblog.com/img/blank.gif&quot;)?-1!=defaultAvatar.indexOf(&quot;gravatar.com&quot;)?defaultAvatar+&quot;&amp;s=&quot;+avatarSize:defaultAvatar:n,1==showAvatar&amp;&amp;(i=1==roundAvatar?&quot;avatarRound&quot;:&quot;&quot;,e+=&#39;&lt;div class=&quot;avatarImage &#39;+i+&#39;&quot;&gt;&lt;img class=&quot;&#39;+i+&#39;&quot; src=&quot;&#39;+n+&#39;&quot; alt=&quot;&#39;+o+&#39;&quot; width=&quot;&#39;+avatarSize+&#39;&quot; height=&quot;&#39;+avatarSize+&#39;&quot;/&gt;&lt;/div&gt;&#39;),e+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+o+&quot;&lt;/a&gt;&quot;;var A=d.content.$t,v=A.replace(/(&lt;([^&gt;]+)&gt;)/gi,&quot;&quot;);&quot;&quot;!=v&amp;&amp;v.length&gt;characters?(v=v.substring(0,characters),v+=&quot;&amp;hellip;&quot;,1==showMorelink&amp;&amp;(v+=&#39;&lt;a href=&quot;&#39;+r+&#39;&quot;&gt;&#39;+moreLinktext+&quot;&lt;/a&gt;&quot;)):v=v,e+=&quot;&lt;span&gt;&quot;+v+&quot;&lt;/span&gt;&quot;,e+=&quot;&lt;/li&gt;&quot;}e+=&quot;&lt;/ul&gt;&quot;;var c=&quot;&quot;;0==hideCredits&amp;&amp;(c=&quot;display:block;&quot;),e+=&quot;&quot;,document.write(e)}var numComments=7,showAvatar=!0,avatarSize=42,roundAvatar=!0,characters=40,showMorelink=!1,defaultAvatar=&quot;https://2.bp.blogspot.com/-XjxrXKBPQqs/VYcGtLWPGUI/AAAAAAAAKaQ/5jr871JIwds/s1600/default-avatar.jpg&quot;,hideCredits=!0,numComments=numComments||5,avatarSize=avatarSize||60,characters=characters||40,defaultAvatar=defaultAvatar||&quot;https://4.bp.blogspot.com/-SRSVCXNxbAc/UrbxxXd06YI/AAAAAAAAFl4/332qncR9pD4/s1600/default-avatar.jpg&quot;,moreLinktext=moreLinktext||&quot; More &amp;raquo;&quot;,showAvatar=&quot;undefined&quot;==typeof showAvatar?!0:showAvatar,showMorelink=&quot;undefined&quot;==typeof showMorelink?!1:showMorelink,roundAvatar=&quot;undefined&quot;==typeof roundAvatar?!0:roundAvatar,hideCredits=&quot;undefined&quot;==typeof hideCredits?!1:roundAvatar;
 //]]&gt;
 &lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.keuangandesa.info/feeds/comments/default?alt=json&amp;amp;callback=arlinacomments&amp;amp;max-results=7&quot;&gt;&lt;/script&gt;</b:widget-setting>
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.keuangandesa.info/feeds/comments/default?alt=json&amp;amp;callback=merdesacomments&amp;amp;max-results=7&quot;&gt;&lt;/script&gt;</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -3263,7 +3263,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='FollowByEmail1' locked='false' mobile='yes' title='Newsletter' type='FollowByEmail' version='1'>
+<!--  <b:widget id='FollowByEmail1' locked='false' mobile='yes' title='Newsletter' type='FollowByEmail' version='1'>
     <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if>
   <div class='widget-content'>
@@ -3285,7 +3285,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
     </div>
   </div>
 </b:includable>
-  </b:widget>
+  </b:widget> -->
 <!--  <b:widget id='PopularPosts2' locked='false' title='Trending' type='PopularPosts' version='1'>
     <b:widget-settings>
       <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
