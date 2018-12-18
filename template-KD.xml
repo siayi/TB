@@ -182,7 +182,7 @@ ol ol {margin: 0 0 0 2em;}
 .post-body table tr:nth-child(even) > td:hover {background-color:#fbfbfb;}
 .post-body th{background:#fff;font-weight:400;text-transform:uppercase;font-size:14px}
 .post-body th:hover{background:#fdfdfd;}
-.post-body td a{color:#768187;padding:0 6px;font-size:85%;float:right;display:inline-block;border-radius:3px}
+.post-body td a{color:#768187;padding:0 6px;font-size:85%;float:none;display:inline-block;border-radius:3px}
 .post-body td a:hover {color:#7f9bdf;border-color:#adbce0;}
 .post-body td a[target="_blank"]:after {margin-left:5px;}
 .post-body table.tr-caption-container td {border:none;padding:8px;}
