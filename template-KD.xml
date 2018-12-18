@@ -3207,7 +3207,7 @@ function merdesacomments(a){var e;e=&#39;&lt;ul class=&quot;merdesacomments&quot
 </div>
 <div class='clear'/>
 <b:section class='sidebar section' id='sidebar' preferred='yes'>
-  <b:widget id='Label1' locked='false' title='Tag Populer' type='Label' version='1'>
+<!--  <b:widget id='Label1' locked='false' title='Tag Populer' type='Label' version='1'>
     <b:widget-settings>
       <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
       <b:widget-setting name='display'>CLOUD</b:widget-setting>
@@ -3251,7 +3251,7 @@ function merdesacomments(a){var e;e=&#39;&lt;ul class=&quot;merdesacomments&quot
     </b:if>
   </div>
 </b:includable>
-  </b:widget>
+  </b:widget> -->
   <b:widget id='HTML2' locked='false' title='' type='HTML' version='1'>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
