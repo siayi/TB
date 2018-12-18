@@ -98,12 +98,12 @@
 <meta content='@pasardesa98' name='twitter:creator'/>
 <b:skin><![CDATA[
 /*
-Theme Name       : Vienna Mag Responsive Magazine Template
+Theme Name       : Milaku Mag Responsive Magazine Template
 Theme Publish    : 2 Juli 2016
 Theme Base Color : White, Blue, and Black
 Theme Layout     : 3 Column
-Theme Designer   : Arlina Design
-Designer URL     : https://arlinadesign.blogspot.com
+Theme Designer   : Merdesa
+Designer URL     : https://merdesa.id
 Thanks to        : All supported
 Theme License    : This free Blogger template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use.
 However, to satisfy the &#39;attribution&#39; clause of the license, you are required to keep the footer links intact which provides due credit to its authors. For more specific details about the license, you may visit the URL below:
@@ -218,7 +218,7 @@ max-width:728px;}
 #sidebar-wrapper {float:right;width:30%;margin:0 auto;}
 .sidebar-inner {padding:15px 0;}
 .header-wrapper2 {position:relative;z-index:999;}
-.viennatop-wrapper {overflow:hidden;position:relative;}
+.milakutop-wrapper {overflow:hidden;position:relative;}
 .vitop-wrapper {padding:0 20px;position:relative;max-width:1060px;margin:0 auto;}
 #footer-wrapper {text-align:left;overflow:hidden;margin:0;}
 .footer {padding-bottom:.2em;}
@@ -282,7 +282,7 @@ form.subscribe-form{clear:both;display:block;margin:0;width:auto;overflow:hidden
 #layout ul,body#layout div.section h4,#layout div.section h4,body#layout ul,body#layout .top-tab-widget-menu ul {display:none;}
 #layout,#layout .widget-content,#layout .add_widget {border:none;}
 #layout .add_widget a {color:#444;}
-#layout:before {content:'Vienna Mag';text-transform:uppercase;font-size:20px;color:#999;margin:0 0 20px 0;display:inline-block;font-weight:700;font-family:sans-serif;}
+#layout:before {content:'Milaku Mag';text-transform:uppercase;font-size:20px;color:#999;margin:0 0 20px 0;display:inline-block;font-weight:700;font-family:sans-serif;}
 #layout #header-wrapper{min-height:0px;width:100%;margin:10px 0 0 0;}
 #layout #footer-wrapper{padding:20px 0;overflow:visible;background:#f9f9f9;border-top:1px solid #ccc;}
 #layout #footer-wrapper .add_widget {background-color:#8b9898;border:none;}
@@ -319,7 +319,7 @@ body#layout #carousel {background-color:#f9aa4f;padding:20px 0!important;margin-
 body#layout #carousel:before{content:'Slider';font-size:13px;color:#fff;margin-bottom:20px;padding-bottom:5px;display:inline-block;font-weight:400;font-family:sans-serif}
 body#layout div#mag-wrapper,body#layout div#mag-wrapper2{width:100%;position:relative;display:inline-block;background-color:#78b9ef;padding:20px 0 !important;margin-bottom:20px;clear:both}
 body#layout div#mag-wrapper:before,body#layout div#mag-wrapper2:before{content:'Mag Section';font-size:13px;color:#fff;margin-bottom:20px;padding-bottom:5px;display:block;font-weight:400;font-family:sans-serif}
-body#layout #viennabox-1,body#layout #viennabox-2,body#layout #viennabox-3,body#layout #viennabox-4,body#layout #viennabox-5,body#layout #viennabox-6{width:48%;margin:4px;float:left;display:list-item;list-style:none}
+body#layout #milakubox-1,body#layout #milakubox-2,body#layout #milakubox-3,body#layout #milakubox-4,body#layout #milakubox-5,body#layout #milakubox-6{width:48%;margin:4px;float:left;display:list-item;list-style:none}
 ]]></b:template-skin>
 
 <style type='text/css'>
@@ -406,7 +406,7 @@ a.btn,a.btn:hover,a.btn:active {color:rgba(255,255,255,1);}
 #content-wrapper {background-color:#fff;margin:10px auto;padding:0;word-wrap:break-word;}
 
 /* CSS Top Menu Wrapper */
-.viennatop-wrapper{background:#fcfcfc;position:relative;overflow:hidden;margin-left:-20px;margin-right:-20px;padding:8px 0;border-bottom:1px solid #e3e3e3;border-top:4px solid #4db2ec;}
+.milakutop-wrapper{background:#fcfcfc;position:relative;overflow:hidden;margin-left:-20px;margin-right:-20px;padding:8px 0;border-bottom:1px solid #e3e3e3;border-top:4px solid #4db2ec;}
 .header-wrapper2 {margin:0 auto;padding:0}
 .top-menunav {display:block;margin:0 auto;float:left;padding:0;width:100%;background:transparent;}
 .top-menunav ul {width:100%;padding:0;margin:0;text-align:left;}
@@ -444,27 +444,27 @@ max-width:728px;}
 .menu-slide {display:none;background:#4db2ec;padding:0 15px;height:60px;line-height:60px;color:#fff!important;}
 .menu-slide:hover {background:#4db2ec;}
 #nav{font-family:&#39;Roboto Condensed&#39;;font-size:14px;text-transform:uppercase;letter-spacing:.3px;font-weight:700;background:#2b2b2b;height:60px;line-height:60px;margin:0 auto;border-bottom:4px solid #4db2ec;-webkit-box-sizing:initial;-moz-box-sizing:initial;box-sizing:initial}
-.vienna-mainmenu {background:#2b2b2b;list-style:none;margin:0 0 0 0;float:left;}
-.vienna-mainmenu:before,.vienna-mainmenu:after {content: &quot; &quot;;display:table;}
-.vienna-mainmenu:after {clear:both;}
-.vienna-mainmenu ul {list-style:none;margin:0 0 0 0;width:12em;}
-.vienna-mainmenu a {display:block;padding:0 15px;}
-.vienna-mainmenu li {position:relative;margin:0 0;}
-.vienna-mainmenu &gt; li {float:left;}
-.vienna-mainmenu &gt; li &gt; a {display:block;height:60px;line-height:60px;color:#fff;}
-.vienna-mainmenu &gt; li &gt; a.active {background:#4db2ec;}
-.vienna-mainmenu &gt; li:hover &gt; a {background:#48a5da;color:#fff;}
-.vienna-mainmenu li ul {background:#fff;display:block;position:absolute;left:0;z-index:10;visibility:hidden;opacity:0;box-shadow:0 0 5px rgba(0,0,0,0.1);transition:initial;}
-.vienna-mainmenu li li ul {left:100%;top:-1px;}
-.vienna-mainmenu &gt; li.hover &gt; ul {visibility:visible;opacity:1;}
-.vienna-mainmenu li li.hover ul {visibility:visible;opacity:10;}
-.vienna-mainmenu li li a {display:block;color:#444;position:relative;z-index:100;height:46px;line-height:46px;font-weight:400;transition:initial;}
-.vienna-mainmenu li li a:hover {background:#4db2ec;color:#fff;}
-.vienna-mainmenu li li li a {background:#fff;z-index:20;color:#444;}
-.vienna-mainmenu li .parent:after {content: &quot;\f0d7&quot;;font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-left:6px;color:#999;}
-.vienna-mainmenu li:hover .parent:after{color:#fff;}
-.vienna-mainmenu li ul li .parent:after {content: &quot;\f0da&quot;;font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-left:6px;color:#999;float:right;}
-.vienna-mainmenu li ul li .parent:hover:after {color:#fff;}
+.milaku-mainmenu {background:#2b2b2b;list-style:none;margin:0 0 0 0;float:left;}
+.milaku-mainmenu:before,.milaku-mainmenu:after {content: &quot; &quot;;display:table;}
+.milaku-mainmenu:after {clear:both;}
+.milaku-mainmenu ul {list-style:none;margin:0 0 0 0;width:12em;}
+.milaku-mainmenu a {display:block;padding:0 15px;}
+.milaku-mainmenu li {position:relative;margin:0 0;}
+.milaku-mainmenu &gt; li {float:left;}
+.milaku-mainmenu &gt; li &gt; a {display:block;height:60px;line-height:60px;color:#fff;}
+.milaku-mainmenu &gt; li &gt; a.active {background:#4db2ec;}
+.milaku-mainmenu &gt; li:hover &gt; a {background:#48a5da;color:#fff;}
+.milaku-mainmenu li ul {background:#fff;display:block;position:absolute;left:0;z-index:10;visibility:hidden;opacity:0;box-shadow:0 0 5px rgba(0,0,0,0.1);transition:initial;}
+.milaku-mainmenu li li ul {left:100%;top:-1px;}
+.milaku-mainmenu &gt; li.hover &gt; ul {visibility:visible;opacity:1;}
+.milaku-mainmenu li li.hover ul {visibility:visible;opacity:10;}
+.milaku-mainmenu li li a {display:block;color:#444;position:relative;z-index:100;height:46px;line-height:46px;font-weight:400;transition:initial;}
+.milaku-mainmenu li li a:hover {background:#4db2ec;color:#fff;}
+.milaku-mainmenu li li li a {background:#fff;z-index:20;color:#444;}
+.milaku-mainmenu li .parent:after {content: &quot;\f0d7&quot;;font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-left:6px;color:#999;}
+.milaku-mainmenu li:hover .parent:after{color:#fff;}
+.milaku-mainmenu li ul li .parent:after {content: &quot;\f0da&quot;;font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-left:6px;color:#999;float:right;}
+.milaku-mainmenu li ul li .parent:hover:after {color:#fff;}
 #search-form {background:#2b2b2b;float:right;margin:0 0;width:200px;}
 #search-form table {width:100%;margin:0 0 0 0;}
 #search-form td.search-box {padding-right:30px;}
@@ -728,26 +728,26 @@ div#FollowByEmail1{background:transparent;}
 .FollowByEmail .follow-by-email-inner input {}
 
 /* CSS Follow us */
-.vienna-socials-icons ul{margin:0;padding:0;list-style:none;margin-bottom:-5px;margin-right:-5px;overflow:hidden}
-.vienna-socials-icons ul li:before{display:none}
-.vienna-socials-icons ul li{margin:0;padding:0;list-style:none;float:left;width:48px;height:48px;line-height:48px;text-align:center;background:#00baff;font-size:21px;margin-right:5px;margin-bottom:5px}
-.secondary-sidebar .vienna-socials-icons ul li{width:36px;height:36px}
-.secondary-sidebar .vienna-socials-icons ul li a{line-height:45px}
-.secondary-sidebar .vienna-socials-icons ul li a i{font-size:20px}
-.vienna-socials-icons ul li a{line-height:45px;display:block;color:#fff}
-.vienna-socials-icons ul li a:hover{color:#fff}
-.vienna-socials-icons ul li.home{background:#83868a}
-.vienna-socials-icons ul li.facebook{background:#516ca4}
-.vienna-socials-icons ul li.googleplus{background:#f20000}
-.vienna-socials-icons ul li.rss{background:#f29400}
-.vienna-socials-icons ul li.youtube{background:#f20000}
-.vienna-socials-icons ul li.dribbble{background:#dc71a6}
-.vienna-socials-icons ul li.deviantart{background:#4c5e51}
-.vienna-socials-icons ul li.pinterest{background:#f20000}
-.vienna-socials-icons ul li.instgram{background:#406f94}
-.vienna-socials-icons ul li.tumblr{background:#395875}
-.vienna-socials-icons ul li.linkedin{background:#1985bc}
-.vienna-socials-icons ul li.soundcloud{background:#f60}
+.milaku-socials-icons ul{margin:0;padding:0;list-style:none;margin-bottom:-5px;margin-right:-5px;overflow:hidden}
+.milaku-socials-icons ul li:before{display:none}
+.milaku-socials-icons ul li{margin:0;padding:0;list-style:none;float:left;width:48px;height:48px;line-height:48px;text-align:center;background:#00baff;font-size:21px;margin-right:5px;margin-bottom:5px}
+.secondary-sidebar .milaku-socials-icons ul li{width:36px;height:36px}
+.secondary-sidebar .milaku-socials-icons ul li a{line-height:45px}
+.secondary-sidebar .milaku-socials-icons ul li a i{font-size:20px}
+.milaku-socials-icons ul li a{line-height:45px;display:block;color:#fff}
+.milaku-socials-icons ul li a:hover{color:#fff}
+.milaku-socials-icons ul li.home{background:#83868a}
+.milaku-socials-icons ul li.facebook{background:#516ca4}
+.milaku-socials-icons ul li.googleplus{background:#f20000}
+.milaku-socials-icons ul li.rss{background:#f29400}
+.milaku-socials-icons ul li.youtube{background:#f20000}
+.milaku-socials-icons ul li.dribbble{background:#dc71a6}
+.milaku-socials-icons ul li.deviantart{background:#4c5e51}
+.milaku-socials-icons ul li.pinterest{background:#f20000}
+.milaku-socials-icons ul li.instgram{background:#406f94}
+.milaku-socials-icons ul li.tumblr{background:#395875}
+.milaku-socials-icons ul li.linkedin{background:#1985bc}
+.milaku-socials-icons ul li.soundcloud{background:#f60}
 
 /* CSS Page Navigation */
 .pagenav {background-color:transparent;clear:both;margin:-5px 0 10px;margin-top:10px;padding:15px;text-align:left;font-size:13px;font-weight:400;}
@@ -764,8 +764,8 @@ div#FollowByEmail1{background:transparent;}
 #outer-wrapper {margin:0 auto;}
 .header-right {float:right;padding:0;overflow:hidden;margin:0;}
 .header-right img {display:block;}
-.vienna-socials-icons ul li{margin:auto;width:44px;height:44px;line-height:44px;}
-.viennatop-wrapper {margin-left:initial;margin-right:initial;border-top:4px solid #fcfcfc;}}
+.milaku-socials-icons ul li{margin:auto;width:44px;height:44px;line-height:44px;}
+.milakutop-wrapper {margin-left:initial;margin-right:initial;border-top:4px solid #fcfcfc;}}
 @media screen and (max-width:960px) {
 #outer-wrapper {margin:0 auto;border:none;box-shadow:none;}
 #header h1,#header p,#header,.header-right,#header .description{margin:0 auto;width:100%;float:none;text-align:center;}
@@ -773,7 +773,7 @@ div#FollowByEmail1{background:transparent;}
 .header-right img, .header-right iframe{margin:0 auto;max-width:100%;}
 #header-wrapper{padding:0;margin:20px auto;}
 .header-wrapper2 {padding:0}
-.viennatop-wrapper {position:relative;z-index:96;overflow:hidden;margin:0;}
+.milakutop-wrapper {position:relative;z-index:96;overflow:hidden;margin:0;}
 .vitop-wrapper{padding:0;}
 .header-wrapper2 {padding:0}
 a.virightcredit-social {margin:10px 5px 0 5px;}
@@ -787,7 +787,7 @@ a.virightcredit-social {margin:10px 5px 0 5px;}
 .sidebar-inner, .post-inner {padding:15px 0 0px;}
 .vileftcredit,#virightcredit {float:none;text-align:center;margin:10px auto;}
 .Profile .profile-datablock {display:inline;float:left;}
-.viennatop-wrapper {margin:0;}
+.milakutop-wrapper {margin:0;}
 .vitop-wrapper {margin:0;}
 .top-menunav {display:block;width:100%;padding:0}
 .top-menunav ul {text-align:center;}
@@ -801,18 +801,18 @@ a.virightcredit-social {margin:10px 5px 0 5px;}
 .top-menunav ul li:first-child a {margin-left:0;}
 .nav {float:none;width:100%;max-width:100%}
 .active {display:block;}
-.vienna-mainmenu &gt; li &gt; a.active {background:#2b2b2b;border-top:4px solid #4db2ec;}
-.vienna-mainmenu &gt; li &gt; a.active:hover {background:#282b2f;}
+.milaku-mainmenu &gt; li &gt; a.active {background:#2b2b2b;border-top:4px solid #4db2ec;}
+.milaku-mainmenu &gt; li &gt; a.active:hover {background:#282b2f;}
 #search-form {width:100%;margin:0 0 0 0!important;}
 .nav li ul:before {display:none;}
 .nav &gt; li {float:none;overflow:hidden;}
 .nav ul {display:block;width:100%;float:none;}
-.vienna-mainmenu li ul {background:#f6f6f6;box-shadow:none;}
-.vienna-mainmenu li ul li a{background:#f0f0f0;}
-.vienna-mainmenu li li a:hover {background:#4db2ec;}
+.milaku-mainmenu li ul {background:#f6f6f6;box-shadow:none;}
+.milaku-mainmenu li ul li a{background:#f0f0f0;}
+.milaku-mainmenu li li a:hover {background:#4db2ec;}
 .nav &gt; li.hover &gt; ul , .nav li li.hover ul {position:static;}
-.vienna-mainmenu li .parent:after,.vienna-mainmenu li ul li .parent:after {content: &quot;\f0d7&quot;;font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-right:5px;float:right;color:#999;}
-.vienna-mainmenu li:active .parent:after,.vienna-mainmenu li ul li:active .parent:after {color:#c5cbd0;}
+.milaku-mainmenu li .parent:after,.milaku-mainmenu li ul li .parent:after {content: &quot;\f0d7&quot;;font-family:FontAwesome;font-style:normal;font-weight:normal;text-decoration:inherit;padding-right:5px;float:right;color:#999;}
+.milaku-mainmenu li:active .parent:after,.milaku-mainmenu li ul li:active .parent:after {color:#c5cbd0;}
 #search-form {width:100%;background:#42494f;}
 #search-form td.search-box {padding:0 10px!important;}
 #search-form td.search-button {padding:0 10px;width:1%;}
@@ -830,7 +830,7 @@ a.virightcredit-social {margin:10px 5px 0 5px;}
 #menu {display:block;}}
 
 @media only screen and (max-width:640px){
-.viennatop-wrapper {margin:auto;}
+.milakutop-wrapper {margin:auto;}
 #header h1,#header p,#header,.header-right,#header .description{margin:0 auto;width:100%;float:none;text-align:center;}
 .header-right{float:none;margin:0 auto;text-align:center;}
 .header-right img, .header-right iframe{float:none;margin:0 auto;text-align:center;}
@@ -942,7 +942,7 @@ body{padding:0}
 .post {background:#fff;margin:0 0 15px;padding:15px;border:none;}
 h1.post-title {border-bottom:none;}
 .post blockquote{background:transparent;color:#666;border:none;}
-.viennatop-wrapper,#nav,.share-post,#SmoothToTop,#search,.breadcrumbs,.halaman,#blog-pager,.banner,#banner,.banner2,#banner2,#sidebar-wrapper,#virelated-post,#comments,#footer-wrapper,#header-wrapper,div#banner,div#banner2,.vienna-mainmenu{opacity:0;display:none;visibility:hidden;width:0;height:0;}
+.milakutop-wrapper,#nav,.share-post,#SmoothToTop,#search,.breadcrumbs,.halaman,#blog-pager,.banner,#banner,.banner2,#banner2,#sidebar-wrapper,#virelated-post,#comments,#footer-wrapper,#header-wrapper,div#banner,div#banner2,.milaku-mainmenu{opacity:0;display:none;visibility:hidden;width:0;height:0;}
 .status-msg-border{border:none;}}
 </style>
 </b:if>
@@ -989,14 +989,14 @@ div#HTML13,div#HTML14,div#HTML70,div#HTML71,div#HTML72,div#HTML73,div#HTML74,div
 .special-heading h2 {font-size:20px;margin:6px 0 25px 0;}
 .recent-post-title h2 a,.recent-post-title h2 a:hover {color:#fff;}
 .recent-post-title h2 span{display:inline-block;padding:2px 12px 0;background-color:#2b2b2b;color:#fff}
-.viennabox {float:left;width:50%;margin:0;}
-.viennabox .widget {padding:0 15px 15px 0;}
-.viennabox .widget-content {background:#fff;}
-.viennabox ul {list-style-type:none;margin:0;padding:0;}
-.viennabox1 {float:left;width:98%;margin:0;}
-.viennabox1 .widget {padding:0 0px 15px 0;}
-.viennabox1 .widget-content {background:#fff;}
-.viennabox1  ul {list-style-type:none;margin:0;padding:0;}
+.milakubox {float:left;width:50%;margin:0;}
+.milakubox .widget {padding:0 15px 15px 0;}
+.milakubox .widget-content {background:#fff;}
+.milakubox ul {list-style-type:none;margin:0;padding:0;}
+.milakubox1 {float:left;width:98%;margin:0;}
+.milakubox1 .widget {padding:0 0px 15px 0;}
+.milakubox1 .widget-content {background:#fff;}
+.milakubox1  ul {list-style-type:none;margin:0;padding:0;}
 ul.arlinathumbs {margin:0;}
 ul.arlinathumbs li {font-size:12px;min-height:68px;margin:0 0 8px;padding:0 0 8px;border-bottom:1px dotted #e5e5e5;}
 ul.arlinathumbs .arlinathumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
@@ -1104,7 +1104,7 @@ h2.post-title, h1.post-title, h2.post-title a, h1.post-title a, h2.post-title, h
 .post .label-info {left:10px;top:10px;}}
 
 @media only screen and (max-width:568px){
-ul.arlinathumbs1,.viennabox {width:100%;float:none;}
+ul.arlinathumbs1,.milakubox {width:100%;float:none;}
 ul.arlinathumbs22 {margin-top:20px;width:100%;float:none;}}
 
 @media only screen and (max-width:480px){
@@ -1192,7 +1192,7 @@ function arlina_thumbnail_resize(e,t){var n=350;var r=210;image_tag='<img width=
 <script type='text/javascript'>
 //<![CDATA[
 // Featured Source
-var _0xbe12 = ["https://sites.google.com/site/fdblogsite/Home/nothumbnail.gif", "5", "<", "split", "length", ">", "indexOf", "substring", "", "join", "random", "floor", "entry", "feed", "term", "category", "$t", "title", "link", "rel", "alternate", "href", "replies", "type", "text/html", " ", "content", "summary", "published", "<img", 'src="', '"', "substr", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "-", '<div class="main-post col-post"><div class="date"><p><span>', '</span></p></div><a href="', '"><img width="', '" height="', '" src="', "/s72-c/", "/w", "-h", "-c/", "replace", '" alt=""></img><div class="info"><div class="box-title"><h3><span class="box-label">', '</span><a href="', '" title="">', "</a></h3></div></div></a></div>", "write", '<div class="secondary-post col-post"><a href="', '"></img><div class="info"><div class="box-title"><h3><span class="box-label">', "onload", "arlinacredit", "getElementById", "location", "https://www.arlinadzgn.com/", "https://www.arlinadzgn.com/", "setAttribute", "nofollow", "innerHTML", "Arlina Design"];
+var _0xbe12 = ["https://sites.google.com/site/fdblogsite/Home/nothumbnail.gif", "5", "<", "split", "length", ">", "indexOf", "substring", "", "join", "random", "floor", "entry", "feed", "term", "category", "$t", "title", "link", "rel", "alternate", "href", "replies", "type", "text/html", " ", "content", "summary", "published", "<img", 'src="', '"', "substr", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "-", '<div class="main-post col-post"><div class="date"><p><span>', '</span></p></div><a href="', '"><img width="', '" height="', '" src="', "/s72-c/", "/w", "-h", "-c/", "replace", '" alt=""></img><div class="info"><div class="box-title"><h3><span class="box-label">', '</span><a href="', '" title="">', "</a></h3></div></div></a></div>", "write", '<div class="secondary-post col-post"><a href="', '"></img><div class="info"><div class="box-title"><h3><span class="box-label">', "onload", "merdesacredit", "getElementById", "location", "https://merdesa.id/", "https://merdesa.id/", "setAttribute", "nofollow", "innerHTML", "merdesa"];
 imgr = new Array;
 imgr[0] = _0xbe12[0];
 showRandomImg = true;
@@ -1367,7 +1367,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
   </div>
   </b:if>
 <div id='outer-wrapper'>
-<div class='viennatop-wrapper'>
+<div class='milakutop-wrapper'>
   <header class='header-wrapper2'>
   <div class='vitop-wrapper'>
           <nav class='top-menunav'>
@@ -1509,7 +1509,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 
 <nav id='nav' itemscope='itemscope' itemtype='https://schema.org/SiteNavigationElement' role='navigation'>
 <a class='menu-slide' href='#'><i class='fa fa-list'/> Menu</a>
-<ul class='nav vienna-mainmenu'>
+<ul class='nav milaku-mainmenu'>
 <li><a class='active' href='/'><span itemprop='name'><i class='fa fa-home'/> Home</span></a></li>
 <li><a href='https://www.keuangandesa.info/search/label/Berita?max-results=6' itemprop='url'><span itemprop='name'>Berita</span></a>
 <!--<ul>
@@ -1640,9 +1640,9 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 <div id='post-wrapper'>
 <div id='mag-wrapper'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
-<b:section class='viennabox1 section' id='viennabox-1' showaddelement='yes'/>
-<b:section class='viennabox section' id='viennabox-2' showaddelement='yes'/>
-<b:section class='viennabox section' id='viennabox-3' showaddelement='yes'/>
+<b:section class='milakubox1 section' id='milakubox-1' showaddelement='yes'/>
+<b:section class='milakubox section' id='milakubox-2' showaddelement='yes'/>
+<b:section class='milakubox section' id='milakubox-3' showaddelement='yes'/>
 </b:if>
 </div>
 <div class='clear'/>
@@ -2933,13 +2933,13 @@ $(document).ready(function(){$(".pl").click(function(){$("#share-menu").slideTog
       }
     })();
 window.onload = function () {
-	var e = document.getElementById("arlinacredit");
+	var e = document.getElementById("merdesacredit");
 	if (e == null) {
-		window.location.href = "https://arlinadesign.blogspot.com"
+		window.location.href = "https://merdesa.id"
 	}
-	e.setAttribute("href", "https://arlinadesign.blogspot.com/");
+	e.setAttribute("href", "https://merdesa.id/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "Arlina Design"
+	e.innerHTML = "merdesa"
 }
 // ]]>
   </script>
@@ -2984,9 +2984,9 @@ window.onload = function () {
 </div>
 <div id='mag-wrapper2'>
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
-<b:section class='viennabox1 section' id='viennabox-4' showaddelement='yes'/>
-<b:section class='viennabox section' id='viennabox-5' showaddelement='yes'/>
-<b:section class='viennabox section' id='viennabox-6' showaddelement='yes'/>
+<b:section class='milakubox1 section' id='milakubox-4' showaddelement='yes'/>
+<b:section class='milakubox section' id='milakubox-5' showaddelement='yes'/>
+<b:section class='milakubox section' id='milakubox-6' showaddelement='yes'/>
 </b:if>
 </div>
 <div class='clear'/>
@@ -3002,7 +3002,7 @@ window.onload = function () {
       <b:includable id='main'>
   <b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if>
   <div class='widget-content'>
-<div class='vienna-socials-icons mom-socials-widget'>
+<div class='milaku-socials-icons mom-socials-widget'>
     <ul>
         <li class='facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/></a></li>
 <!--        <li class='twitter'><a href='#' rel='nofollow' target='_blank' title='Follow us on Twitter'><i class='fa fa-twitter'/></a></li>-->
@@ -3497,7 +3497,7 @@ function arlinacomments(a){var e;e=&#39;&lt;ul class=&quot;arlinacomments&quot;&
 <span class='copy-left'>&#169;</span><span> Copyleft</span> 2015 - <span id='current-year'/> <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='https://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> 
 </div>
 <div id='virightcredit'>
-Design by <a href='https://arlinadesign.blogspot.com' id='arlinacredit' rel='nofollow' target='_blank'>Arlina Design</a>
+Desain oleh: <a href='https://merdesa.id' id='merdesacredit' rel='nofollow' target='_blank'>merdesa</a>
 </div>
 </div>
 </footer>
