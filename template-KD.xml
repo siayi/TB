@@ -1481,6 +1481,19 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
   </b:section>
   <b:section class='header-right section' id='header-right' maxwidgets='1' showaddelement='yes'>
     <b:widget id='HTML3' locked='false' title='' type='HTML' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- KeuanganDesa970x90 --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-9795094804647022&quot;
+     data-ad-slot=&quot;4547866990&quot;
+     data-ad-format=&quot;auto&quot;
+     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;</b:widget-setting>
+      </b:widget-settings>
       <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -1611,19 +1624,6 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 </b:if>
 <b:section class='banner section' id='banner' maxwidgets='1' showaddelement='yes'>
   <b:widget id='HTML5' locked='false' title='' type='HTML'>
-    <b:widget-settings>
-      <b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- KeuanganDesa970x90 --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-9795094804647022&quot;
-     data-ad-slot=&quot;4547866990&quot;
-     data-ad-format=&quot;auto&quot;
-     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;</b:widget-setting>
-    </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
