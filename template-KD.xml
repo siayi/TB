@@ -1611,6 +1611,19 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 </b:if>
 <b:section class='banner section' id='banner' maxwidgets='1' showaddelement='yes'>
   <b:widget id='HTML5' locked='false' title='' type='HTML'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- KeuanganDesa970x90 --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-9795094804647022&quot;
+     data-ad-slot=&quot;4547866990&quot;
+     data-ad-format=&quot;auto&quot;
+     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;</b:widget-setting>
+    </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
   <b:if cond='data:title != &quot;&quot;'>
@@ -3143,7 +3156,34 @@ function merdesacomments(a){var e;e=&#39;&lt;ul class=&quot;merdesacomments&quot
 </div>
 <div class='clear'/>
 
-<b:section class='banner2 section' id='banner2' maxwidgets='1' showaddelement='yes'/>
+<b:section class='banner2 section' id='banner2' maxwidgets='1' showaddelement='yes'>
+  <b:widget id='HTML6' locked='false' title='' type='HTML'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- KeuanganDesa970x90 --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-9795094804647022&quot;
+     data-ad-slot=&quot;4547866990&quot;
+     data-ad-format=&quot;auto&quot;
+     data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
+</b:section>
 <div class='clear'/>
 
 <footer id='footer-wrapper' itemscope='itemscope' itemtype='https://schema.org/WPFooter' role='contentinfo'>
