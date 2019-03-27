@@ -1379,7 +1379,7 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
               <li><a href='https://www.keuangandesa.info/p/kontak-kami.html' title='Contact us'><i class='fa fa-envelope'/> Kontak Kami</a></li>
               <li><a href='https://www.keuangandesa.info/p/blog-page.html' title='Disclaimer'><i class='fa fa-check-circle'/> Disclaimer</a></li>
 <li class='doremi join'><a href='#' rel='nofollow' target='_blank' title='Join Our Site'><i class='fa fa-plus'/><span class='inv'/></a></li>
-<li class='doremi gplus'><a href='#' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/><span class='inv'/></a></li>
+<!--<li class='doremi gplus'><a href='#' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/><span class='inv'/></a></li>-->
 <li class='doremi facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/><span class='inv'/></a></li>
 <li class='doremi instagram'><a href='https://www.instagram.com/ayi_sumarna/' rel='nofollow' target='_blank' title='Follow us on instagram'><i class='fa fa-instagram'/><span class='inv'/></a></li>
 <li class='doremi twitter'><a href='https://twitter.com/siayi' rel='nofollow' target='_blank' title='Follow us on Twitter'><i class='fa fa-twitter'/><span class='inv'/></a></li>
@@ -2240,7 +2240,7 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 				<div id='share-buttons-mobile'>
 				<p>Share : </p>
 				<a expr:href='&quot;https://www.facebook.com/sharer.php?u=&quot; + data:blog.url' rel='nofollow' style='background:#3b5998;'>Facebook</a>
-				<a expr:href='&quot;https://plus.google.com/share?url=&quot; + data:blog.url' rel='nofollow' style='background:#c0361a;'>Google+</a>
+<!--				<a expr:href='&quot;https://plus.google.com/share?url=&quot; + data:blog.url' rel='nofollow' style='background:#c0361a;'>Google+</a> -->
 				<a expr:href='&quot;https://twitter.com/intent/tweet?url=&quot; + data:blog.url + &quot;&amp;text=&quot; + data:post.title + &quot;&amp;lang=id&quot;' rel='nofollow' style='background:#4099ff;'>Twitter</a>
 				<div class='clear'/>
 				</div>
@@ -2505,8 +2505,6 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
 //<![CDATA[
 var siteurl = window.location.href;
   document.write('<div class="sharethis"><div class="share"> \
-<a class="gp" href="https://plus.google.com/share?url=' + siteurl + '" target="_blank" title="Share to Google+">\
-    <i class="fa fa-google-plus gotea"></i> Google</a> \
 <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=' + siteurl + '" target="_blank" title="Share to Facebook">\
     <i class="fa fa-facebook fbtea"></i> Facebook</a> \
 <a class="tw" href="https://twitter.com/intent/tweet?text='+encodeURIComponent(document.title)+'&url='+siteurl+'" target="_blank" title="Share to Twitter">\
@@ -2941,7 +2939,7 @@ window.onload = function () {
     <ul>
         <li class='facebook'><a href='https://www.facebook.com/groups/904449652996506/' rel='nofollow' target='_blank' title='Bergabung di Grup Facebook'><i class='fa fa-facebook'/></a></li>
 <!--        <li class='twitter'><a href='#' rel='nofollow' target='_blank' title='Follow us on Twitter'><i class='fa fa-twitter'/></a></li>-->
-        <li class='googleplus'><a href='https://plus.google.com/101626814972305934686' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/></a></li>
+<!--        <li class='googleplus'><a href='https://plus.google.com/101626814972305934686' rel='nofollow' target='_blank' title='Follow us on Google+'><i class='fa fa-google-plus'/></a></li>-->
 <!--        <li class='rss'><a href='#' rel='nofollow' target='_blank' title='Follow us on RSS'><i class='fa fa-rss '/></a></li> -->
         <li class='youtube'><a href='https://www.youtube.com/playlist?list=PLvJQhSmsOpvkBhfdL0n4QI6QglLUAMaeP' rel='nofollow' target='_blank' title='Follow us on Youtube'><i class='fa fa-youtube '/></a></li>
 <!--        <li class='dribbble'><a href='#' rel='nofollow' target='_blank' title='Follow us on Dribble'><i class='fa fa-dribbble '/></a></li>
