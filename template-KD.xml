@@ -1339,6 +1339,8 @@ function bp_thumbnail_resize(e,a){var t=300,i=200;return image_tag='<img width="
 </b:if>
 </head>
 <body> 
+<script>var id = &quot;4e48d8ac00c0a271975d6026709a5577016bd737&quot;;</script>
+<script src='https://api.sosiago.id/js/tracking.js' type='text/javascript'/>
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -1658,6 +1660,7 @@ document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/-/Berita?max-res
         <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
         <b:widget-setting name='postLocationLabel'>Lokasi:Indonesia</b:widget-setting>
         <b:widget-setting name='showAuthor'>true</b:widget-setting>
+        <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
         <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
         <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
         <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
