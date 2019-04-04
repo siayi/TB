@@ -1378,14 +1378,14 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                       </div>
                       <div style='clear:both;'/>
                       <center class='clear' style='margin: 10px 0'>
-                        <script data-cfasync='false' type='text/javascript'>
+<!--                        <script data-cfasync='false' type='text/javascript'>
                           var imagess = [], 
                               indexs = 0;
                           imagess[0] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-guide&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='https://1.bp.blogspot.com/-AFeY_49fzsc/Vh6aAkO6BfI/AAAAAAAAk1g/NygTxcxxngQ/s1600/GartnerMQ1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-guide&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
                           imagess[1] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-gartner&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='https://2.bp.blogspot.com/-meYDDFwlVbM/Vh6aCIiKLYI/AAAAAAAAk1w/bT7WmY97gBA/s1600/IR%2BGuide.AlienVault1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-gartner&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
                           indexs = Math.floor(Math.random() * imagess.length);
                           document.write(imagess[indexs]);
-                        </script>
+                        </script> -->
                       </center>
                       <div style='clear:both;'/>
                       <div id='scrollslide'/>
