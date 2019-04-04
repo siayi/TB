@@ -981,8 +981,8 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
             <div class='social-buttons'>
               <div class='social2'>
-                <div class='socialbut'>
- <!--                 <a href='https://plus.google.com/106221484218626533988'>
+ <!--                <div class='socialbut'>
+                 <a href='https://plus.google.com/106221484218626533988'>
                     <i class='fa fa-google-plus' style='background: #DB4437; cursor: pointer;width: 35px;height: 35px; color: #fff; text-align: center;line-height: 37px;font-size: 18px;margin-bottom: 5px;-webkit-box-shadow: 3px 3px 0px #EEE; -moz-box-shadow: 3px 3px 0px #EEE; box-shadow: 3px 3px 0px #EEE;' title='Google'/>
                   </a>
                   <br/>
