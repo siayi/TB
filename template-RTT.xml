@@ -60,9 +60,9 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
     <!--[if lt IE 9]><script async='async' defer='defer' src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
     &lt;style type=&quot;text/css&quot;&gt;
     &lt;!-- /*
-    <b:skin>
-      <![CDATA[*/]]>
-    </b:skin>
+    <b:skin><![CDATA[
+      */
+    ]]></b:skin>
     <style type='text/css'>
       html, body, div, span, applet, object, iframe,
       h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -1040,7 +1040,10 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                 //]]>
               </script>
               <b:section class='main clear' id='main'>
-                <b:widget id='HTML1' locked='true' title='?????? (Header)' type='HTML' version='1' visible='true'>
+                <b:widget id='HTML1' locked='true' title='?????? (Header)' type='HTML' version='1'>
+                  <b:widget-settings>
+                    <b:widget-setting name='content'>-</b:widget-setting>
+                  </b:widget-settings>
                   <b:includable id='main'>
                   </b:includable>
                   <b:includable id='description'>
@@ -1062,7 +1065,29 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                     </b:if>
                   </b:includable>
                 </b:widget>
-                <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1' visible='true'>
+                <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'>
+                  <b:widget-settings>
+                    <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+                    <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+                    <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+                    <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+                    <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+                    <b:widget-setting name='showAuthor'>true</b:widget-setting>
+                    <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
+                    <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+                    <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                    <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+                    <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                    <b:widget-setting name='showLabels'>true</b:widget-setting>
+                    <b:widget-setting name='showLocation'>true</b:widget-setting>
+                    <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+                    <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+                    <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                    <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                    <b:widget-setting name='showReactions'>false</b:widget-setting>
+                  </b:widget-settings>
                   <b:includable id='main' var='top'>
                     <b:if cond='data:blog.pageType == &quot;index&quot;'>
                       <b:if cond='!data:mobile'>
@@ -1356,7 +1381,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                         <script data-cfasync='false' type='text/javascript'>
                           var imagess = [], 
                               indexs = 0;
-                          imagess[0] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-guide&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='#LINK-GBR-XXX' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-guide&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
+                          imagess[0] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-guide&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='http://1.bp.blogspot.com/-AFeY_49fzsc/Vh6aAkO6BfI/AAAAAAAAk1g/NygTxcxxngQ/s1600/GartnerMQ1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-guide&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
                           imagess[1] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-gartner&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='http://2.bp.blogspot.com/-meYDDFwlVbM/Vh6aCIiKLYI/AAAAAAAAk1w/bT7WmY97gBA/s1600/IR%2BGuide.AlienVault1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-gartner&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
                           indexs = Math.floor(Math.random() * imagess.length);
                           document.write(imagess[indexs]);
@@ -1412,14 +1437,14 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </b:if>
           </b:if>
         </b:includable>
-        <b:includable id='backlinkDeleteIcon' var='backlink'>
+                  <b:includable id='backlinkDeleteIcon' var='backlink'>
           <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
             <a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'>
               <img src='//www.blogger.com/img/icon_delete13.gif'/>
             </a>
           </span>
         </b:includable>
-        <b:includable id='backlinks' var='post'>
+                  <b:includable id='backlinks' var='post'>
           <a name='links'/>
           <h4>
             <data:post.backlinksLabel/>
@@ -1460,7 +1485,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </a>
           </p>
         </b:includable>
-        <b:includable id='comment-form' var='post'>
+                  <b:includable id='comment-form' var='post'>
           <div class='comment-form'>
             <a name='comment-form'/>
             <b:if cond='data:mobile'>
@@ -1493,7 +1518,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </script>
           </div>
         </b:includable>
-        <b:includable id='commentDeleteIcon' var='comment'>
+                  <b:includable id='commentDeleteIcon' var='comment'>
           <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
             <b:if cond='data:showCmtPopup'>
               <div class='goog-toggle-button'>
@@ -1506,7 +1531,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </b:if>
           </span>
         </b:includable>
-        <b:includable id='comment_count_picker' var='post'>
+                  <b:includable id='comment_count_picker' var='post'>
           <b:if cond='data:post.commentSource == 1'>
             <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-post-url='data:post.url' expr:data-url='data:post.url.canonical.http'>
             </span>
@@ -1517,7 +1542,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </a>
           </b:if>
         </b:includable>
-        <b:includable id='comment_picker' var='post'>
+                  <b:includable id='comment_picker' var='post'>
           <b:if cond='data:post.commentSource == 1'>
             <b:include data='post' name='iframe_comments'/>
             <b:elseif cond='data:post.showThreadedComments'/>
@@ -1526,7 +1551,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             <b:include data='post' name='comments'/>
           </b:if>
         </b:includable>
-        <b:includable id='comments' var='post'>
+                  <b:includable id='comments' var='post'>
           <div class='comments' id='comments'>
             <a name='comments'/>
             <b:if cond='data:post.allowComments'>
@@ -1647,7 +1672,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </div>
         </b:includable>
-        <b:includable id='feedLinks'>
+                  <b:includable id='feedLinks'>
           <b:if cond='data:blog.pageType != &quot;item&quot;'>
             <!-- Blog feed links -->
             <b:if cond='data:feedLinks'>
@@ -1664,7 +1689,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </b:if>
         </b:includable>
-        <b:includable id='feedLinksBody' var='links'>
+                  <b:includable id='feedLinksBody' var='links'>
           <div class='feed-links'>
             <data:feedLinksMsg/>
             <b:loop values='data:links' var='f'>
@@ -1677,7 +1702,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </b:loop>
           </div>
         </b:includable>
-        <b:includable id='iframe_comments' var='post'>
+                  <b:includable id='iframe_comments' var='post'>
           <b:if cond='data:post.allowIframeComments'>
             <script expr:src='data:post.iframeCommentSrc' type='text/javascript'/>
             <div class='cmt_iframe_holder' expr:data-href='data:post.url.canonical' expr:data-viewtype='data:post.viewType'/>
@@ -1688,7 +1713,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </b:if>
           </b:if>
         </b:includable>
-        <b:includable id='mobile-index-post' var='post'>
+                  <b:includable id='mobile-index-post' var='post'>
           <div class='mobile-date-outer date-outer'>
             <b:if cond='data:post.dateHeader'>
               <div class='date-header'>
@@ -1727,7 +1752,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </div>
         </b:includable>
-        <b:includable id='mobile-main' var='top'>
+                  <b:includable id='mobile-main' var='top'>
           <!-- posts -->
           <div class='blog-posts hfeed'>
             <b:include data='top' name='status-message'/>
@@ -1743,7 +1768,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
           </div>
           <b:include name='mobile-nextprev'/>
         </b:includable>
-        <b:includable id='mobile-nextprev'>
+                  <b:includable id='mobile-nextprev'>
           <center style='padding:10px 0'>
             <center>
               <ins class='adsbygoogle' data-ad-client='ca-pub-xxxxxx' data-ad-slot='2220408710' data-adsbygoogle-status='done' style='display:inline-block;width:728px;height:90px'>
@@ -1781,7 +1806,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
           </div>
           <div class='clear'/>
         </b:includable>
-        <b:includable id='mobile-post' var='post'>
+                  <b:includable id='mobile-post' var='post'>
           <div class='date-outer'>
             <b:if cond='data:post.dateHeader'>
               <h2 class='date-header'>
@@ -1882,7 +1907,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </div>
         </b:includable>
-        <b:includable id='nextprev'>
+                  <b:includable id='nextprev'>
           <center style='padding:10px 0'>
             <center>
               <ins class='adsbygoogle' data-ad-client='ca-pub-xxxxxx' data-ad-slot='2220408710' data-adsbygoogle-status='done' style='display:inline-block;width:728px;height:90px'>
@@ -1917,7 +1942,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
           </div>
           <div class='clear'/>
         </b:includable>
-        <b:includable id='post' var='post'>
+                  <b:includable id='post' var='post'>
           <div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
             <b:if cond='data:post.firstImageUrl'>
               <meta expr:content='data:post.firstImageUrl' itemprop='image_url'/>
@@ -2078,7 +2103,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </div>
         </b:includable>
-        <b:includable id='postQuickEdit' var='post'>
+                  <b:includable id='postQuickEdit' var='post'>
           <b:if cond='data:post.editUrl'>
             <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
               <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
@@ -2087,7 +2112,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </span>
           </b:if>
         </b:includable>
-        <b:includable id='shareButtons' var='post'>
+                  <b:includable id='shareButtons' var='post'>
           <b:if cond='data:top.showEmailButton'>
             <a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'>
               <span class='share-button-link-text'>
@@ -2129,7 +2154,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </b:if>
         </b:includable>
-        <b:includable id='status-message'>
+                  <b:includable id='status-message'>
           <b:if cond='data:navMessage'>
             <div class='status-msg-wrap'>
               <div class='status-msg-body'>
@@ -2146,7 +2171,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             <div style='clear: both;'/>
           </b:if>
         </b:includable>
-        <b:includable id='threaded-comment-form' var='post'>
+                  <b:includable id='threaded-comment-form' var='post'>
           <div class='comment-form'>
             <a name='comment-form'/>
             <b:if cond='data:mobile'>
@@ -2171,7 +2196,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </script>
           </div>
         </b:includable>
-        <b:includable id='threaded_comment_js' var='post'>
+                  <b:includable id='threaded_comment_js' var='post'>
           <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
           <script type='text/javascript'>
             (function() {
@@ -2342,7 +2367,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             // ]]>
           </script>
         </b:includable>
-        <b:includable id='threaded_comments' var='post'>
+                  <b:includable id='threaded_comments' var='post'>
           <div class='comments' id='comments'>
             <a name='comments'/>
             <h4>
@@ -2375,13 +2400,13 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </div>
           </div>
         </b:includable>
-      </b:widget>
-    </b:section>
+                </b:widget>
+              </b:section>
   </section>
   <div id='rsidebar-wrapper'>
     <div id='widget'>
       <b:section class='sidebar' id='sidebarright'>
-        <b:widget id='HTML6' locked='false' title='' type='HTML' version='1' visible='true'>
+        <b:widget id='HTML6' locked='false' title='' type='HTML' version='1'>
           <b:includable id='main'>
             <!-- only display title if it's non-empty -->
             <b:if cond='data:title != &quot;&quot;'>
@@ -2416,7 +2441,13 @@ document.write(images[index]);
 ]]>
           </b:includable>
         </b:widget>
-        <b:widget id='PopularPosts1' locked='false' title='Entri Populer' type='PopularPosts' version='1' visible='true'>
+        <b:widget id='PopularPosts1' locked='false' title='Entri Populer' type='PopularPosts' version='1'>
+          <b:widget-settings>
+            <b:widget-setting name='numItemsToShow'>3</b:widget-setting>
+            <b:widget-setting name='showThumbnails'>false</b:widget-setting>
+            <b:widget-setting name='showSnippets'>false</b:widget-setting>
+            <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+          </b:widget-settings>
           <b:includable id='main'>
             <h2>
               <i class='fa fa-bolt'/>
