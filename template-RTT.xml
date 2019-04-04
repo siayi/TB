@@ -2700,7 +2700,7 @@ document.write(images[index]);
                 }]
             }
   </script>
-  <script type='text/javascript'>
+<!--  <script type='text/javascript'>
     //<![CDATA[
     head.ready("jqueryfile", function() {
       head.load({sharecode: "//w.sharethis.com/button/buttons.js"});
@@ -2728,7 +2728,7 @@ document.write(images[index]);
       });
     });
     //]]>
-  </script>
+  </script> -->
   <div class='clear module' id='sub'>
     <div id='close-fb' style='float: right; padding: 5px; cursor: pointer; display: block; position: absolute; top: 0; right: 0; background: #F6F7F8; z-index: 99; color: #234F93;'>
       <i class='fa fa-times-circle'/>
