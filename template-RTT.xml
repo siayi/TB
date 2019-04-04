@@ -946,7 +946,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
       .low-menu li a{text-decoration: none; margin: 0 12px 0 0; display: -moz-inline-stack; display: inline-block;color:#FFE6E6;float: left;}
       .separator a { margin-right: 0!important; }
     </style>
-    <script src='//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=1613a3a185/cloudflare/rocket.js' type='text/javascript'/>
+    <script src='//ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js' data-cf-settings="1cef246522523fd88911b465-|49" defer="" type='text/javascript'/>
   </head>
   <body>
     <!--
