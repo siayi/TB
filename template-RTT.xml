@@ -1292,9 +1292,9 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                           <data:post.body/>
                         </div>
                       </div>
-                      <script data-cfasync='false'>
+<!--                      <script data-cfasync='false'>
                         function aaFunction(){var n=document.getElementById(&quot;aim14689443513994287358&quot;),e=document.getElementById(&quot;aim24689443513994287358&quot;),s=document.getElementById(&quot;aim34689443513994287358&quot;),r=e.innerHTML,t=r.search(/\x3C!-- adsense --\x3E/gim);if(t&gt;0){n.innerHTML=r.substr(0,t);var i=e.innerHTML=r.substr(t+16),a=i.search(/\x3C!-- linkads --\x3E/gim);if(a&gt;0)e.innerHTML=i.substr(0,a),s.innerHTML=i.substr(a+16);else{var u=i.length,m=u/2,b=i.substr(0,m),c=i.substr(m),d=c.search(&quot;&lt;br&gt;&quot;),H=c.substr(0,d),L=c.substr(d);e.innerHTML=b+H,s.innerHTML=L}}}aaFunction();
-                      </script>
+                      </script> -->
                       <div class='clear' style='clear:both;'/>
                       <p>
                         <a class='firebox' href='#' style='text-decoration: underline; font-weight: bold; color: #4CAF50; '>
