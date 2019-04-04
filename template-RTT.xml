@@ -37,7 +37,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
     <link href='https://www.ridetriptravel.com/favicon.ico' rel='shortcut icon' type='image/x-icon'/>
     <link href='https://www.ridetriptravel.com/feeds/posts/default' rel='alternate' title='Ride Trip Travel - Atom' type='application/atom+xml'/>
     <link href='https://www.ridetriptravel.com/feeds/posts/default?alt=rss' rel='alternate' title='Ride Trip Travel - RSS' type='application/rss+xml'/>
-    <link href='https://plus.google.com/xxxxx' rel='publisher'/>
+<!--    <link href='https://plus.google.com/xxxxx' rel='publisher'/> -->
     <meta content='en_US' property='og:locale'/>
     <meta content='xxxxx' property='fb:admins'/>
     <meta content='xxxxx' property='fb:app_id'/>
@@ -1321,7 +1321,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                       </div>
                       <!-- Handle multipl authors -->
                       <b:if cond='data:post.author == &quot;Etor Madiv&quot;'>
-                        <link href='https://plus.google.com/u/0/106221484218626533988/posts' rel='author'/>
+<!--                        <link href='https://plus.google.com/u/0/106221484218626533988/posts' rel='author'/> -->
                         <meta content='https://www.facebook.com/Desa.Wisata.Ciburial.Bandung/' property='article:author'/>
                         <meta content='@' name='twitter:creator'/>
                         <meta content='RideTripTravel' name='author'/>
@@ -1346,9 +1346,9 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                               <a class='a-social a-tw' href='https://twitter.com/#' itemprop='sameAs' target='_blank'>
                                 <i class='fa fa-twitter-square'/>
                               </a>
-                              <a class='a-social a-gp' href='https://plus.google.com/u/0/117737334151656853779?rel=author' itemprop='url sameAs' rel='author' target='_blank'>
+<!--                              <a class='a-social a-gp' href='https://plus.google.com/u/0/117737334151656853779?rel=author' itemprop='url sameAs' rel='author' target='_blank'>
                                 <i class='fa fa-google-plus-square'/>
-                              </a>
+                              </a> -->
                               <a class='a-social a-email' href='mailto:etormadiv@gmail.com' itemprop='email sameAs' target='_blank'>
                                 <i class='fa fa-envelope-o'/>
                               </a>
@@ -2688,7 +2688,6 @@ document.write(images[index]);
               &quot;url&quot; : &quot;https://xxxxxx.com&quot;,
               &quot;sameAs&quot; : [ &quot;https://www.facebook.com/xxxxxx&quot;,
                 &quot;https://www.twitter.com/xxxxxx&quot;,
-                &quot;https://plus.google.com/xxxxxx&quot;,
                 &quot;https://instagram.com/xxxxxx&quot;,
                 &quot;https://www.youtube.com/c/xxxxxx&quot;,
                 &quot;https://www.pinterest.com/xxxxxx/&quot;,
