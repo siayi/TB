@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html itemscope='itemscope' itemtype='http://schema.org/NewsArticle' lang='en-US' prefix='og: http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html itemscope='itemscope' itemtype='https://schema.org/NewsArticle' lang='en-US' prefix='og: https://ogp.me/ns#' xmlns='https://www.w3.org/1999/xhtml' xmlns:b='https://www.google.com/2005/gml/b' xmlns:data='https://www.google.com/2005/gml/data' xmlns:expr='https://www.google.com/2005/gml/expr'>
   <head>
     <meta charset='UTF-8'/>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'/>
@@ -33,10 +33,10 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
     </title>
     <meta content='Ride Trip Travel leading source of information ride trip travel, trip planner, travel packages,traveling' name='description'/>
     <link href='https://plus.google.com/106221484218626533988/posts' rel='author'/>
-    <link href='http://www.ridetriptravel.com/' rel='canonical'/>
+    <link href='https://www.ridetriptravel.com/' rel='canonical'/>
     <link href='https://www.ridetriptravel.com/favicon.ico' rel='shortcut icon' type='image/x-icon'/>
-    <link href='http://www.ridetriptravel.com/feeds/posts/default' rel='alternate' title='Ride Trip Travel - Atom' type='application/atom+xml'/>
-    <link href='http://www.ridetriptravel.com/feeds/posts/default?alt=rss' rel='alternate' title='Ride Trip Travel - RSS' type='application/rss+xml'/>
+    <link href='https://www.ridetriptravel.com/feeds/posts/default' rel='alternate' title='Ride Trip Travel - Atom' type='application/atom+xml'/>
+    <link href='https://www.ridetriptravel.com/feeds/posts/default?alt=rss' rel='alternate' title='Ride Trip Travel - RSS' type='application/rss+xml'/>
     <link href='https://plus.google.com/xxxxx' rel='publisher'/>
     <meta content='en_US' property='og:locale'/>
     <meta content='xxxxx' property='fb:admins'/>
@@ -47,7 +47,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
     <meta content='photo' name='twitter:card'/>
     <meta content='@desaciburial' name='twitter:site'/>
     <meta content='website' property='og:type'/>
-    <meta content='http://www.ridetriptravel.com/' property='og:url'/>
+    <meta content='https://www.ridetriptravel.com/' property='og:url'/>
     <meta content='Ride Trip Travel' property='og:title'/>
     <meta content='Ride Trip Travel Information About trip planner,travel packages,traveling' property='og:description'/>
     <meta content='Ride Trip Travel' name='author'/>
@@ -158,7 +158,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
       .PopularPosts .item-thumbnail{}
       #___plusone_0{width:90px!important}
       .discovery-post h3{font-weight: bold!important;color: #3d5a99!important;}
-      .addthis-content-row { margin-left: 0!important; padding: 0 20px!important;margin-bottom:0!important;background: url(http://4.bp.blogspot.com/-qlsWgHn6olk/UxirVopU1bI/AAAAAAAAaeI/a2ft3MmB980/s1600/hackernews.jpg) no-repeat left;border-bottom: #EEE 1px solid;}
+      .addthis-content-row { margin-left: 0!important; padding: 0 20px!important;margin-bottom:0!important;background: url(https://4.bp.blogspot.com/-qlsWgHn6olk/UxirVopU1bI/AAAAAAAAaeI/a2ft3MmB980/s1600/hackernews.jpg) no-repeat left;border-bottom: #EEE 1px solid;}
       div.addthis-content-footer {display: none!important;}
       .blog-pager-older-link-mobile {padding: 8px 11px; margin: 5px 20px 5px 5px; float: right; background:#3D5A99;; border: solid #DDDDDD 1px;}
       .blog-pager-newer-link-mobile {padding: 8px 11px; margin: 5px 5px 5px 20px; float: left; background:#3D5A99;; border: solid #DDDDDD 1px;}
@@ -249,7 +249,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
         .posttitle{font-size: 16px; line-height: 20px; text-align: left;font-weight: 600;}
         .latestposts{border-bottom: 1px dashed #DDDDDD; float: left; list-style: none outside none; margin: 0 10px 0 0; padding: 10px 10px 10px 0; overflow: hidden; width:100%; text-align: left; line-height: 22px; color: #626161;}
         #mobilelikebox {border-bottom: 5px solid #dddddd; margin: 0 0 5px 0}
-        .join-newsletter .text { padding: 0.6em;color: #888888; float: left; margin: 0 5px; transition: all 0.25s linear 0s; width: 155px;background: #fff url(http://4.bp.blogspot.com/-RF7l6VT-bRU/U7UqwckqyJI/AAAAAAAAcQs/PhtyO5vbaFU/s1600/email.jpg) no-repeat center right;}
+        .join-newsletter .text { padding: 0.6em;color: #888888; float: left; margin: 0 5px; transition: all 0.25s linear 0s; width: 155px;background: #fff url(https://4.bp.blogspot.com/-RF7l6VT-bRU/U7UqwckqyJI/AAAAAAAAcQs/PhtyO5vbaFU/s1600/email.jpg) no-repeat center right;}
         .join-newsletter h2 {font-size: 18px!important; line-height: 30px; margin:3px!important;color:#8F8F8F;float:left;}
         .join-newsletter .newsletter_signup {cursor: pointer; background: #2E75C0; border: 0; padding: 8px 16px; height: 34px; font-size: 15px; color: #FFF;}
         .thc-image{display:none!important}
@@ -297,7 +297,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
         .latestposts{border-bottom: 1px dashed #DDDDDD; float: left; list-style: none outside none; margin: 0 10px 0 0; padding: 10px 10px 10px 0; overflow: hidden; width: 340px; text-align: left; line-height: 22px; color: #626161;}
         #mobilelikebox {border-bottom: 5px solid #dddddd; margin: 0 0 5px 0;}
         .postcontent{font-size: 14px;}
-        .join-newsletter .text {padding: 0.6em;color: #888888; float: left; margin: 0 5px; transition: all 0.25s linear 0s; width: 220px;background: #fff url(http://4.bp.blogspot.com/-RF7l6VT-bRU/U7UqwckqyJI/AAAAAAAAcQs/PhtyO5vbaFU/s1600/email.jpg) no-repeat center right;}
+        .join-newsletter .text {padding: 0.6em;color: #888888; float: left; margin: 0 5px; transition: all 0.25s linear 0s; width: 220px;background: #fff url(https://4.bp.blogspot.com/-RF7l6VT-bRU/U7UqwckqyJI/AAAAAAAAcQs/PhtyO5vbaFU/s1600/email.jpg) no-repeat center right;}
         .join-newsletter .newsletter_signup {cursor: pointer; background: #2E75C0; border: 0; padding: 8px 16px; height: 34px; font-size: 15px; color: #FFF;}
         .join-newsletter h2 {font-size: 22px; line-height: 30px; margin:3px!important;color:#8F8F8F;float:left;}
         .thc-image{display:none!important}
@@ -503,7 +503,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
         .latestposts{border-bottom: 1px dashed #DDDDDD; float: left; list-style: none outside none; margin: 0 10px 0 0; padding: 10px 10px 10px 0; overflow: hidden; width: 340px; text-align: left; line-height: 22px; color: #626161;}
         #mobilelikebox {display:none;}
         .postcontent{font-size: 14px;}
-        .join-newsletter .text {padding: 0.6em;color: #888888; float: left; margin: 0 5px; transition: all 0.25s linear 0s; width: 220px;background: #fff url(http://4.bp.blogspot.com/-RF7l6VT-bRU/U7UqwckqyJI/AAAAAAAAcQs/PhtyO5vbaFU/s1600/email.jpg) no-repeat center right;}
+        .join-newsletter .text {padding: 0.6em;color: #888888; float: left; margin: 0 5px; transition: all 0.25s linear 0s; width: 220px;background: #fff url(https://4.bp.blogspot.com/-RF7l6VT-bRU/U7UqwckqyJI/AAAAAAAAcQs/PhtyO5vbaFU/s1600/email.jpg) no-repeat center right;}
         .join-newsletter .newsletter_signup { cursor: pointer; background: #2E75C0; border: 0; padding: 8px 16px; height: 34px; font-size: 15px; color: #FFF;}
         .join-newsletter h2 {font-size: 24px; line-height: 30px; margin:3px!important;color:#8F8F8F;float:left;}
         .solar-below{margin-bottom:20px;clear:both;display:block}
@@ -755,7 +755,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
       ul.w2bajaxmenu ul.postslist li .imgCont{position: absolute;left: 0;top:8px;width: 100px;height: 60px;overflow: hidden;border:1px solid #dcdcdc;font-size: 0;line-height: 0;}
       ul.w2bajaxmenu ul.postslist li .imgCont img{position: relative;top:-20px;padding: 0;width: 100px;height: 100px;display: block;}
       ul.w2bajaxmenu ul.postslist li a{font-weight: bold;display: block;line-height: 1.4;padding: 0 !important;border-right:none;}
-      ul.w2bajaxmenu .loader{background:url(&#39;http://www.treppreitcafe.com/images/loading.gif&#39;) no-repeat scroll 0 0 transparent;width:22px;height:22px;position: absolute;top:50%;margin-top: -11px;right:5px;}
+      ul.w2bajaxmenu .loader{background:url(&#39;https://www.treppreitcafe.com/images/loading.gif&#39;) no-repeat scroll 0 0 transparent;width:22px;height:22px;position: absolute;top:50%;margin-top: -11px;right:5px;}
       ul.w2bajaxmenu .menuArrow {border-bottom: 4px solid transparent;border-top: 4px solid transparent;border-left: 4px solid #999999;display: block;height: 0;margin-top: -4px;position: absolute;right: 11px;top: 50%;width: 0;}
       #w2bajaxmenu {background:#3C5A98;color:#fff !important}
       ul.verticlemenu li a.hoverover{color:#3C5A98 !important;}
@@ -804,7 +804,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
         width: 80%;
         perspective-origin: 169px 18.5px;
         transform-origin: 169px 18.5px;
-        background: rgb(255, 255, 255) url(http://1.bp.blogspot.com/-zU3kJ8HpoiY/VGDsRlWp0CI/AAAAAAAAg74/EsjtBQhAqVc/s1600/icon-email.png) no-repeat scroll 8px 50% / auto padding-box border-box;
+        background: rgb(255, 255, 255) url(https://1.bp.blogspot.com/-zU3kJ8HpoiY/VGDsRlWp0CI/AAAAAAAAg74/EsjtBQhAqVc/s1600/icon-email.png) no-repeat scroll 8px 50% / auto padding-box border-box;
         border: 1px solid rgb(227, 227, 227);
         border-radius: 1px 1px 1px 1px;
         font: normal normal 100 normal 13px/normal Helvetica, Arial, sans-serif;
@@ -1207,7 +1207,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                                 <span style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;position:relative;margin:3px 3px 0;padding:0px;font-size:11px;line-height:0px;vertical-align:bottom;overflow:visible;'>
                                   <div class='fb-like fb_iframe_widget' data-action='' data-href='#2016/03/fake-facebook-account.html' data-layout='button_count' data-send='false' data-show-faces='false' fb-iframe-plugin-query='app_id=280117418781535&amp;container_width=0&amp;href=http%3A%2F%2Fwww.ridetriptravel.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' fb-xfbml-state='rendered'>
                                     <span style='vertical-align: bottom; width: 85px; height: 20px;'>
-                                      <iframe allowfullscreen='true' allowtransparency='true' class='' frameborder='0' height='1000px' name='f3afdf6893d614' scrolling='no' src='http://www.facebook.com/v2.0/plugins/like.php?app_id=280117418781535&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3cbe7cd7ff9278%26domain%3Dwww.ridetriptravel.com%26origin%3Dhttp%253A%252F%252Fwww.ridetriptravel.com%252Ff189f06eff1918%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fwww.ridetriptravel.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' style='border: none; visibility: visible; width: 85px; height: 20px;' title='fb:like Facebook Social Plugin' width='1000px'/>
+                                      <iframe allowfullscreen='true' allowtransparency='true' class='' frameborder='0' height='1000px' name='f3afdf6893d614' scrolling='no' src='https://www.facebook.com/v2.0/plugins/like.php?app_id=280117418781535&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3cbe7cd7ff9278%26domain%3Dwww.ridetriptravel.com%26origin%3Dhttp%253A%252F%252Fwww.ridetriptravel.com%252Ff189f06eff1918%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fwww.ridetriptravel.com%2F2016%2F03%2Ffake-facebook-account.html&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false' style='border: none; visibility: visible; width: 85px; height: 20px;' title='fb:like Facebook Social Plugin' width='1000px'/>
                                     </span>
                                   </div>
                                 </span>
@@ -1215,7 +1215,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                               <span class='st_facebook_hcount' displaytext='Facebook' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'>
                                 <span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'>
                                   <span>
-                                    <span class='stMainServices st-facebook-counter' style='background-image: url(&quot;http://w.sharethis.com/images/facebook_counter.png&quot;);'>
+                                    <span class='stMainServices st-facebook-counter' style='background-image: url(&quot;https://w.sharethis.com/images/facebook_counter.png&quot;);'>
                                       &amp;nbsp;
                                     </span>
                                     <span class='stArrow'>
@@ -1231,7 +1231,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                               <span class='st_twitter_hcount' displaytext='Tweet' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html' st_via='TheHackersNews #Security'>
                                 <span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'>
                                   <span>
-                                    <span class='stMainServices st-twitter-counter' style='background-image: url(&quot;http://w.sharethis.com/images/twitter_counter.png&quot;);'>
+                                    <span class='stMainServices st-twitter-counter' style='background-image: url(&quot;https://w.sharethis.com/images/twitter_counter.png&quot;);'>
                                       &amp;nbsp;
                                     </span>
                                     <span class='stArrow'>
@@ -1247,7 +1247,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                               <span class='st_linkedin_hcount' displaytext='LinkedIn' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'>
                                 <span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'>
                                   <span>
-                                    <span class='stMainServices st-linkedin-counter' style='background-image: url(&quot;http://w.sharethis.com/images/linkedin_counter.png&quot;);'>
+                                    <span class='stMainServices st-linkedin-counter' style='background-image: url(&quot;https://w.sharethis.com/images/linkedin_counter.png&quot;);'>
                                       &amp;nbsp;
                                     </span>
                                     <span class='stArrow'>
@@ -1263,7 +1263,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                               <span class='st_sharethis_hcount' st_processed='yes' st_title='Facebook&apos;s latest feature Alerts You if Someone Impersonates Your Profile' st_url='#2016/03/fake-facebook-account.html'>
                                 <span class='stButton' style='text-decoration:none;color:#000000;display:inline-block;cursor:pointer;'>
                                   <span>
-                                    <span class='stMainServices st-sharethis-counter2' style='background-image: url(&quot;http://w.sharethis.com/images/sharethis_counter2.png&quot;);'>
+                                    <span class='stMainServices st-sharethis-counter2' style='background-image: url(&quot;https://w.sharethis.com/images/sharethis_counter2.png&quot;);'>
                                       &amp;nbsp;
                                     </span>
                                     <span class='stArrow'>
@@ -1325,7 +1325,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                         <meta content='https://www.facebook.com/Desa.Wisata.Ciburial.Bandung/' property='article:author'/>
                         <meta content='@' name='twitter:creator'/>
                         <meta content='RideTripTravel' name='author'/>
-                        <address class='author-info clear' id='author-info' itemprop='author creator' itemscope='' itemtype='http://schema.org/Person'>
+                        <address class='author-info clear' id='author-info' itemprop='author creator' itemscope='' itemtype='https://schema.org/Person'>
                           <div class='author-info-pic'>
                             <a href='#' itemprop='url' rel='author'>
                               <figure class='author-img'>
@@ -1381,8 +1381,8 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                         <script data-cfasync='false' type='text/javascript'>
                           var imagess = [], 
                               indexs = 0;
-                          imagess[0] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-guide&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='http://1.bp.blogspot.com/-AFeY_49fzsc/Vh6aAkO6BfI/AAAAAAAAk1g/NygTxcxxngQ/s1600/GartnerMQ1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-guide&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
-                          imagess[1] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-gartner&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='http://2.bp.blogspot.com/-meYDDFwlVbM/Vh6aCIiKLYI/AAAAAAAAk1w/bT7WmY97gBA/s1600/IR%2BGuide.AlienVault1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-gartner&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
+                          imagess[0] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-guide&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='https://1.bp.blogspot.com/-AFeY_49fzsc/Vh6aAkO6BfI/AAAAAAAAk1g/NygTxcxxngQ/s1600/GartnerMQ1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-guide&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
+                          imagess[1] = &quot;<a href='#' onClick='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;click-gartner&apos;, undefined, undefined, true]);' rel='nofollow' target='_blank'><img alt='AlienVault' data-src='https://2.bp.blogspot.com/-meYDDFwlVbM/Vh6aCIiKLYI/AAAAAAAAk1w/bT7WmY97gBA/s1600/IR%2BGuide.AlienVault1.png' onload='_gaq.push([&apos;_trackEvent&apos;, &apos;AV728&apos;, &apos;impression-gartner&apos;, undefined, undefined, true]);' src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'/></a>&quot;;
                           indexs = Math.floor(Math.random() * imagess.length);
                           document.write(imagess[indexs]);
                         </script>
@@ -1405,7 +1405,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                         </div>
                         <div style='position: absolute; top: -10000px; height: 0px; width: 0px;'>
                           <div>
-                            <iframe allowfullscreen='true' allowtransparency='true' aria-hidden='true' frameborder='0' id='fb_xdm_frame_http' name='fb_xdm_frame_http' scrolling='no' src='http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f189f06eff1918&amp;origin=http%3A%2F%2Fwww.ridetriptravel.com' style='border: none;' tabindex='-1' title='Facebook Cross Domain Communication Frame'/>
+                            <iframe allowfullscreen='true' allowtransparency='true' aria-hidden='true' frameborder='0' id='fb_xdm_frame_http' name='fb_xdm_frame_http' scrolling='no' src='https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f189f06eff1918&amp;origin=http%3A%2F%2Fwww.ridetriptravel.com' style='border: none;' tabindex='-1' title='Facebook Cross Domain Communication Frame'/>
                             <iframe allowfullscreen='true' allowtransparency='true' aria-hidden='true' frameborder='0' id='fb_xdm_frame_https' name='fb_xdm_frame_https' scrolling='no' src='https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f189f06eff1918&amp;origin=http%3A%2F%2Fwww.ridetriptravel.com' style='border: none;' tabindex='-1' title='Facebook Cross Domain Communication Frame'/>
                           </div>
                         </div>
@@ -1817,7 +1817,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             </b:if>
             <div class='date-posts'>
               <div class='post-outer'>
-                <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+                <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
                   <b:if cond='data:post.thumbnailUrl'>
                     <meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/>
                   </b:if>
@@ -1852,7 +1852,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                       <span class='post-author vcard'>
                         <b:if cond='data:top.showAuthor'>
                           <b:if cond='data:post.authorProfileUrl'>
-                            <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                            <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
                               <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
                               <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
                                 <span itemprop='name'>
@@ -1861,7 +1861,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                               </a>
                             </span>
                             <b:else/>
-                            <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                            <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
                               <span itemprop='name'>
                                 <data:post.author/>
                               </span>
@@ -1943,7 +1943,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
           <div class='clear'/>
         </b:includable>
                   <b:includable id='post' var='post'>
-          <div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+          <div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
             <b:if cond='data:post.firstImageUrl'>
               <meta expr:content='data:post.firstImageUrl' itemprop='image_url'/>
             </b:if>
@@ -1983,7 +1983,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                   <b:if cond='data:top.showAuthor'>
                     <data:top.authorLabel/>
                     <b:if cond='data:post.authorProfileUrl'>
-                      <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
                         <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
                         <a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
                           <span itemprop='name'>
@@ -1992,7 +1992,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                         </a>
                       </span>
                       <b:else/>
-                      <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
                         <span itemprop='name'>
                           <data:post.author/>
                         </span>
@@ -2084,7 +2084,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
                 </span>
               </div>
               <b:if cond='data:post.authorAboutMe'>
-                <div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                <div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
                   <b:if cond='data:post.authorPhoto.url'>
                     <img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/>
                   </b:if>
@@ -2425,8 +2425,8 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <script type="text/javascript" data-cfasync='false'>
 var images = [], 
 index = 0;
-images[0] = "<a href = 'http://ow.ly/WRWXX' rel='nofollow' target='_blank' onClick='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;click-guide&#039;, undefined, undefined, true]);'><img src='http://1.bp.blogspot.com/-d4yzYKpCniE/Vh6aBcSlv0I/AAAAAAAAk1o/mm25DrNAFaA/s1600/IR%2BGuide.AlienVault.png' alt='AlienVault' onload='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;impression-guide&#039;, undefined, undefined, true]);'/></a>";
-images[1] = "<a href = 'http://ow.ly/WRWZF' rel='nofollow' target='_blank' onClick='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;click-gartner&#039;, undefined, undefined, true]);'><img src='http://1.bp.blogspot.com/-DpsxitXQnZo/Vh6aAv7S0dI/AAAAAAAAk1c/lzbKd0Xtys0/s1600/GartnerMQ.png' alt='AlienVault' onload='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;impression-gartner&#039;, undefined, undefined, true]);'/></a>";
+images[0] = "<a href = 'https://ow.ly/WRWXX' rel='nofollow' target='_blank' onClick='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;click-guide&#039;, undefined, undefined, true]);'><img src='https://1.bp.blogspot.com/-d4yzYKpCniE/Vh6aBcSlv0I/AAAAAAAAk1o/mm25DrNAFaA/s1600/IR%2BGuide.AlienVault.png' alt='AlienVault' onload='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;impression-guide&#039;, undefined, undefined, true]);'/></a>";
+images[1] = "<a href = 'https://ow.ly/WRWZF' rel='nofollow' target='_blank' onClick='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;click-gartner&#039;, undefined, undefined, true]);'><img src='https://1.bp.blogspot.com/-DpsxitXQnZo/Vh6aAv7S0dI/AAAAAAAAk1c/lzbKd0Xtys0/s1600/GartnerMQ.png' alt='AlienVault' onload='_gaq.push([&#039;_trackEvent&#039;, &#039;AV300&#039;, &#039;impression-gartner&#039;, undefined, undefined, true]);'/></a>";
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
 </script>
@@ -2681,16 +2681,16 @@ document.write(images[index]);
     //]]>
   </script>
   <script type='application/ld+json'>
-            { &quot;@context&quot;: &quot;http://schema.org&quot;,
+            { &quot;@context&quot;: &quot;https://schema.org&quot;,
               &quot;@type&quot;: &quot;Organization&quot;,
               &quot;name&quot; : &quot;The Hacker News&quot;,
               &quot;logo&quot; : &quot;######&quot;,
-              &quot;url&quot; : &quot;http://xxxxxx.com&quot;,
-              &quot;sameAs&quot; : [ &quot;http://www.facebook.com/xxxxxx&quot;,
+              &quot;url&quot; : &quot;https://xxxxxx.com&quot;,
+              &quot;sameAs&quot; : [ &quot;https://www.facebook.com/xxxxxx&quot;,
                 &quot;https://www.twitter.com/xxxxxx&quot;,
                 &quot;https://plus.google.com/xxxxxx&quot;,
                 &quot;https://instagram.com/xxxxxx&quot;,
-                &quot;http://www.youtube.com/c/xxxxxx&quot;,
+                &quot;https://www.youtube.com/c/xxxxxx&quot;,
                 &quot;https://www.pinterest.com/xxxxxx/&quot;,
                 &quot;https://www.linkedin.com/company/xxxxxx&quot;],
               &quot;contactPoint&quot; : [{
@@ -2745,7 +2745,7 @@ document.write(images[index]);
 </div>
 <div class='modal-body'>
 <p>Want Knowledgeable Articles and News to Your <span style='background: #FF9;padding: 0 5px;'>Inbox every Morning?</span> We&#39;ll keep you up to date with latest Trends in Ride Trip Travel. Subscribe to The Ride Trip Travel Newsletter and eBook Updates.</p>
-<form action='http://i.nl02.net/rssnews0001/' class='clear' method='post' name='f1' target='_blank'>
+<form action='https://i.nl02.net/rssnews0001/' class='clear' method='post' name='f1' target='_blank'>
 <input name='_submit' type='hidden' value='0001'/>
 <input id='brand' name='brand' type='hidden' value='ridetriptravel'/>
 <div style='display:none;'><input checked='yes' id='opt_001' name='opt_001' type='checkbox' value='Y'/><input checked='yes' id='opt_003' name='opt_003' type='checkbox' value='Y'/></div>
